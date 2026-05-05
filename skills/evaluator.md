@@ -8,15 +8,18 @@ You are a **ruthlessly honest quality evaluator** for an Indian B2B marketplace 
 
 | # | Section | What to Penalize |
 |---|---------|-----------------|
-| 1 | **Overview & Product Identity** | Vague descriptions, no product context, missing IS/BIS standards |
-| 2 | **Technical Specifications** | No tables, missing dimensions/grades/variants, generic statements |
-| 3 | **Pricing Intelligence** | No ₹ prices, no MOQ, no GST mention, no regional variance |
-| 4 | **Brand Landscape** | No brand names, no comparison, no market share context |
-| 5 | **Buyer Demand Patterns** | No call data insights, no buyer personas, no common questions |
-| 6 | **Applications & Use Cases** | Generic list, no industry-specific guidance, no project examples |
-| 7 | **Supplier & Manufacturing** | No supplier info, no origin/location data |
-| 8 | **Compliance & Certifications** | Missing IS codes, BIS certification details, quality marks |
-| 9 | **Citations & Traceability** | Missing inline citations [call X.json] or [pdf Y.json] on data points |
+| 1 | **Quick Facts** | Missing category path, definitions, trade scale, or incomplete fields |
+| 2 | **Category Overview** | Vague supply chain info, no adjacent categories context |
+| 3 | **Seller-Side Specifications** | Missing canonical names, no units, missing data types/values |
+| 4 | **Buyer Specifications** | No mapping of must-have vs nice-to-have, no quantity expression context |
+| 5 | **Most Relevant Spec Combinations** | Generic combinations without specific clustering rules or profiles |
+| 6 | **Spec Contradictions & Flags** | Missing flags for copy-pasted or impossible specs |
+| 7 | **Price-Defining Specs & Variation** | No ranked order, no price multiplier ranges, missing volume discount points |
+| 8 | **Buyer Personas** | Generic personas without context of RFQ styles or omission habits |
+| 9 | **Seller Personas** | Missing data quality risks or extraction difficulty flags |
+| 10 | **Listing Spec Tiers** | Ambiguous classification of Primary/Secondary/Tertiary |
+| 11 | **Glossary** | Missing domain jargon, abbreviations not defined |
+| 12 | **Citations & Traceability** | Missing inline citations [call X.json] or [pdf Y.json] on data points |
 
 Score each section 1–10. Any section with vague/hallucinated claims gets max 5.
 
@@ -44,14 +47,17 @@ Respond ONLY with this XML block inside triple backticks:
 </overall_assessment>
 
 <section_scores>
-  <section name="Overview & Product Identity" score="X">reason in one line</section>
-  <section name="Technical Specifications" score="X">reason in one line</section>
-  <section name="Pricing Intelligence" score="X">reason in one line</section>
-  <section name="Brand Landscape" score="X">reason in one line</section>
-  <section name="Buyer Demand Patterns" score="X">reason in one line</section>
-  <section name="Applications & Use Cases" score="X">reason in one line</section>
-  <section name="Supplier & Manufacturing" score="X">reason in one line</section>
-  <section name="Compliance & Certifications" score="X">reason in one line</section>
+  <section name="Quick Facts" score="X">reason in one line</section>
+  <section name="Category Overview" score="X">reason in one line</section>
+  <section name="Seller-Side Specifications" score="X">reason in one line</section>
+  <section name="Buyer Specifications" score="X">reason in one line</section>
+  <section name="Most Relevant Spec Combinations" score="X">reason in one line</section>
+  <section name="Spec Contradictions & Flags" score="X">reason in one line</section>
+  <section name="Price-Defining Specs & Variation" score="X">reason in one line</section>
+  <section name="Buyer Personas" score="X">reason in one line</section>
+  <section name="Seller Personas" score="X">reason in one line</section>
+  <section name="Listing Spec Tiers" score="X">reason in one line</section>
+  <section name="Glossary" score="X">reason in one line</section>
   <section name="Citations & Traceability" score="X">reason in one line</section>
 </section_scores>
 

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer identified himself as a reseller ('resale'), asking for a customized e-rickshaw to be made into a 'food cart' for selling 'bakery items'. He also mentioned supplying to a client (Air Force) and compared prices with a competitor who has a 'franchise', indicating a business-to-business transaction despite the initial low quantity of one unit.",
+            "evidence": {
+                "keywords": [
+                    "resale",
+                    "food cart",
+                    "bakery items",
+                    "franchise"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "reseller",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=gMTxPSi77yot2MC7h2abyTI8eFMmxZOojob4Q0FGz8A 5vnMkIOb1Q4s1nIy74sieF9hojcyLoHjWt7BwjYGPEgIGuMyj6WEs2lP eV2ynFW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 290000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "delivery_charge": {
+                    "value": 0,
+                    "is_delivery_charge_included": false
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (customized for bakery/food cart)",
+            "specifications": [
+                {
+                    "name": "Motor Power",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Customization",
+                    "value": "Food Cart / Bakery Fabrication",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "RTO Registration",
+                    "value": "Included",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "E-Rickshaw Loader",
+                    "reason": "The customization of the e-rickshaw into a 'food cart' implies a loading and utility function, aligning it with the 'E-Rickshaw Loader' category."
+                },
+                {
+                    "name": "Electric Loader",
+                    "reason": "The product is an 'e-rickshaw' customized for a 'food cart', which serves a loading/utility purpose, thus fitting into the broader 'Electric Loader' category."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an 'e-rickshaw', which is fundamentally an 'Electric Three Wheeler'."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The conversation explicitly discusses 'e-rickshaw' and its customization for a commercial purpose, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To send a photo of the desired product/customization"
+        ],
+        "seller_next_steps": [
+            "To check for dealership in Gujarat",
+            "To quote the best resale price",
+            "To share product video"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Kuldeep",
+        "buyer_location": {
+            "buyer_city": "Rohtak",
+            "buyer_state": "Haryana"
+        },
+        "buyer_mobile_number": 7206112436
+    },
+    "seller_details": {
+        "seller_name": "Ayansh Industries",
+        "seller_mobile_number": 7988545200
+    }
+}

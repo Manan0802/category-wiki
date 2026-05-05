@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer initially states personal use but then discusses dealership terms, mentions he has a large circle and can refer friends, and requests a single piece for 'test' before potentially ordering more. The seller also explicitly discusses dealership rates and showrooms, confirming a B2B context for bulk purchases and potential reselling.",
+            "evidence": {
+                "keywords": [
+                    "personal use",
+                    "dealership",
+                    "one piece for test",
+                    "refer karta hu"
+                ],
+                "order_type": "trial",
+                "repeat_buyer": false,
+                "buyer_persona": "potential dealer/wholesaler",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=be062cb5-4d91-418e-a12e-8e7a5a1094ea"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 105000,
+                "currency": "INR",
+                "offer_details": "cash payment"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-rickshaw (Base model)",
+            "specifications": [
+                {
+                    "name": "Battery warranty",
+                    "unit": "months",
+                    "value": "6",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an 'E-rickshaw' and comes with a battery, indicating it is battery operated."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "An 'E-rickshaw' is often referred to as an electric auto rickshaw due to its function and form."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an 'E-rickshaw' which is an electric vehicle with three wheels."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly called 'E-rickshaw' which is a type of electric rickshaw. 'Three Wheeler' is a common classification for such vehicles."
+            }
+        },
+        {
+            "price": {
+                "value": 60000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-rickshaw (for Dealership)",
+            "specifications": [
+                {
+                    "name": "Exclusions",
+                    "value": "Battery & Charger",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 12
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an 'E-rickshaw' and is typically battery operated, although this specific offer excludes battery and charger."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "An 'E-rickshaw' is often referred to as an electric auto rickshaw due to its function and form."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an 'E-rickshaw' which is an electric vehicle with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly called 'E-rickshaw' which is a type of electric rickshaw. 'Three Wheeler' is a common classification for such vehicles."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "E-rickshaw (with Lithium Battery)",
+            "specifications": [
+                {
+                    "name": "Battery type",
+                    "value": "Lithium battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an 'E-rickshaw' and comes with a lithium battery, indicating it is battery operated."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "An 'E-rickshaw' is often referred to as an electric auto rickshaw due to its function and form."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an 'E-rickshaw' which is an electric vehicle with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly called 'E-rickshaw' which is a type of electric rickshaw. 'Three Wheeler' is a common classification for such vehicles."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To decide and inform the seller"
+        ],
+        "seller_next_steps": [
+            "To share showroom details if the buyer wants to visit"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Dr. Srinivas",
+        "buyer_location": {
+            "buyer_state": "Andhra Pradesh"
+        },
+        "buyer_mobile_number": 8331818423
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Kanpur",
+            "seller_state": "Uttar Pradesh",
+            "seller_locality": "Chhibramau, Kannauj"
+        }
+    }
+}

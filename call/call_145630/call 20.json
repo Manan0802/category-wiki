@@ -1,0 +1,251 @@
+{
+    "payment": {
+        "payment_mode": "cash"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about bulk pricing and dealer-related rates for electric rickshaws for commercial distribution/resale in Motihari, indicating a B2B transaction.",
+            "evidence": {
+                "keywords": [
+                    "Wholesaler",
+                    "On-road price",
+                    "Cash payment",
+                    "Specification"
+                ],
+                "order_type": "Commercial",
+                "repeat_buyer": true,
+                "buyer_persona": "Distributor",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=H3n3CBXJZfiKbcMYNojMt4abIalEuqtJ4CQrnrdx60JgjkKe9Gu1vmCsseXLdwCS76/jyydwVrWBU4PO7shQ/cEmiLhJsBM3Vniv1ay6MpoKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "in_stock": "in stock",
+            "product_name": "Yatri E-Rickshaw",
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is a standard battery-operated three-wheeled passenger vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Yatri E Rickshaw",
+                "reason": "The seller explicitly mentions 'Yatri' as one of the brands they deal in."
+            }
+        },
+        {
+            "price": {
+                "value": 118000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Jio Fine E-Rickshaw (4 Battery)",
+            "specifications": [
+                {
+                    "name": "Battery Quantity",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "It functions on a 4-battery system."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Jio Fine is a brand of electric rickshaw discussed for its battery variations."
+            }
+        },
+        {
+            "price": {
+                "value": 135000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Jio Fine E-Rickshaw (5 Battery)",
+            "specifications": [
+                {
+                    "name": "Battery Quantity",
+                    "value": "5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Discussed as a high-capacity battery variant of the Jio Fine rickshaw."
+            }
+        },
+        {
+            "price": {
+                "value": 127000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "42-inch E-Rickshaw (4 Battery)",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "unit": "inch",
+                    "value": "42",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Quantity",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "A specific size variant of the electric rickshaw requested by the buyer."
+            }
+        },
+        {
+            "price": {
+                "value": 142000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "42-inch E-Rickshaw (5 Battery)",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "unit": "inch",
+                    "value": "42",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Quantity",
+                    "value": "5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Discussed as the 5-battery version of the 42-inch chassis rickshaw."
+            }
+        },
+        {
+            "price": {
+                "value": 142000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "offer_details": "157000 On-road price"
+            },
+            "in_stock": "in stock",
+            "product_name": "42-inch E-Rickshaw (Lithium-ion)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium-ion",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Voltage",
+                    "unit": "V",
+                    "value": "51.4",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Capacity",
+                    "unit": "Ah",
+                    "value": "105",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Power",
+                    "unit": "Watt",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically asked for a lithium-ion battery variant with 42-inch specs."
+            }
+        },
+        {
+            "price": {
+                "value": 154000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "offer_details": "164000 On-road price"
+            },
+            "in_stock": "in stock",
+            "product_name": "60V E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Voltage",
+                    "unit": "V",
+                    "value": "60",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Capacity",
+                    "unit": "Ah",
+                    "value": "105",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "High voltage variant discussed for better performance."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To visit the showroom in Patna near Bairiya Bus Stand",
+            "To review the photos and specifications sent on WhatsApp"
+        ],
+        "seller_next_steps": [
+            "To share product photos and location on WhatsApp",
+            "To send detailed specifications for the 42-inch model"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Jeetendra"
+    },
+    "seller_details": {
+        "seller_name": "Sumit",
+        "seller_location": {
+            "seller_city": "Patna",
+            "seller_locality": "Bairiya Bus Stand"
+        },
+        "seller_mobile_number": 7783009474
+    }
+}

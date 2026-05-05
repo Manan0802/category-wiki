@@ -1,0 +1,106 @@
+{
+    "payment": {
+        "payment_details": "Finance options are available."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring about purchasing a single E-Rickshaw for personal commercial use (transportation) and is asking about financing and second-hand options.",
+            "evidence": {
+                "keywords": [
+                    "financing available",
+                    "100-120 km range",
+                    "second hand"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=aEAnQXWFRQYFJdAyJ5K7U4abIalEuqtJ4CQrnrdx60KFZyehD M3X9Vx4Rbs7XVieRFjhtghdddP2w5bw0v/jbo3TH/wxRW68gMP5deub7VW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 140000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Average Range",
+                    "unit": "km",
+                    "value": "100",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Price Starting From",
+                    "unit": "INR",
+                    "value": "140000",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically asks for an 'E-Rickshaw' and discusses its range and battery specifications."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Second Hand E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Condition",
+                    "value": "Good",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Second Hand and Used Electric Rickshaw",
+                "reason": "The buyer explicitly asks for a 'second hand' rickshaw in good condition."
+            }
+        },
+        {
+            "in_stock": "not sold",
+            "product_name": "Auto (E-Auto)",
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Auto Rickshaw",
+                "reason": "The buyer initially asks for an 'Auto' but the seller clarifies they only deal in E-Rickshaws."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To visit the showroom near ITS College, Ghaziabad",
+            "To check the vehicle condition in person"
+        ],
+        "seller_next_steps": [
+            "To share the location on WhatsApp",
+            "To have another representative call the buyer"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Jeetu",
+        "buyer_mobile_number": 9711966736
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Ghaziabad",
+            "seller_locality": "Mohan Nagar"
+        }
+    }
+}

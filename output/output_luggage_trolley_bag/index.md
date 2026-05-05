@@ -1,0 +1,330 @@
+# 📑 Category Index — Luggage Trolley Bag
+
+> Generated on 2026-04-24 04:59:18 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> A Luggage Trolley Bag is a foundational category in the travel goods sector, referring to any bag fitted with wheels and a retractable handle for easy mobility. These products are indispensable for…
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/luggage_trolley_bag.md](../items/luggage_trolley_bag.md)
+- **📋 Execution Logs:** [../logs/logs_luggage_trolley_bag.md](../logs/logs_luggage_trolley_bag.md)
+- **📖 Source References:** [../references/references_luggage_trolley_bag.md](../references/references_luggage_trolley_bag.md)
+- **🤔 Agent Doubts:** [../doubts/luggage_trolley_bag_doubts.md](../doubts/luggage_trolley_bag_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ (Typical)
+- - **1. Category Overview**
+- - **2. Product Types & Variants**
+-   - **2.1 Main Product Types**
+-     - **Hard-Shell Trolley Bags**
+-       - 🔹 [[Polypropylene|Polypropylene (PP)]] Trolley Bag
+-       - 🔹 [[Polycarbonate|Polycarbonate (PC)]] Trolley Bag
+-       - 🔹 [[ABS Plastic|ABS]] Trolley Bag
+-       - 🔹 [[Aluminium]] Trolley Bag
+-     - **Soft-Shell Trolley Bags**
+-       - 🔹 [[Polyester Fabric|Polyester]] Trolley Bags
+-       - 🔹 Fabric Trolley Bags
+-     - 🔹 Duffle Trolley Bags (Duffle on Wheels)
+-     - **Hybrid & Specialty Trolley Bags**
+-       - 🔹 Trolley Backpacks
+-       - 🔹 Laptop Overnighter Trolley
+-       - 🔹 Themed Trolley Bags
+-   - **2.2 Available Sizes & Configurations**
+-     - **Standard Size Classes (by inches)**
+-       - 🔹 Small / Cabin (approx. 15" - 22")
+-       - 🔹 Medium (approx. 23" - 26")
+-       - 🔹 Large (approx. 28" - 29")
+-     - **Standard Size Classes (by S/M/L)**
+-       - 🔹 Lane
+-       - 🔹 InFY
+-       - 🔹 Matrix
+-     - **Capacity & Weight**
+-       - 🔹 Capacity (Volume)
+-       - 🔹 Weight
+-     - **Configuration Options**
+-       - 🔹 Sets
+-       - 🔹 Expandability
+- - **3. Technical Specifications**
+-   - **3.1 Specifications Table**
+-     - 🔹 Shell Type
+-     - 🔹 Materials (Hard)
+-     - 🔹 Materials (Soft)
+-     - 🔹 Materials (Interior)
+-     - 🔹 Materials (Handle)
+-     - 🔹 Size (Nominal)
+-     - 🔹 Size (cm)
+-     - 🔹 Capacity (Volume)
+-     - 🔹 Weight (Net)
+-     - 🔹 Wheels
+-     - 🔹 Lock System
+-     - 🔹 Trolley System
+-     - 🔹 Key Features
+-     - 🔹 Zipper
+-     - 🔹 Warranty
+-     - 🔹 Custom Branding
+-     - 🔹 Packaging
+-   - **3.2 Specification Interdependencies**
+- - **4. Brands & Manufacturers**
+-   - **4.1 Brand Overview**
+-     - 🔹 Tier 1 (Premium / International)
+-     - 🔹 Tier 2 (Mid-Range / National Brands)
+-     - 🔹 Tier 3 (Wholesale / Value-Focused)
+-   - **4.2 Manufacturer & Supply Landscape**
+-     - 🔹 Manufacturers
+-     - 🔹 Supply Hubs
+-     - 🔹 Origin
+-     - 🔹 Sourcing Concerns
+- - **5. Pricing & Commercial Information**
+-   - **5.1 Price Overview**
+-     - 🔹 Trolley Bag Set (JC London)
+-     - 🔹 24" Trolley Bag
+-     - 🔹 20" Hard Case Trolley Bag
+-     - 🔹 Cabin Size Trolley Bag
+-     - 🔹 Safari
+-     - 🔹 SWIFTSECURE55RL (Small)
+-     - 🔹 SWIFTSECURE63RL (Medium)
+-     - 🔹 ASSEMBLY
+-     - 🔹 Hard-Shell Luggage
+-     - 🔹 Mokobara
+-     - 🔹 The Cabin / The Em Cabin Pro
+-     - 🔹 The Check-in Large
+-     - 🔹 Set of 3 Luggage
+-   - **5.2 Pricing Factors**
+-     - 🔹 Order Volume
+-     - 🔹 Brand Positioning
+-     - 🔹 Material & Components
+-     - 🔹 Features & Warranty
+-     - 🔹 Commercial Terms
+- - **6. Quality, Standards & Compliance**
+-   - **6.1 Applicable Standards**
+-     - 🔹 IS 8517 Air Travel Bags
+-     - 🔹 IS 12087 Specification for Suitcase for Air and Submarine Crew
+-     - 🔹 HSN Code
+-     - 🔹 Government Procurement Specs
+-   - **6.2 Certifications & Approvals**
+-     - 🔹 TSA-Approved Locks
+-     - 🔹 Design Awards
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Warranty
+-     - 🔸 Data Variance
+-     - 🔹 Durability Testing
+-     - 🔹 Component Brands & Features
+-     - 🔹 Material Specification
+-     - 🔹 Protective Features
+-   - **6.4 Compliance Requirements**
+- - **7. Applications & Use Cases**
+-   - **7.1 Industry Applications**
+-     - 🔹 Cabin Luggage / Business Travel
+-     - 🔹 Check-in Luggage / Leisure Travel
+-     - 🔹 Tech-Focused Travel
+-     - 🔹 Adventure/Casual Travel
+-     - 🔹 Themed / Youth Travel
+-     - 🔹 Corporate Gifting
+-     - 🔹 Wholesale & Retail
+- - **8. Supply Chain & Procurement**
+-   - **8.1 Ordering & MOQ**
+-     - 🔹 Minimum Order Quantity (MOQ)
+-     - 🔹 Order Quantities
+-     - 🔹 Stock Availability
+-     - 🔹 Companion Products
+-   - **8.2 Logistics & Handling**
+-     - 🔹 Packaging
+-     - 🔹 Delivery
+-   - **8.3 Storage**
+-     - 🔹 Nesting
+- - **9. Market Intelligence**
+-   - **Buyer & Seller Archetypes**
+-     - **Buyers**
+-       - 🔹 Retail Wholesalers
+-       - 🔹 Corporate Purchasers
+-       - 🔹 Gifting Specialists
+-     - **Sellers**
+-       - 🔹 Manufacturers
+-       - 🔹 Wholesalers & Traders
+-       - 🔹 Brand Authorised Dealers
+-   - **Demand Signals & Top Requested Specs**
+-     - 🔹 Size
+-     - 🔹 Shell Type
+-     - 🔹 Price Point
+-     - 🔹 Custom Branding
+-     - 🔹 Stock Availability
+-   - **Price Trends & Analysis**
+-     - 🔹 Volume
+-     - 🔹 Brand Tier
+-     - 🔹 Material
+-     - 🔹 Taxes
+-   - **Competitive Landscape**
+-     - 🔹 Direct Competition
+-     - 🔹 Product Alternatives
+-     - 🔹 Complementary Products
+-   - **Regional Patterns**
+-     - 🔹 Supply Hubs
+-     - 🔹 Demand Geography
+-   - 🔹 Procurement Insights & Seasonal Patterns
+- - **10. Buyer Intelligence**
+-   - **10.1 Common Buyer Questions & Decision Criteria**
+-     - 🔹 Primary Criteria
+-     - 🔹 Sourcing Channel Verification
+-     - 🔹 Stock Availability
+-     - 🔹 Quality Verification Process
+-   - **10.2 Vernacular & Search Terms**
+-     - 🔹 Common Language
+-     - 🔹 Buyer Terminology
+-     - 🔹 B2B Search Keywords
+-   - **10.3 Common Concerns & Objections**
+-     - 🔹 Quality Assurance
+-     - 🔹 Logistics for Out-of-State Buyers
+-     - 🔹 Supplier Authenticity
+- - **Glossary**
+-   - 🔹 450D Fabric
+-   - 🔹 8-Wheel System
+-   - 🔹 ABS
+-   - 🔹 Aluminium
+-   - 🔹 Duffle on Wheels
+-   - 🔹 Expandability
+-   - 🔹 GST
+-   - 🔹 Hinomoto Wheels
+-   - 🔹 HSN Code
+-   - 🔹 Makrolon
+-   - 🔹 MOQ
+-   - 🔹 Polycarbonate (PC)
+-   - 🔹 Polyester
+-   - 🔹 PP
+-   - 🔹 Red Dot Design Award
+-   - 🔹 Spinner
+-   - 🔹 TSA-Approved Lock
+- - **Wiki Metadata**
+-   - 🔹 Category Path
+-   - 🔹 Tags
+-   - 🔹 Sources Ingested
+-   - 🔹 Data Types
+-   - 🔹 Brands Covered
+-   - 🔹 Standards Referenced
+-   - 🔹 Market
+-   - 🔹 Last Updated
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — Batch of 3: call 1.json, call 10.json, call 11.json**
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — Batch of 3: call 12.json, call 13.json, call 14.json**
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — Batch of 3: call 15.json, call 16.json, call 17.json**
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — Batch of 3: call 18.json, call 2.json, call 3.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — Batch of 3: call 4.json, call 5.json, call 6.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — Batch of 3: call 7.json, call 8.json, call 9.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — Batch of 3: pdf 1.json, pdf 10.json, pdf 11.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — Batch of 3: pdf 12.json, pdf 2.json, pdf 3.json**
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — Batch of 3: pdf 4.json, pdf 5.json, pdf 6.json**
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — Batch of 2: pdf 7.json, pdf 8.json**
+-   - **Step 23: ✨ ENRICH**
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 10.json`**
+-   - **3. `call 11.json`**
+-   - **4. `call 12.json`**
+-   - **5. `call 13.json`**
+-   - **6. `call 14.json`**
+-   - **7. `call 15.json`**
+-   - **8. `call 16.json`**
+-   - **9. `call 17.json`**
+-   - **10. `call 18.json`**
+-   - **11. `call 2.json`**
+-   - **12. `call 3.json`**
+-   - **13. `call 4.json`**
+-   - **14. `call 5.json`**
+-   - **15. `call 6.json`**
+-   - **16. `call 7.json`**
+-   - **17. `call 8.json`**
+-   - **18. `call 9.json`**
+-   - **19. `pdf 1.json`**
+-   - **20. `pdf 10.json`**
+-   - **21. `pdf 11.json`**
+-   - **22. `pdf 12.json`**
+-   - **23. `pdf 2.json`**
+-   - **24. `pdf 3.json`**
+-   - **25. `pdf 4.json`**
+-   - **26. `pdf 5.json`**
+-   - **27. `pdf 6.json`**
+-   - **28. `pdf 7.json`**
+-   - **29. `pdf 8.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: Indian Standard IS code for luggage trolley bags durability materials`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: what is a TSA approved lock for luggage`**
+-     - 🔹 Web Search Results
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+- - **🔴 Unresolved Doubts**
+-   - **🟡 DOUBT-901: Quality, Standards & Compliance → Warranty**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+- - **✅ Self-Resolved Doubts**
+-   - **DOUBT-701: 3. Technical Specifications → Dimensions Unit *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+
+---
+
+*Index generated at 2026-04-24 04:59:18 UTC*

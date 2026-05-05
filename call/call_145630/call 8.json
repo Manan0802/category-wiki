@@ -1,0 +1,553 @@
+{
+    "payment": {
+        "payment_details": "If documents are made by seller, an extra 15000 will be charged which includes RC, Insurance, and Third Party Insurance."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about multiple brands of e-rickshaws, asking detailed questions about manufacturing, warranty, and different battery options (acid vs. lithium), which points towards a commercial requirement. The seller is discussing their own manufacturing and different models/pricing for business clients. This clearly indicates a B2B transaction.",
+            "evidence": {
+                "keywords": [
+                    "company",
+                    "manufacturing",
+                    "brand",
+                    "warranty",
+                    "insurance",
+                    "third party insurance"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "shop keeper",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=gXrWFWz5n9RUVm1VFYE1pYabIalEuqtJ4CQrnrdx60Jf89jvp8U9Zf6wrR7aZhc0DIU/JYytBjNa4gnlKsKOqvG0i6J4cdjPparlC9LUj5kKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Mini Metro E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Acid battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "120-125",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This product is an electric rickshaw with three wheels."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Mini Metro Electric Rickshaw & Loader",
+                "reason": "The seller identified the vehicle in the buyer's photo as 'Mini Metro' and quoted its price. The category 'Mini Metro Electric Rickshaw & Loader' directly matches this product."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Atul Sangam E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Acid battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "120-125",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This product is an electric rickshaw with three wheels."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Atul Auto E Rickshaw & Loader",
+                "reason": "The seller mentioned 'Atul Sangam' as one of the brands they sell and manufacture. 'Atul Auto E Rickshaw & Loader' is the closest matching category available in the schema."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Breja E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Acid battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "120-125",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller mentioned 'Breja' as one of the brands they sell. 'Electric Rickshaw Three Wheeler' is a suitable generic category as a specific category for 'Breja' is not available in the schema."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Saarthi E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Acid battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "120-125",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This product is an electric rickshaw with three wheels."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Saarthi E Rickshaw",
+                "reason": "The seller mentioned 'Saarthi' as one of the brands they sell. 'Saarthi E Rickshaw' directly matches this product in the schema."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Yatri E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Acid battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "120-125",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This product is an electric rickshaw with three wheels."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Yatri E Rickshaw",
+                "reason": "The seller mentioned 'Yatri' as one of the brands they sell. 'Yatri E Rickshaw' directly matches this product in the schema."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Panther E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Acid battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "120-125",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This product is an electric rickshaw with three wheels."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Panther E Rickshaw",
+                "reason": "The seller mentioned 'Panther' as one of the brands they sell. 'Panther E Rickshaw' directly matches this product in the schema."
+            }
+        },
+        {
+            "price": {
+                "value": 135000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Lithium Battery)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium battery",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer inquired about a Lithium battery variant, and the seller quoted a price for it. 'Electric Rickshaw Three Wheeler' is a suitable generic category for this variant."
+            }
+        },
+        {
+            "price": {
+                "value": 175000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Mayuri E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Brand Status",
+                    "value": "different brand",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Manufacturing",
+                    "value": "manufacturing brand",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Origin",
+                    "value": "Made in India",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Genuine Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material Brand",
+                    "value": "Jindal Company",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This product is an electric rickshaw with three wheels."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This product is an electric rickshaw that operates on a battery."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Mayuri Electric Rickshaw",
+                "reason": "The seller identified a different photo sent by the buyer as 'Mayuri' and provided its price with a Lithium battery. 'Mayuri Electric Rickshaw' directly matches this product in the schema."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To inform seller about decision"
+        ],
+        "seller_next_steps": []
+    },
+    "buyer_details": {
+        "buyer_location": {
+            "buyer_state": "Jharkhand"
+        }
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Patna"
+        },
+        "seller_mobile_number": 8271407541
+    }
+}

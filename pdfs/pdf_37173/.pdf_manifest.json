@@ -1,0 +1,62 @@
+{
+  "document-3a1000001902-7.pdf": {
+    "status": "processed",
+    "pdf_idx": 1,
+    "output_file": "pdf 1 - document-3a1000001902-7.json"
+  },
+  "buigle-head-sds-5.pdf": {
+    "status": "processed",
+    "pdf_idx": 2,
+    "output_file": "pdf 2 - buigle-head-sds-5.json"
+  },
+  "stainless-steel-self-drilling-screw-10.pdf": {
+    "status": "processed",
+    "pdf_idx": 3,
+    "output_file": "pdf 3 - stainless-steel-self-drilling-screw-10.json"
+  },
+  "rkgd-self-drilling-screw-10-x-20-1.pdf": {
+    "status": "processed",
+    "pdf_idx": 4,
+    "output_file": "pdf 4 - rkgd-self-drilling-screw-10-x-20-1.json"
+  },
+  "document-3a1000296244-6.pdf": {
+    "status": "processed",
+    "pdf_idx": 5,
+    "output_file": "pdf 5 - document-3a1000296244-6.json"
+  },
+  "8-mm-self-drilling-screws-8.pdf": {
+    "status": "processed",
+    "pdf_idx": 6,
+    "output_file": "pdf 6 - 8-mm-self-drilling-screws-8.json"
+  },
+  "primus-pc-55mm-self-drilling-screw-2.pdf": {
+    "status": "processed",
+    "pdf_idx": 7,
+    "output_file": "pdf 7 - primus-pc-55mm-self-drilling-screw-2.json"
+  },
+  "self-drilling-screws-11.pdf": {
+    "status": "processed",
+    "pdf_idx": 8,
+    "output_file": "pdf 8 - self-drilling-screws-11.json"
+  },
+  "self-drilling-screw-12.pdf": {
+    "status": "processed",
+    "pdf_idx": 9,
+    "output_file": "pdf 9 - self-drilling-screw-12.json"
+  },
+  "truss-head-sds-4.pdf": {
+    "status": "processed",
+    "pdf_idx": 10,
+    "output_file": "pdf 10 - truss-head-sds-4.json"
+  },
+  "hex-head-screw-3.pdf": {
+    "status": "processed",
+    "pdf_idx": 11,
+    "output_file": "pdf 11 - hex-head-screw-3.json"
+  },
+  "csk-phillips-self-drilling-screws-9.pdf": {
+    "status": "processed",
+    "pdf_idx": 12,
+    "output_file": "pdf 12 - csk-phillips-self-drilling-screws-9.json"
+  }
+}

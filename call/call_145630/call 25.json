@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring for a personal electric vehicle for personal mobility due to being handicapped and is looking for a single unit.",
+            "evidence": {
+                "keywords": [
+                    "handicapped",
+                    "passenger carriage"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "Punjabi"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=3fc7lcsp5i9vgFRMhTBFvYabIalEuqtJ4CQrnrdx60JnkEnuHzS5ZKuWxkLAzBHgbBSjOsnfLoBaCwRs1jGBVrHd4gtRNIVZpS4n4E9QGTsKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 225000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (100 km range)",
+            "specifications": [
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "100",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Color",
+                    "value": "White",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Seating Capacity",
+                    "value": "Double seat at front",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is a three-wheeled electric vehicle with a passenger seating capacity (double seat at front) discussed for commuting."
+            }
+        },
+        {
+            "price": {
+                "value": 250000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (150 km range)",
+            "specifications": [
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "150",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Speed",
+                    "unit": "kmph",
+                    "value": "60",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Color",
+                    "value": "White",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Seating Capacity",
+                    "value": "Double seat at front",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is a high-range electric three-wheeler discussed for passenger use."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To view the photos and videos sent by the seller",
+            "To confirm the RTO and number plate requirements in Ludhiana"
+        ],
+        "seller_next_steps": [
+            "To share product photos and a 2 minute walkaround video on WhatsApp",
+            "To send price list on WhatsApp",
+            "To check and confirm RTO/Registration requirements for Punjab/Ludhiana"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Arvind",
+        "buyer_location": {
+            "buyer_city": "Ludhiana",
+            "buyer_locality": "Delhi Road"
+        },
+        "buyer_mobile_number": 9463529260
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_state": "Haryana"
+        }
+    }
+}

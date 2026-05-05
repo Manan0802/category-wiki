@@ -1,0 +1,138 @@
+{
+    "payment": {},
+    "lead_tag": {
+        "deal_blockers": [
+            "Location: Seller does not have a showroom in Lucknow yet."
+        ],
+        "deal_readiness": "Warm",
+        "deal_readiness_reason": "The buyer has a specific requirement for two units and is also discussing setting up a dealership, indicating serious intent."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The conversation revolves around business terms, dealership requirements, GST registration, and bulk supply intent.",
+            "evidence": {
+                "keywords": [
+                    "Dealership",
+                    "GST Registration",
+                    "Commercial",
+                    "School use"
+                ],
+                "order_type": "Trial/Bulk",
+                "repeat_buyer": true,
+                "buyer_persona": "Lawyer / Potential Distributor",
+                "quantity_scale": "Low"
+            }
+        },
+        "buyer_intent": {
+            "narrative": "Wants to purchase 2 e-rickshaws for school use and is interested in taking a dealership in Lucknow.",
+            "reasoning": "The buyer asks specific technical questions about seating, color, and is negotiating price while also discussing business expansion (dealership).",
+            "intent_level": "High"
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "buyer_conclusion": {
+            "category": "Follow-up",
+            "conclusion_notes": "Wants pricing details on WhatsApp to proceed (WhatsApp par details bhej do)"
+        },
+        "primary_language": "Hindi",
+        "additional_details": {
+            "buyer_queries": [
+                {
+                    "query": "What is the seating capacity?",
+                    "category": "Technical",
+                    "sequence": 1
+                },
+                {
+                    "query": "Where is your showroom in Lucknow?",
+                    "category": "Logistics",
+                    "sequence": 2
+                },
+                {
+                    "query": "What are the dealership terms?",
+                    "category": "Business",
+                    "sequence": 3
+                }
+            ],
+            "seller_queries": []
+        },
+        "intended_application": "School Transport",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=OvH2y8p6kJHS6eBEqJVapzI8eFMmxZOojob4Q0FGz8BEkW6Icl4DL4kpPV6/xN6QaDwONpLb8PG3mVYQoZfKfi/Ld3egP 5SAjPiUBKSoRtW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "price_negotiation_notes": "The buyer mentions seeing a price of 1,25,000 on Google, which the seller explains is the dealer price excluding taxes and transport."
+            },
+            "in_stock": "in stock",
+            "product_name": "Battery Operated E-Rickshaw (E-Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Capacity",
+                    "unit": "Seater",
+                    "value": "6",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Color",
+                    "value": "Yellow",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Seating Arrangement",
+                    "value": "4 in back and 2 in front",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 2
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This is a synonymous and descriptive category for the product discussed."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is a three-wheeled vehicle powered by an electric motor."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer explicitly asks for battery-operated e-rickshaws for school use, and the seller discusses passenger capacity and technical specifications typical of this category."
+            },
+            "quantity_accepted_by_seller": true
+        }
+    ],
+    "call_back": "callback by In 1 hour - To finalize details (Ek ghante mein call karta hoon)",
+    "next_steps": {
+        "buyer_next_steps": [
+            "To find a suitable location for the showroom",
+            "To identify a potential person to run the dealership"
+        ],
+        "seller_next_steps": [
+            "To share product details and pricing for 2 ricksaws on WhatsApp",
+            "To share dealership terms on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_location": {
+            "buyer_city": "Lucknow"
+        },
+        "buyer_mobile_number": 9453048988
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Noida"
+        }
+    },
+    "minimum_order_quantity": {}
+}

@@ -1,0 +1,151 @@
+{
+    "payment": {
+        "payment_mode": "emi"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is looking to purchase a single e-rickshaw for personal use/livelihood as a driver rather than for resale or fleet operations.",
+            "evidence": {
+                "keywords": [
+                    "finance",
+                    "e-rickshaw",
+                    "passenger rickshaw"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=bCnlmQnVFChVTkD7FxmZj4abIalEuqtJ4CQrnrdx60I WCZ1iPsQv0eqIRkobufk7pC7HMvUXvQ9jiQeBy6B eU2bQeejXsRj01NpGLujNwKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 105000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Delex E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "Iron (MS Model)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Battery Operated Rickshaw",
+                "reason": "The product discussed is an electric rickshaw for passenger transport."
+            }
+        },
+        {
+            "price": {
+                "value": 155000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Super Delex E-Rickshaw (Steel Body)",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "Steel (SS Model)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium Battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller mentions high-end models with premium materials and lithium batteries."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw Loader (3x5)",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "unit": "feet",
+                    "value": "3x5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The seller explicitly mentions having two loader variations for carrying goods."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw Loader (4x6)",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "unit": "feet",
+                    "value": "4x6",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The seller explicitly mentions having two loader variations for carrying goods."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To call the agency contact provided",
+            "To visit the agency in Mathura",
+            "To check the shared catalog and price list"
+        ],
+        "seller_next_steps": [
+            "To share the product catalog via WhatsApp",
+            "To share the rate list via WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Rajkumar",
+        "buyer_location": {
+            "buyer_city": "Agra"
+        }
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Kanpur"
+        }
+    }
+}

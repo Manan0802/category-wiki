@@ -1,0 +1,170 @@
+{
+    "payment": {},
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about a dealership for electric rickshaws and loaders for his showroom, indicating a B2B distribution requirement. He discusses bulk ordering quantities (12 units) and transport incentives.",
+            "evidence": {
+                "keywords": [
+                    "dealership",
+                    "showroom",
+                    "order"
+                ],
+                "order_type": "bulk",
+                "repeat_buyer": true,
+                "buyer_persona": "distributor",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=UPxJ2Th3RdK4mRto/tHGhIabIalEuqtJ4CQrnrdx60KDdYaqcftrdSehdgMPCPrDkD4v8ydUyY7yethsXlYGMVs1asjgzIC2Ez1fKvD8TU0KU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 102125,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (48V)",
+            "specifications": [
+                {
+                    "name": "Voltage",
+                    "unit": "V",
+                    "value": "48",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "These are electric three-wheelers powered by batteries as mentioned in the specs."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer is inquiring about dealership and pricing for battery-operated passenger rickshaws."
+            }
+        },
+        {
+            "price": {
+                "value": 112125,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (60V)",
+            "specifications": [
+                {
+                    "name": "Voltage",
+                    "unit": "V",
+                    "value": "60",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Higher voltage variant of the passenger e-rickshaw discussed."
+            }
+        },
+        {
+            "price": {
+                "value": 115600,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Loader Rickshaw (3x5 ft)",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "unit": "ft",
+                    "value": "3x5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Voltage",
+                    "unit": "V",
+                    "value": "48",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The seller explicitly mentioned loader rickshaw variants with specific dimensions."
+            }
+        },
+        {
+            "price": {
+                "value": 118600,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Loader Rickshaw (4x6 ft)",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "unit": "ft",
+                    "value": "4x6",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "Larger dimension variant of the electric loader."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To review the price list and product details shared on WhatsApp"
+        ],
+        "seller_next_steps": [
+            "To share the detailed price list and product catalog on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Anoop Kumar Singh",
+        "buyer_location": {
+            "buyer_city": "Bachhrawan",
+            "buyer_state": "Uttar Pradesh"
+        },
+        "buyer_mobile_number": 9956087985
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Chhibramau",
+            "seller_state": "Uttar Pradesh"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Keep input/output dirs but ignore their content
+data/inputs/*
+!data/inputs/.gitkeep
+wiki/items/*
+!wiki/items/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

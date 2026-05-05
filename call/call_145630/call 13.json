@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer explicitly states he wants to start an 'e-rickshaw business' and has 'do teen place' (2-3 places) where he plans to set up. He asks about investment and expresses interest in buying 'do teen variety' of vehicles, indicating a bulk, commercial purchase for a business venture, making it a B2B call.",
+            "evidence": {
+                "keywords": [
+                    "e-rickshaw business",
+                    "start business",
+                    "investment",
+                    "do teen place",
+                    "do teen variety"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "wholesaler",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=44041351-e9e1-4b15-88d1-4d70b6aea563"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 106000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Capacity",
+                    "unit": "AH",
+                    "value": "105",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Three Wheelers due to its vehicle type."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The e-rickshaw uses a battery (Lithium/Lead-acid) for operation, thus it's battery operated."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly referred to as 'e-ricksha' and is a three-wheeler electric vehicle."
+            }
+        },
+        {
+            "price": {
+                "value": 127000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Three Wheelers due to its vehicle type."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The e-rickshaw uses a battery (Lithium/Lead-acid) for operation, thus it's battery operated."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly referred to as 'e-ricksha' and is a three-wheeler electric vehicle, representing the higher end of the range mentioned."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Dabang City (L5 Auto)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "3+1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Size",
+                    "value": "Small",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The L5 auto is a type of electric three-wheeler vehicle."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Auto Rickshaw",
+                "reason": "The product is described as an 'L5 auto' and 'chhota auto' (small auto) for passenger transport, aligning with an Electric Auto Rickshaw."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Dabang Next (L5 Auto)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "7+1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Size",
+                    "value": "Big",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The L5 auto is a type of electric three-wheeler vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Auto Rickshaw",
+                "reason": "The product is described as an 'L5 auto' and 'bada auto' (big auto) for passenger transport with high seating capacity, aligning with an Electric Auto Rickshaw."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "L5 Auto Loader",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Loader",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The L5 auto loader is a type of electric three-wheeler vehicle."
+                },
+                {
+                    "name": "Electric Loader",
+                    "reason": "The product is explicitly mentioned as a 'loader' model for the L5 auto."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Auto Rickshaw",
+                "reason": "The seller mentions L5 having 'loader' models, which are a type of Electric Auto Rickshaw designed for carrying goods."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To review shared product details"
+        ],
+        "seller_next_steps": [
+            "To share product details and price list",
+            "To confirm exact dealer location with ZDM"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Manas",
+        "buyer_location": {
+            "buyer_city": "Kushinagar",
+            "buyer_locality": "Kasya"
+        },
+        "buyer_mobile_number": 8686100809
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Noida"
+        }
+    }
+}

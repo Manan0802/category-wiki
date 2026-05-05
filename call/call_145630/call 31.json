@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is contacting the seller regarding documentation and registration issues (RC and Number Plate) for two Electric Rickshaws purchased for personal/commercial use. This is a post-purchase grievance call regarding product documentation.",
+            "evidence": {
+                "keywords": [
+                    "Number Plate",
+                    "Registration Certificate",
+                    "RC",
+                    "Registration"
+                ],
+                "order_type": "one-time",
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "complaint",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=aEAnQXWFRQYFJdAyJ5K7U4abIalEuqtJ4CQrnrdx60L5dF4V3Q6CgjxLZu1WsrPPVxa3ljx8VpJYuujsXiTl2F1VdlpoJKmjrO/VZTY0fEgKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Pilot E-Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Brand",
+                    "value": "Pilot",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Status",
+                    "value": "Registration Pending",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 2
+            },
+            "is_buyer_interested": false
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To visit the Supertech Auto Agency showroom in Nangloi Najafgarh road",
+            "To file a formal complaint with the company regarding pending registration"
+        ],
+        "seller_next_steps": [
+            "To provide guidance on locating the main company showroom"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "MURTUJ"
+    },
+    "seller_details": {
+        "seller_name": "Deepak",
+        "seller_location": {
+            "seller_city": "New Delhi"
+        }
+    }
+}

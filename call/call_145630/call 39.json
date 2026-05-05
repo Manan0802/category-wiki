@@ -1,0 +1,187 @@
+{
+    "payment": {
+        "payment_mode": "cash",
+        "payment_details": "25,000 INR down payment required for finance."
+    },
+    "lead_tag": {
+        "deal_blockers": [],
+        "deal_readiness": "Hot",
+        "deal_readiness_reason": "Agreed to pay the 25,000 down payment and visit the Kanpur agency today to pick up the rickshaw."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about a passenger e-rickshaw for commercial transport services, which constitutes a business activity.",
+            "evidence": {
+                "keywords": [
+                    "Passenger Rickshaw",
+                    "Down payment",
+                    "Finance",
+                    "Commercial Project"
+                ],
+                "order_type": "Commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "Commercial Operator",
+                "quantity_scale": "Low"
+            }
+        },
+        "buyer_intent": {
+            "narrative": "Wants to purchase a passenger e-rickshaw for commercial use via finance with a specific down payment.",
+            "reasoning": "Discussed specific pricing, battery details, mileage, and agreed on the down payment amount while requesting location for immediate visit.",
+            "intent_level": "High"
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "buyer_conclusion": {
+            "category": "Committed",
+            "conclusion_notes": "Accepted the 25,000 down payment terms and asked for the agency location to proceed with the purchase (Location bhej dijiye 25000 down payment karke rickshaw le lenge)."
+        },
+        "primary_language": "Hindi",
+        "additional_details": {
+            "buyer_queries": [
+                {
+                    "query": "What is the price of the rickshaw?",
+                    "category": "Price",
+                    "sequence": 1
+                },
+                {
+                    "query": "Is finance available?",
+                    "category": "Financials",
+                    "sequence": 4
+                },
+                {
+                    "query": "How much down payment is required?",
+                    "category": "Financials",
+                    "sequence": 5
+                },
+                {
+                    "query": "What is the mileage after a full charge?",
+                    "category": "Technical",
+                    "sequence": 6
+                },
+                {
+                    "query": "Will you deliver to home or do I need to come there?",
+                    "category": "Logistics",
+                    "sequence": 7
+                },
+                {
+                    "query": "What is the name of the agency?",
+                    "category": "Business",
+                    "sequence": 8
+                }
+            ],
+            "seller_queries": [
+                {
+                    "query": "From where are you calling?",
+                    "category": "Logistics",
+                    "sequence": 2
+                },
+                {
+                    "query": "What is your name?",
+                    "category": "General",
+                    "sequence": 3
+                }
+            ]
+        },
+        "intended_application": "Commercial Passenger Transport",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=0X zqPZ52NGC qxpWmLi6TI8eFMmxZOojob4Q0FGz8CKYHd1sBFUztpyXvByQLjqRu2ykvesgaaiR/2GAWg mnYZMv4xskl4WTv/a1ZhsTpW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 110000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "offer_details": "On-road price with 5 batteries and 12 months warranty.",
+                "price_negotiation_notes": "Buyer accepted the 25,000 down payment terms.",
+                "price_reaction_by_buyer": "Accepted: (Theek hai 25000 down payment karke le lenge)"
+            },
+            "in_stock": "in stock",
+            "product_name": "SRD E-Rickshaw (Passenger)",
+            "specifications": [
+                {
+                    "name": "Application",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Count",
+                    "unit": "batteries",
+                    "value": "5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "12",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Mileage",
+                    "unit": "km",
+                    "value": "90",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "is_buyer_interested": true,
+            "quantity_accepted_by_seller": true
+        },
+        {
+            "price": {
+                "value": 105000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "price_negotiation_notes": "Mentioned as the cash rate."
+            },
+            "in_stock": "in stock",
+            "product_name": "SRD E-Rickshaw (Cash Rate)",
+            "specifications": [
+                {
+                    "name": "Application",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false
+        }
+    ],
+    "call_back": "callback by In 1 hour - To send location (Location bhej do)",
+    "next_steps": {
+        "buyer_next_steps": [
+            "To check the WhatsApp location",
+            "To visit the agency in Kanpur for the purchase"
+        ],
+        "seller_next_steps": [
+            "To share the agency location on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Jagjivan",
+        "buyer_location": {
+            "buyer_city": "Auraiya",
+            "buyer_state": "Uttar Pradesh"
+        }
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Kanpur",
+            "seller_locality": "Zareeb Chowki near Fazalganj"
+        }
+    },
+    "minimum_order_quantity": {
+        "unit": "piece",
+        "value": 1
+    }
+}

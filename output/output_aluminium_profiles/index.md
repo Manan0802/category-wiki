@@ -1,0 +1,336 @@
+# 📑 Category Index — Aluminium Profiles
+
+> Generated on 2026-04-27 11:58:05 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> <WEB_SEARCH_REASONING>
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/aluminium_profiles.md](../items/aluminium_profiles.md)
+- **📋 Execution Logs:** [../logs/logs_aluminium_profiles.md](../logs/logs_aluminium_profiles.md)
+- **📖 Source References:** [../references/references_aluminium_profiles.md](../references/references_aluminium_profiles.md)
+- **🤔 Agent Doubts:** [../doubts/aluminium_profiles_doubts.md](../doubts/aluminium_profiles_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ (Typical)
+- - **1. Category Overview**
+- - **2. Product Types & Variants**
+-   - **2.1 Main Product Types**
+-     - **Structural Profiles**
+-       - 🔹 T-Slot / Strut Profiles
+-       - 🔹 Solar Panel Mounting Profiles
+-     - **Architectural Profiles**
+-       - 🔹 Partition & Door Profiles
+-       - 🔹 Sliding Door & Window Profiles
+-       - 🔹 Facade & Railing Profiles
+-     - **Kitchen, Furniture & Cabinetry Profiles**
+-       - 🔹 Frame Profiles
+-       - 🔹 Handle Profiles
+-       - 🔹 G-Profile & Gola Profile
+-       - 🔹 Edge Profiles / Edge Banding
+-       - 🔹 Center Profiles
+-     - 🔹 Transport Profiles
+-     - **Accessories & Companion Products**
+-       - 🔹 End Caps, Corner Brackets, Connectors
+-       - 🔹 Gaskets
+-       - 🔹 Hinges
+-   - **2.2 Available Configurations**
+-     - 🔹 Standard Lengths
+-     - **Finishes & Colours**
+-       - 🔹 Standard
+-       - 🔹 Premium / Special Order
+-       - 🔹 Protective Coatings
+-     - 🔹 System Design
+- - **3. Technical Specifications**
+-   - **3.1 Specifications Table: Sliding Window & Door Profiles**
+-     - 🔹 3 Track Frame
+-     - 🔹 Shutter Plain
+-     - 🔹 Shutter Interlock
+-     - 🔹 3 Track Frame
+-     - 🔹 Shutter Vertical
+-     - 🔹 Shutter Interlock
+-     - 🔹 2 Track Bottom
+-     - 🔹 2 Track Side & Top
+-   - **3.2 Specifications Table: Single Partition Profiles**
+-     - 🔹 1101
+-     - 🔹 1102
+-     - 🔹 1125
+-     - 🔸 Data Variance
+-   - **3.3 Specifications Table: Strut Profiles (PG30 Example)**
+-     - 🔹 PG30 30x30 R90 2 slots
+-     - 🔹 PG30 30x30 4 slots Light
+-     - 🔹 PG30 60x120 12 slots
+-   - **3.4 Specifications Table: Furniture & Cabinetry Profiles**
+-     - 🔹 Drawer Frame
+-     - 🔹 Handle Profile
+-     - 🔹 Furniture Frame
+-     - 🔹 Edge Profile
+-     - 🔸 Data Variance
+-   - **3.5 Specifications Table: Solar Panel Profiles**
+-     - 🔹 HTN033
+-     - 🔹 HTN045
+-     - 🔹 HTN002
+-     - 🔹 HTN035
+-     - 🔹 HTN051
+-     - 🔹 HTN062
+-     - 🔹 HTN031
+-     - 🔹 HTN129
+-     - 🔹 HTN112
+- - **4. Brands & Manufacturers**
+-   - **Tier 1 (Market Leaders & PSUs)**
+-     - 🔹 Hindalco Industries
+-     - 🔹 Jindal Aluminium Limited (JAL)
+-     - 🔹 Vedanta Aluminium
+-     - 🔹 National Aluminium Company (NALCO)
+-     - 🔹 Bharat Aluminium Company (BALCO)
+-   - **Tier 2 (Established Manufacturers & System Specialists)**
+-     - 🔹 AluK India
+-     - 🔹 Banco Aluminium
+-     - 🔹 Bhoruka Extrusions
+-     - 🔹 Century Extrusions (CEL)
+-     - 🔹 GALCO Group
+-     - 🔹 Maan Aluminium
+-     - 🔹 Saint-Gobain
+-     - 🔹 The Superfine Group
+-     - 🔹 Zetwerk
+-   - **Tier 3 (Regional & Niche Players)**
+-     - 🔹 ALCOI India
+-     - 🔹 Alumil, Aluplast India, Reynaers Aluminium, Lingel Windows, Koemmerling, Tostem (LIXIL)
+-     - 🔹 Alupuram, Bothra Metals & Alloys, Global Aluminium
+-     - 🔹 Bimal Aluminiums (BAPL)
+-     - 🔹 Darshan Extrusions, Aluka Extrusion Industries
+-     - 🔹 Fenesta
+-     - 🔹 PAG, Tataria Jindak
+-     - 🔹 SYSTEMS
+-     - 🔹 Simta Clear Coats
+- - **5. Pricing & Commercial Information**
+-   - **5.1 Price Overview**
+-     - 🔹 Standard Profiles (per foot)
+-     - 🔹 Imported Decorative Profiles (per piece)
+-     - 🔹 Related Equipment
+-   - **5.2 Pricing Factors**
+-     - 🔹 Profile Weight & Complexity
+-     - 🔹 Alloy & Temper
+-     - 🔹 Finish and Colour
+-     - 🔹 Order Volume
+-     - 🔹 Brand & Origin
+-     - 🔹 GST
+- - **6. Quality, Standards & Compliance**
+-   - **6.1 Applicable Standards**
+-     - **Indian Standards**
+-       - 🔹 IS 12852002
+-       - 🔹 IS 60511970
+-     - **Common Alloy Grades & Temper**
+-       - 🔹 6063 / HE-9
+-       - 🔹 6061 / HE-20
+-       - 🔹 Temper (T3-T8)
+-     - **International / Foreign Standards**
+-       - 🔹 GB/T5237-2004
+-   - **6.2 Certifications & Approvals**
+-     - 🔹 ISO 9001
+-     - 🔹 ISO 14001
+-     - 🔹 CQM
+-     - 🔹 ABS (American Bureau of Shipping)
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Alloy & Temper Verification
+-     - 🔹 Weight Consistency
+-     - 🔹 Finish Quality
+-     - 🔹 Dimensional Tolerance
+-     - 🔹 Hardware Compatibility
+-   - **6.4 Compliance Requirements**
+- - **7. Applications & Use Cases**
+-   - **7.1 Industry Applications**
+-     - 🔹 Construction/Architecture
+-     - 🔹 Renewable Energy
+-     - 🔹 Kitchen & Furniture
+-     - 🔹 Industrial / Manufacturing
+-     - 🔹 Transport / Automotive
+-     - 🔹 Retail & Fabrication
+- - **8. Supply Chain & Procurement**
+-   - **8.1 Ordering & MOQ**
+-     - 🔹 Minimum Order Quantity (MOQ)
+-     - 🔹 Ordering Process
+-     - 🔹 Supply Units
+-   - **8.2 Logistics & Handling**
+-     - 🔹 Packaging
+-     - 🔹 On-site Processing
+-   - **8.3 Storage**
+- - **9. Market Intelligence**
+-   - **Buyer & Seller Archetypes**
+-     - 🔹 Buyers
+-     - 🔹 Sellers
+-   - 🔹 Demand Signals
+-   - 🔹 Price Trends
+-   - **Top 5 Requested Specifications**
+-     - 🔹 Profile Type & Series
+-     - 🔹 Finish
+-     - 🔹 Dimensions
+-     - 🔹 Weight/Thickness
+-     - 🔹 Brand/Origin
+-   - 🔹 Competitive Landscape
+-   - 🔹 Regional Patterns
+-   - 🔹 Procurement Insights
+- - **10. Buyer Intelligence**
+-   - **10.1 Common Buyer Questions & Decision Criteria**
+-     - 🔹 Key Questions during inquiry
+-     - 🔹 Primary Decision Criteria
+-     - 🔹 Buyer Personas
+-   - **10.2 Vernacular & Search Terms**
+-     - 🔹 General
+-     - 🔹 Quality/Origin
+-     - 🔹 Profile Types
+-   - **10.3 Common Concerns & Objections**
+-     - 🔹 Price Discrepancy
+-     - 🔹 Stock Availability
+-     - 🔹 Structural Integrity
+-     - 🔹 Inconsistent Finish
+- - **Glossary**
+-   - 🔹 Anodizing
+-   - 🔹 Extrusion
+-   - 🔹 G-Profile / Gola Profile
+-   - 🔹 GB/T
+-   - 🔹 IS (Indian Standard)
+-   - 🔹 Linear Mass Density
+-   - 🔹 Moment of Inertia (Ix, Iy)
+-   - 🔹 Section Modulus (Wx, Wy)
+-   - 🔹 PVDF (Polyvinylidene Fluoride)
+-   - 🔹 Temper
+-   - 🔹 T-Slot Profile
+- - **Wiki Metadata**
+-   - 🔹 Category Path
+-   - 🔹 Tags
+-   - 🔹 Sources Ingested
+-   - 🔹 Data Types
+-   - 🔹 Brands Covered
+-   - 🔹 Standards Referenced
+-   - 🔹 Market
+-   - 🔹 Last Updated
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — Batch of 3: call 1.json, call 10.json, call 12.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — Batch of 3: call 13.json, call 14.json, call 2.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — Batch of 3: call 3.json, call 4.json, call 5.json**
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — Batch of 3: call 6.json, call 7.json, call 8.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — Batch of 3: call 9.json, pdf 1 - t-profile-section-22mm-6.json, pdf 10 - aluminium-foot-step-sections-1.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — Batch of 3: pdf 11 - 45mm-aluminum-profile-with-handle-4.json, pdf 12 - aluminum-drawer-and-shutter-profiles-9.json, pdf 13 - transport-profiles-2.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — Batch of 3: pdf 2 - strut-profile-3.json, pdf 3 - product-details-12.json, pdf 4 - aluminium-profiles-fittings-7.json**
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — Batch of 3: pdf 5 - aluminum-glass-door-10.json, pdf 6 - new-bothra-1-11.json, pdf 7 - 50mm-drawer-profile-with-handle-13.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — Batch of 2: pdf 8 - handle-section-48mm-8.json, pdf 9 - drawing-for-aluminium-profiles-of-solar-panel-5.json**
+-   - **Step 21: ✨ ENRICH**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 10.json`**
+-   - **3. `call 12.json`**
+-   - **4. `call 13.json`**
+-   - **5. `call 14.json`**
+-   - **6. `call 2.json`**
+-   - **7. `call 3.json`**
+-   - **8. `call 4.json`**
+-   - **9. `call 5.json`**
+-   - **10. `call 6.json`**
+-   - **11. `call 7.json`**
+-   - **12. `call 8.json`**
+-   - **13. `call 9.json`**
+-   - **14. `pdf 1 - t-profile-section-22mm-6.json`**
+-   - **15. `pdf 11 - 45mm-aluminum-profile-with-handle-4.json`**
+-   - **16. `pdf 12 - aluminum-drawer-and-shutter-profiles-9.json`**
+-   - **17. `pdf 2 - strut-profile-3.json`**
+-   - **18. `pdf 3 - product-details-12.json`**
+-   - **19. `pdf 4 - aluminium-profiles-fittings-7.json`**
+-   - **20. `pdf 5 - aluminum-glass-door-10.json`**
+-   - **21. `pdf 6 - new-bothra-1-11.json`**
+-   - **22. `pdf 7 - 50mm-drawer-profile-with-handle-13.json`**
+-   - **23. `pdf 8 - handle-section-48mm-8.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: top brands aluminium extrusion profiles India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: IS codes for aluminium extrusion profiles India architectural structural`**
+-     - 🔹 Web Search Results
+-   - **3. `WEB: top brands aluminium profiles India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **4. `WEB: top brands aluminium profiles India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **5. `WEB: top Aluminium Profiles brands India leading manufacturers popular aluminium extrusion companies Indian market`**
+-     - 🔹 Web Search Results
+- - **❓ Other Sources**
+-   - **1. `pdf 10 - aluminium-foot-step-sections-1.json`**
+-   - **2. `pdf 13 - transport-profiles-2.json`**
+-   - **3. `pdf 9 - drawing-for-aluminium-profiles-of-solar-panel-5.json`**
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+- - **✅ Self-Resolved Doubts**
+-   - **DOUBT-701: 3. Technical Specifications → Moment of Inertia Unit *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+
+---
+
+*Index generated at 2026-04-27 11:58:05 UTC*

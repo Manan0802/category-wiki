@@ -1,0 +1,154 @@
+{
+    "payment": {
+        "payment_details": "50% advance booking amount is required to start manufacturing"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about a 12-seater school van e-rickshaw for commercial transport purposes. The seller mentions custom manufacturing on booking with a 50% advance payment, which is characteristic of B2B transactions.",
+            "evidence": {
+                "keywords": [
+                    "School Van",
+                    "12 seater",
+                    "Advance Booking",
+                    "Lithium-ion"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "School Operator or Transport Service Provider",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=RU4a5bkvROdsweduhElfmYabIalEuqtJ4CQrnrdx60Kv3eWYmcbJ0fFFPyUM2Nnx KwcDSArRhTyysXao14c9QB9/tBbnxYOtryHey6603RW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 165000,
+                "currency": "INR"
+            },
+            "in_stock": "out of stock",
+            "product_name": "E-Rickshaw School Van (Acid Battery)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "12",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Acid",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Number of Wheels",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Usage",
+                    "value": "School Van",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "It is a battery-powered vehicle used for public transport/school commuting."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The seller explicitly stated it is a three-wheeler electric vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The conversation is about a 3-wheeled electric rickshaw configured as a school van."
+            }
+        },
+        {
+            "price": {
+                "value": 180000,
+                "currency": "INR"
+            },
+            "in_stock": "out of stock",
+            "product_name": "E-Rickshaw School Van (Lithium-ion Battery)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "12",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium-ion",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Number of Wheels",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Usage",
+                    "value": "School Van",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "It operates on a battery system, specifically mentioned as Lithium-ion."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The vehicle is confirmed to be an electric three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is a three-wheeled battery-operated vehicle intended for school transport."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To check the product video sent on WhatsApp",
+            "To confirm interest after viewing the video"
+        ],
+        "seller_next_steps": [
+            "To share product videos on the provided WhatsApp number"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Abhishek",
+        "buyer_location": {
+            "buyer_city": "Basti",
+            "buyer_locality": "Ayodhya"
+        },
+        "buyer_mobile_number": 7860119919
+    },
+    "seller_details": {
+        "seller_name": "Avanish",
+        "seller_location": {
+            "seller_city": "Gorakhpur",
+            "seller_locality": "Rajhi Camp near Airport"
+        }
+    }
+}

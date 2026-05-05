@@ -1,0 +1,377 @@
+# 📑 Category Index — Aluminum Composite Panels
+
+> Generated on 2026-04-28 05:16:38 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> <WEB_SEARCH_REASONING>
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/aluminum_composite_panels.md](../items/aluminum_composite_panels.md)
+- **📋 Execution Logs:** [../logs/logs_aluminum_composite_panels.md](../logs/logs_aluminum_composite_panels.md)
+- **📖 Source References:** [../references/references_aluminum_composite_panels.md](../references/references_aluminum_composite_panels.md)
+- **🤔 Agent Doubts:** [../doubts/aluminum_composite_panels_doubts.md](../doubts/aluminum_composite_panels_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - 🔹 Brand Completeness
+- - **Standard Technical Units**
+-   - 🔹 Flexural Rigidity
+-   - 🔹 Thermal Properties
+-   - 🔹 Density/Specific Gravity
+- - 🔹 Brand Section
+- - 🔹 Technical Specifications (Section 3)
+- - 🔹 Cross-referencing
+- - 🔹 Market Intelligence (Section 9)
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ
+- - **1. Category Overview**
+- - **2. Product Types & Variants**
+-   - **2.1 Main Product Types**
+-     - 🔹 Standard ACP (LDPE Core)
+-     - **Fire-Retardant (FR) ACP (Mineral Core)**
+-       - 🔹 Grade B2
+-       - 🔹 Grade B1
+-       - 🔹 Grade A2/A2+
+-     - 🔹 Exterior Grade ACP
+-     - 🔹 Interior Grade ACP
+-     - **Specialty Panels**
+-       - 🔹 Mirror Finish ACP
+-       - 🔹 Stone & Marble Finish ACP
+-       - 🔹 [[Aluminum Honeycomb Panels]]
+-       - 🔹 [[High-Pressure Laminate Panels]] (HPL)
+-       - 🔹 Anti-Scratch Panels
+-       - 🔹 Stainless Steel Finish ACP
+-   - **2.2 Available Finishes & Configurations**
+-     - 🔹 Finishes
+-     - 🔹 Panel Thickness
+-     - 🔹 Standard Sheet Sizes (Width x Length)
+-     - 🔹 Custom Sizing
+- - **3. Technical Specifications**
+-   - 🔹 Panel Grade
+-   - 🔹 Panel Thickness
+-   - 🔹 Aluminum Skin Thickness
+-   - 🔹 Core Material
+-   - 🔹 Aluminum Alloy
+-   - 🔹 Coating Type
+-   - 🔹 Coating Thickness
+-   - 🔹 Weight
+-   - 🔹 Density (Specific Gravity)
+-   - 🔹 Tensile Strength
+-   - 🔹 Yield Strength (0.2% Proof)
+-   - 🔹 Flexural Rigidity
+-   - 🔹 Shear Strength
+-   - 🔹 Peeling Strength
+-   - 🔹 Pencil Hardness (Coating)
+-   - 🔹 Flexibility (T-Bend)
+-   - 🔹 Sound Insulation (STL)
+-   - 🔹 Thermal Expansion
+-   - 🔹 Thermal Conductivity
+-   - 🔹 Thermal Transmittance (U-Value)
+-   - 🔹 Fire Resistance (FR Panels)
+-   - 🔹 Limiting Oxygen Index (LOI)
+-   - 🔹 Dimensional Tolerances
+- - **4. Brands & Manufacturers**
+-   - **Tier 1 (Premium / Market Leaders)**
+-     - 🔹 Alucobond
+-     - 🔹 Aludecor
+-     - 🔹 Viva
+-     - 🔹 ReynoArch / Reynobond
+-     - 🔹 Alubond
+-   - **Tier 2 (Established & Wide-Reach)**
+-     - 🔹 Eurobond
+-     - 🔹 Alstone
+-     - 🔹 Virgo ACP
+-     - 🔹 Alstrong
+-     - 🔹 CROSSBOND
+-     - 🔹 Envitect
+-     - 🔹 INDOBOND
+-   - **Tier 3 (Competitive & Niche Players)**
+-     - 🔹 Pioneer Panels
+-     - 🔹 Citybond
+-     - 🔹 Wonder Aluboard
+-     - 🔹 Alex Panels (Black cobra)
+-     - 🔹 PRIME BOND
+-     - 🔹 Imported Brands
+-   - **4.2 Manufacturer & Supply Landscape**
+- - **5. Pricing & Commercial Information**
+-   - **5.1 Price Overview**
+-     - 🔹 Budget Range (₹49 - ₹70/sq ft)
+-     - 🔹 Mid-Range (₹70 - ₹110/sq ft)
+-     - 🔹 Premium Range (₹110 - ₹135+/sq ft)
+-   - **5.2 Pricing Factors**
+-     - 🔹 Grade
+-     - 🔹 Coating
+-     - 🔹 Thickness
+-     - 🔹 Brand
+-     - 🔹 Finish
+-     - 🔹 Order Volume
+-     - 🔹 GST
+- - **6. Quality, Standards & Compliance**
+-   - **6.1 Applicable Standards**
+-     - **Fire & Safety Standards**
+-       - 🔹 ASTM E84
+-       - 🔹 ASTM E119
+-       - 🔹 DIN 4102-1 (Germany)
+-       - 🔹 EN 13501-1 (Euroclass)
+-       - 🔹 UL 94
+-     - **Mechanical & Physical Property Standards (ASTM)**
+-       - 🔹 Peel Strength
+-       - 🔹 Tensile Strength
+-       - 🔹 Shear Strength
+-       - 🔹 Flexural Properties
+-     - **Coating & Weathering Standards**
+-       - 🔹 ASTM D3363
+-       - 🔹 ASTM B117
+-       - 🔹 AAMA 2605
+-     - **Environmental Standards**
+-       - 🔹 LEED
+-   - **6.2 Certifications & Approvals**
+-     - 🔹 ISO Certification
+-     - **Product-Specific Marks**
+-       - 🔹 FR Grade Certification
+-       - 🔹 CE Marking
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Coating
+-     - 🔹 FR Grade
+-     - 🔹 Alloy
+-     - 🔹 Test Reports
+-     - 🔹 Warranty
+- - **7. Applications & Use Cases**
+-   - **7.1 Industry Applications**
+-     - 🔹 Commercial Construction
+-     - 🔹 Residential Construction
+-     - 🔹 Retail & Corporate
+-     - 🔹 Public Infrastructure
+-     - 🔹 Interior Design
+-     - 🔹 Industrial / Transportation
+- - **8. Supply Chain & Procurement**
+-   - **8.1 Ordering & MOQ**
+-   - **8.2 Logistics & Handling**
+-   - **8.3 Storage**
+- - **9. Market Intelligence**
+-   - **9.1 Buyer & Seller Archetypes**
+-     - 🔹 Sellers
+-     - **Buyers**
+-       - 🔹 Architects & Specifiers
+-       - 🔹 Builders & Developers
+-       - 🔹 Fabricators & Installers
+-       - 🔹 Corporate Clients
+-   - **9.2 Demand Signals & Price Trends**
+-     - 🔹 Demand Signals
+-     - 🔹 Price Trends
+-   - **9.3 Top 5 Requested Specifications**
+-     - 🔹 Fire-Retardant (FR) Grade
+-     - 🔹 Panel Thickness
+-     - 🔹 Aluminum Coil Thickness
+-     - 🔹 Coating
+-     - 🔹 Finish
+-   - **9.4 Competitive Landscape**
+-     - 🔹 Quality & Innovation
+-     - 🔹 Price
+-     - 🔹 Distribution Network
+-     - 🔹 Competition with Other Materials
+-   - **9.5 Regional Patterns & Procurement Insights**
+-     - 🔹 Manufacturing Hubs
+-     - 🔹 Procurement
+-     - 🔹 Seasonal Patterns
+- - **10. Buyer Intelligence**
+-   - **10.1 Common Buyer Questions & Decision Criteria**
+-     - 🔹 "Is it fire-proof? What is the FR grade?"
+-     - 🔹 "What is the warranty on the colour?"
+-     - 🔹 "What is the price per square foot?"
+-     - 🔹 "Do you have this wood/marble finish in stock?"
+-     - 🔹 "What is the difference between this and HPL?"
+-   - **10.2 Vernacular & Search Terms**
+- - **Glossary**
+-   - 🔹 ACP
+-   - 🔹 ASTM
+-   - 🔹 BIS
+-   - 🔹 Cladding
+-   - 🔹 FR Grade
+-   - 🔹 HPL
+-   - 🔹 LDPE
+-   - 🔹 LEED
+-   - 🔹 LOI
+-   - 🔹 NBC
+-   - 🔹 PVDF
+-   - 🔹 PE Coating
+-   - 🔹 T-Bend
+-   - 🔹 UL
+- - **Wiki Metadata**
+-   - 🔹 Category Path
+-   - 🔹 Tags
+-   - 🔹 Sources Ingested
+-   - 🔹 Data Types
+-   - 🔹 Brands Covered
+-   - 🔹 Standards Referenced
+-   - 🔹 Market
+-   - 🔹 Last Updated
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — Batch of 3: call 1.json, call 10.json, call 11.json**
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — Batch of 3: call 12.json, call 13.json, call 14.json**
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — Batch of 3: call 15.json, call 16.json, call 17.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — Batch of 3: call 18.json, call 19.json, call 2.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — Batch of 3: call 20.json, call 3.json, call 4.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — Batch of 3: call 5.json, call 6.json, call 7.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — Batch of 3: call 8.json, call 9.json, pdf 1 - crossbond-acp-sheets-7.json**
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — Batch of 3: pdf 10 - electronic-catalogue-of-guangzhou-xinghe-1.json, pdf 11 - electronic-catalogue-of-guangzhou-xinghe-10.json, pdf 12 - aluminum-composite-panel-acp-9.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — Batch of 3: pdf 2 - black-silver-acp-panel-4.json, pdf 3 - aluminum-composite-panel-8.json, pdf 4 - sunbond-aluminium-composite-panel-11.json**
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — Batch of 3: pdf 5 - alcopanel-aluminium-composite-panel-acp-12.json, pdf 6 - mirror-faced-aluminum-composite-panels-5.json, pdf 7 - e-catalogue-alucoworld-3.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 23: ⏭️ LOAD SOURCE**
+-   - **Step 24: 🔄 UPDATE — Batch of 2: pdf 8 - solid-composite-panels-pb-2003-royal-blue-2.json, pdf 9 - acp-sheets-cladding-6.json**
+-   - **Step 25: ✨ ENRICH**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **❓ Other Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 10.json`**
+-   - **3. `call 11.json`**
+-   - **4. `call 12.json`**
+-   - **5. `call 13.json`**
+-   - **6. `call 14.json`**
+-   - **7. `call 15.json`**
+-   - **8. `call 16.json`**
+-   - **9. `call 17.json`**
+-   - **10. `call 2.json`**
+-   - **11. `call 3.json`**
+-   - **12. `call 5.json`**
+-   - **13. `call 6.json`**
+-   - **14. `call 7.json`**
+-   - **15. `call 8.json`**
+-   - **16. `call 9.json`**
+-   - **17. `pdf 6 - mirror-faced-aluminum-composite-panels-5.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: top brands Aluminum Composite Panel India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: top brands aluminum composite panel India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **3. `WEB: top brands aluminum composite panel India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **4. `WEB: Aluminum Composite Panel thermal conductivity W/mK thermal resistance R-value m²K/W`**
+-     - 🔹 Web Search Results
+-   - **5. `WEB: Aluminum Composite Panel "flexural rigidity" technical data sheet units`**
+-     - 🔹 Web Search Results
+-   - **6. `WEB: top Aluminum Composite Panels brands India leading manufacturers popular ACP companies Indian market`**
+-     - 🔹 Web Search Results
+- - **📄 JSON Data Sources**
+-   - **1. `call 18.json`**
+-   - **2. `call 19.json`**
+-   - **3. `call 20.json`**
+-   - **4. `call 4.json`**
+-   - **5. `pdf 1 - crossbond-acp-sheets-7.json`**
+-   - **6. `pdf 10 - electronic-catalogue-of-guangzhou-xinghe-1.json`**
+-   - **7. `pdf 11 - electronic-catalogue-of-guangzhou-xinghe-10.json`**
+-   - **8. `pdf 12 - aluminum-composite-panel-acp-9.json`**
+-   - **9. `pdf 2 - black-silver-acp-panel-4.json`**
+-   - **10. `pdf 3 - aluminum-composite-panel-8.json`**
+-   - **11. `pdf 4 - sunbond-aluminium-composite-panel-11.json`**
+-   - **12. `pdf 5 - alcopanel-aluminium-composite-panel-acp-12.json`**
+-   - **13. `pdf 7 - e-catalogue-alucoworld-3.json`**
+-   - **14. `pdf 8 - solid-composite-panels-pb-2003-royal-blue-2.json`**
+-   - **15. `pdf 9 - acp-sheets-cladding-6.json`**
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+- - **✅ Self-Resolved Doubts**
+-   - **DOUBT-901: Technical Specifications → Thermal Conductivity *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-902: Technical Specifications → Density *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-1001: Technical Specifications → Density / Face Density *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-1101: Technical Specifications → Flexural Rigidity *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-1102: Technical Specifications → Thermal Resistance *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+
+---
+
+*Index generated at 2026-04-28 05:16:38 UTC*

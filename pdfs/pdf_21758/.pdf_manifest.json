@@ -1,0 +1,67 @@
+{
+  "t-profile-section-22mm-6.pdf": {
+    "status": "processed",
+    "pdf_idx": 1,
+    "output_file": "pdf 1 - t-profile-section-22mm-6.json"
+  },
+  "strut-profile-3.pdf": {
+    "status": "processed",
+    "pdf_idx": 2,
+    "output_file": "pdf 2 - strut-profile-3.json"
+  },
+  "product-details-12.pdf": {
+    "status": "processed",
+    "pdf_idx": 3,
+    "output_file": "pdf 3 - product-details-12.json"
+  },
+  "aluminium-profiles-fittings-7.pdf": {
+    "status": "processed",
+    "pdf_idx": 4,
+    "output_file": "pdf 4 - aluminium-profiles-fittings-7.json"
+  },
+  "aluminum-glass-door-10.pdf": {
+    "status": "processed",
+    "pdf_idx": 5,
+    "output_file": "pdf 5 - aluminum-glass-door-10.json"
+  },
+  "new-bothra-1-11.pdf": {
+    "status": "processed",
+    "pdf_idx": 6,
+    "output_file": "pdf 6 - new-bothra-1-11.json"
+  },
+  "50mm-drawer-profile-with-handle-13.pdf": {
+    "status": "processed",
+    "pdf_idx": 7,
+    "output_file": "pdf 7 - 50mm-drawer-profile-with-handle-13.json"
+  },
+  "handle-section-48mm-8.pdf": {
+    "status": "processed",
+    "pdf_idx": 8,
+    "output_file": "pdf 8 - handle-section-48mm-8.json"
+  },
+  "drawing-for-aluminium-profiles-of-solar-panel-5.pdf": {
+    "status": "processed",
+    "pdf_idx": 9,
+    "output_file": "pdf 9 - drawing-for-aluminium-profiles-of-solar-panel-5.json"
+  },
+  "aluminium-foot-step-sections-1.pdf": {
+    "status": "processed",
+    "pdf_idx": 10,
+    "output_file": "pdf 10 - aluminium-foot-step-sections-1.json"
+  },
+  "45mm-aluminum-profile-with-handle-4.pdf": {
+    "status": "processed",
+    "pdf_idx": 11,
+    "output_file": "pdf 11 - 45mm-aluminum-profile-with-handle-4.json"
+  },
+  "aluminum-drawer-and-shutter-profiles-9.pdf": {
+    "status": "processed",
+    "pdf_idx": 12,
+    "output_file": "pdf 12 - aluminum-drawer-and-shutter-profiles-9.json"
+  },
+  "transport-profiles-2.pdf": {
+    "status": "processed",
+    "pdf_idx": 13,
+    "output_file": "pdf 13 - transport-profiles-2.json"
+  }
+}

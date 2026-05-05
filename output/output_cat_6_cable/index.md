@@ -1,0 +1,330 @@
+# 📑 Category Index — Cat 6 Cable
+
+> Generated on 2026-04-28 05:14:51 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> <WEB_SEARCH_REASONING>
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/cat_6_cable.md](../items/cat_6_cable.md)
+- **📋 Execution Logs:** [../logs/logs_cat_6_cable.md](../logs/logs_cat_6_cable.md)
+- **📖 Source References:** [../references/references_cat_6_cable.md](../references/references_cat_6_cable.md)
+- **🤔 Agent Doubts:** [../doubts/cat_6_cable_doubts.md](../doubts/cat_6_cable_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ (Typical)
+- - **1. Category Overview**
+- - **2. Product Types & Variants**
+-   - 🔹 U/UTP (Unshielded/Unshielded Twisted Pair)
+-   - 🔹 SFTP (Shielded Foiled Twisted Pair)
+-   - 🔹 Outdoor Armored Cable
+-   - 🔹 Patch Cords
+- - **3. Technical Specifications**
+-   - **3.1 Mechanical & Physical Specifications**
+-     - 🔹 Conductor
+-     - 🔹 Insulation
+-     - 🔹 Filler / Separator
+-     - 🔹 Shielding (SFTP)
+-     - 🔹 Rip Cord
+-     - 🔹 Inner Jacket (Armored)
+-     - 🔹 Armoring
+-     - 🔹 Outer Jacket
+-     - 🔹 Plug Housing
+-     - 🔹 Plug Contacts
+-     - 🔹 Performance Standard
+-     - 🔹 Conductor Gauge
+-     - 🔹 Conductor Diameter
+-     - 🔹 Insulation Diameter
+-     - 🔹 Number of Pairs
+-     - 🔹 Shielding
+-     - 🔹 Jacket Material
+-     - 🔹 Jacket Thickness
+-     - 🔹 Overall Diameter
+-     - 🔹 Jacket Color
+-     - 🔹 Standard Length
+-     - 🔹 Connector Type
+-     - 🔹 Bend Radius
+-     - 🔹 Pulling Force
+-     - 🔹 Operating Temp.
+-     - 🔹 Installation Temp.
+-   - **3.2 Electrical Performance Specifications**
+-     - 🔹 Bandwidth
+-     - 🔹 Impedance
+-     - 🔹 Nominal DC Resistance
+-     - 🔹 Resistance Unbalance
+-     - 🔹 Mutual Capacitance
+-     - 🔹 Capacitance Unbalance
+-     - 🔹 NVP (Nominal Velocity of Propagation)
+-     - 🔹 Propagation Delay
+-     - 🔹 Delay Skew
+-     - 🔹 Data Rate (Speed)
+-     - 🔹 1
+-     - 🔹 4
+-     - 🔹 10
+-     - 🔹 16
+-     - 🔹 31.25
+-     - 🔹 62.5
+-     - 🔹 100
+-     - 🔹 200
+-     - 🔹 250
+-   - **3.3 Specification Interdependencies**
+-     - 🔹 Solid vs. Stranded Conductor
+-     - 🔹 Speed vs. Distance
+-     - 🔹 Shielding vs. Environment
+-     - 🔹 Jacket Material vs. Safety
+- - **4. Brands & Manufacturers**
+-   - **Tier 1 (Premium / Enterprise Grade)**
+-     - 🔹 Commscope
+-     - 🔹 Belden
+-     - 🔹 Panduit
+-     - 🔹 Polycab
+-     - 🔹 Havells
+-     - 🔹 Finolex Cables
+-     - 🔹 Other global leaders
+-   - **Tier 2 (Established Players)**
+-     - 🔹 D-Link
+-     - 🔹 KEI Industries
+-     - 🔹 RR Kabel
+-     - 🔹 V-Guard
+-     - 🔹 Sterlite Technologies
+-     - 🔹 APAR Industries
+-     - 🔹 Anchor by Panasonic
+-     - 🔹 Delton Cables
+-     - 🔹 RiT Tech (RIT)
+-     - 🔹 RPG Kables
+-   - **Tier 3 (Other Market Participants)**
+-     - 🔹 Telekonnectors
+-     - 🔹 Linoya
+-     - 🔹 Voltaic Cable Pvt Ltd
+-     - 🔹 Sunteck
+-     - 🔹 Goldmedal
+-     - 🔹 Syska Wires & Cables
+-     - 🔹 Plaza Cables
+- - **5. Pricing & Commercial Information**
+-   - **Bulk Pricing (305m drum/box)**
+-     - 🔹 Economy/Entry-Level
+-     - 🔹 Mid-Range
+-     - 🔹 Premium/Specialty
+-   - 🔹 Per-Meter Pricing
+-   - 🔹 GST
+-   - 🔹 Brand Reputation
+-   - 🔹 Conductor Material
+-   - 🔹 Shielding & Armor
+-   - 🔹 Jacket Material
+-   - 🔹 Certifications
+- - **6. Quality, Standards & Compliance**
+-   - **Performance Standards**
+-     - 🔹 ANSI/TIA-568-C.2
+-     - 🔹 ISO/IEC 11801
+-     - 🔹 EN 50173-1
+-   - **Safety & Material Standards**
+-     - 🔹 UL 94V-0
+-     - 🔹 IEC 60332-1
+-     - 🔹 IEC 60754-1 & -2
+-     - 🔹 IEC 61034-1 & -2
+-     - 🔹 IEC 62321
+-   - 🔹 Authenticity
+-   - 🔹 Cable Jacket Printing
+-   - 🔹 Conductor Material
+-   - 🔹 Physical Construction
+- - **7. Applications & Use Cases**
+-   - 🔹 IT & Corporate Offices
+-   - 🔹 Data Center Racks
+-   - 🔹 Security & Surveillance
+-   - 🔹 Industrial / Manufacturing
+-   - 🔹 Outdoor / Campus Networks
+-   - 🔹 Endpoint Connections
+-   - 🔹 Residential / SOHO
+- - **8. Supply Chain & Procurement**
+- - **9. Market Intelligence**
+-   - 🔹 Sellers
+-   - **Buyers**
+-     - 🔹 System Integrators & Installers
+-     - 🔹 Corporate IT Departments
+-     - 🔹 Electrical Contractors
+-     - 🔹 SMEs & SOHO
+-   - 🔹 Demand Signals
+-   - 🔹 Price Trends
+-   - 🔹 Conductor
+-   - 🔹 Shielding
+-   - 🔹 Packaging
+-   - 🔹 Brand Tier
+-   - 🔹 Jacket Type
+-   - 🔹 Regional Patterns
+-   - 🔹 Procurement Insights
+- - **10. Buyer Intelligence**
+-   - 🔹 Authenticity
+-   - 🔹 Conductor Material
+-   - 🔹 Quantity
+-   - 🔹 Compliance
+-   - 🔹 Jacket Type
+- - **Glossary**
+-   - 🔹 ACR-F
+-   - 🔹 AWG
+-   - 🔹 Cat 6
+-   - 🔹 CCA
+-   - 🔹 EMI
+-   - 🔹 FR-PVC
+-   - 🔹 Gbps
+-   - 🔹 HDPE
+-   - 🔹 IEC
+-   - 🔹 LSZH
+-   - 🔹 MHz
+-   - 🔹 NEXT
+-   - 🔹 PoE
+-   - 🔹 PS-NEXT
+-   - 🔹 PVC
+-   - 🔹 RJ45
+-   - 🔹 RoHS
+-   - 🔹 SFTP
+-   - 🔹 SYSTIMAX
+-   - 🔹 TIA/EIA-568
+-   - 🔹 U/UTP
+- - **Wiki Metadata**
+-   - 🔹 Category Path
+-   - 🔹 Tags
+-   - 🔹 Sources Ingested
+-   - 🔹 Data Types
+-   - 🔹 Brands Covered
+-   - 🔹 Standards Referenced
+-   - 🔹 Market
+-   - 🔹 Last Updated
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — Batch of 3: call 1.json, call 10.json, call 11.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — Batch of 3: call 12.json, call 13.json, call 14.json**
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — Batch of 3: call 15.json, call 16.json, call 17.json**
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — Batch of 3: call 18.json, call 19.json, call 2.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — Batch of 3: call 20.json, call 3.json, call 4.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — Batch of 3: call 5.json, call 6.json, call 7.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — Batch of 3: call 8.json, call 9.json, pdf 1 - lan-cable-cat-5-network-cable-oem-9.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — Batch of 3: pdf 10 - cat6-twisted-pair-armored-cable-5.json, pdf 2 - d-link-cat6-stp-cable-roll-305-meter-10.json, pdf 3 - polycab-lan-cable-2.json**
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — Batch of 3: pdf 4 - utp-cat6-armored-cable-6.json, pdf 5 - cat-6-rj-45-tlk-fit-forget-rj-45-speciality-patch-cord-8.json, pdf 6 - lan-or-cat-6-cables-4.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — Batch of 3: pdf 7 - lan-cables-cat-6-series-1.json, pdf 8 - d-link-cat6-sftp-cable-box-305mtrs-3.json, pdf 9 - v-guard-lan-cables-cat-6-series-7.json**
+-   - **Step 23: ✨ ENRICH**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 16.json`**
+-   - **3. `call 4.json`**
+-   - **4. `pdf 1 - lan-cable-cat-5-network-cable-oem-9.json`**
+-   - **5. `pdf 10 - cat6-twisted-pair-armored-cable-5.json`**
+-   - **6. `pdf 2 - d-link-cat6-stp-cable-roll-305-meter-10.json`**
+-   - **7. `pdf 3 - polycab-lan-cable-2.json`**
+-   - **8. `pdf 4 - utp-cat6-armored-cable-6.json`**
+-   - **9. `pdf 5 - cat-6-rj-45-tlk-fit-forget-rj-45-speciality-patch-cord-8.json`**
+-   - **10. `pdf 6 - lan-or-cat-6-cables-4.json`**
+-   - **11. `pdf 7 - lan-cables-cat-6-series-1.json`**
+-   - **12. `pdf 8 - d-link-cat6-sftp-cable-box-305mtrs-3.json`**
+-   - **13. `pdf 9 - v-guard-lan-cables-cat-6-series-7.json`**
+- - **❓ Other Sources**
+-   - **1. `call 10.json`**
+-   - **2. `call 11.json`**
+-   - **3. `call 12.json`**
+-   - **4. `call 13.json`**
+-   - **5. `call 14.json`**
+-   - **6. `call 15.json`**
+-   - **7. `call 17.json`**
+-   - **8. `call 18.json`**
+-   - **9. `call 19.json`**
+-   - **10. `call 2.json`**
+-   - **11. `call 20.json`**
+-   - **12. `call 3.json`**
+-   - **13. `call 5.json`**
+-   - **14. `call 6.json`**
+-   - **15. `call 7.json`**
+-   - **16. `call 8.json`**
+-   - **17. `call 9.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: top brands Cat 6 cable India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: top brands Cat 6 cable India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **3. `WEB: top brands Cat 6 Cable India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **4. `WEB: top brands Cat 6 cable India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **5. `WEB: top Cat 6 Cable brands India leading manufacturers popular Cat 6 cable companies Indian market`**
+-     - 🔹 Web Search Results
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+- - **✅ Self-Resolved Doubts**
+-   - **DOUBT-701: Wiki Metadata → Sources Ingested *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+
+---
+
+*Index generated at 2026-04-28 05:14:51 UTC*

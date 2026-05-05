@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer explicitly states they have started a 'fruit chaat business' and are looking to 'change business' to 'pani puri or something' by acquiring a 'food cart' or a modified 'E-rickshaw'. This indicates a business-to-business transaction even if the quantity is a single unit, as the purchase is for commercial use and business operations.",
+            "evidence": {
+                "keywords": [
+                    "\u092c\u093f\u091c\u0928\u0947\u0938",
+                    "\u092b\u094d\u0930\u0942\u091f \u091a\u093e\u091f",
+                    "\u092a\u093e\u0928\u0940 \u092a\u0942\u0930\u0940",
+                    "\u092b\u0942\u0921 \u0915\u093e\u0930\u094d\u091f",
+                    "\u0930\u0947\u0935\u0947\u0928\u094d\u092f\u0942"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "business owner",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=84L5ohsUNk3fzzP81KF4KoabIalEuqtJ4CQrnrdx60I02YGUhfvQqfXGyyi/C VSsTglxPCGrXB7etsm8h giFzkvDlvhg9aaTf4TFmEp6UKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "value": 5,
+                    "is_gst_included": false
+                },
+                "value": 300000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Food Cart (Modified E-Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Features",
+                    "value": "burner, lighting, logo, music system, fire stop",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Steel Grade",
+                    "value": "202",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "kilometer",
+                    "value": "50",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This food cart is built on an electric three-wheeler rickshaw base."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is a general category for electric vehicles with three wheels."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The product is an E-rickshaw modified into a food cart, implying it's used for commercial loading and selling of food items. 'E-Rickshaw Loader' best describes this commercial application."
+            }
+        },
+        {
+            "price": {
+                "value": 150000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Base/Chassis/Dala)",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Three-wheel tempo",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Condition",
+                    "value": "\u092a\u0942\u0930\u093e \u0916\u0941\u0932\u093e \u0939\u0941\u0906",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Inclusions",
+                    "value": "documents, number plate, RC",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Lock System",
+                    "value": "required",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Roof/Cover",
+                    "value": "\u0922\u0915\u093e \u0939\u0941\u0906",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is a general category for electric vehicles with three wheels."
+                },
+                {
+                    "name": "E-Rickshaw Loader",
+                    "reason": "The buyer intends to use this base vehicle to carry items for a potential business, making it a form of loader or commercial carrier."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer is asking for a 'three-wheel tempo' or 'chassis' which is '\u092a\u0942\u0930\u093e \u0916\u0941\u0932\u093e \u0939\u0941\u0906' and not modified, representing a basic electric three-wheeled rickshaw or 'dala' for commercial use."
+            }
+        },
+        {
+            "price": {},
+            "in_stock": "in stock",
+            "product_name": "Simple Food Cart (from buyer's video/photo)",
+            "specifications": [
+                {
+                    "name": "Features",
+                    "value": "no steel, no lighting, single layer",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Fabrication",
+                    "value": "normal",
+                    "buyer_requested": false,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Material",
+                    "value": "\u0932\u094b\u0939\u0947 \u0915\u093e \u092c\u0928\u093e \u0939\u0941\u0906 \u092a\u0947\u0902\u091f \u0939\u0941\u0906",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Durability",
+                    "value": "\u091c\u0902\u0917 \u0916\u093e\u0928\u0947 \u0932\u0917\u0947\u0917\u093e (after 2-4 months if in contact with water/wet items)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This food cart is implied to be based on an electric three-wheeler rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is a general category for electric vehicles with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "This is a simpler version of a food cart, still serving the purpose of a mobile commercial unit for selling food, making it an 'E-Rickshaw Loader' in function."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To consider the simpler E-rickshaw options (base chassis or dala) based on business planning"
+        ],
+        "seller_next_steps": [
+            "To quote price for the simple food cart from the video/photo"
+        ]
+    },
+    "buyer_details": {},
+    "seller_details": {}
+}

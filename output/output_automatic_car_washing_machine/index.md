@@ -1,0 +1,318 @@
+# 📑 Category Index — Automatic Car Washing Machine
+
+> Generated on 2026-04-27 07:41:48 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> An Automatic Car Washing Machine is a piece of industrial equipment designed to clean the exterior of automobiles with minimal to no manual intervention. These systems offer a "zero manpower"…
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/automatic_car_washing_machine.md](../items/automatic_car_washing_machine.md)
+- **📋 Execution Logs:** [../logs/logs_automatic_car_washing_machine.md](../logs/logs_automatic_car_washing_machine.md)
+- **📖 Source References:** [../references/references_automatic_car_washing_machine.md](../references/references_automatic_car_washing_machine.md)
+- **🤔 Agent Doubts:** [../doubts/automatic_car_washing_machine_doubts.md](../doubts/automatic_car_washing_machine_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ
+- - **1. Category Overview**
+-   - 🔹 Integrated Automatic Machines
+-   - 🔹 "Full Setup" Packages
+- - **2. Product Types & Variants**
+-   - **2.1 Main Product Types**
+-     - **Fully Automatic Machine**
+-       - 🔹 Brushless (Touchless / Robotic) System
+-       - 🔹 Brush (Soft Touch) System
+-       - 🔹 Gantry / Roll-Over / In-Bay System
+-       - 🔹 Tunnel / Conveyor System
+-     - 🔹 Semi-Automatic "Setup" Package
+-     - 🔹 Machine-Only Purchase
+-   - **2.2 Available Sizes & Configurations**
+-     - 🔹 Automatic Roll-Over System
+-     - 🔹 Semi-Automatic Setup
+-     - 🔹 System Configurability
+- - **3. Technical Specifications**
+-   - **3.1 Specifications Table**
+-     - 🔹 System Type
+-     - 🔹 Washing Method
+-     - 🔹 Wash Capacity
+-     - 🔹 Processing Time
+-     - 🔹 Water Consumption
+-     - 🔹 Shampoo Consumption
+-     - 🔹 Wax Consumption
+-     - 🔹 Labor Requirement
+-     - 🔹 Control System
+-     - 🔹 Machine Dimensions (L x W x H)
+-     - 🔹 Required Bay Dimensions (L x W x H)
+-     - 🔹 Max Vehicle Wash Size (L x W x H)
+-     - 🔹 Brush Details
+-     - 🔹 Nozzle Count
+-     - 🔹 Motor Protection
+-     - 🔹 Motor Power (Total Connected)
+-     - 🔹 Power Supply
+-     - 🔹 Water Supply Pressure
+-     - 🔹 High-Pressure Jetting
+-     - 🔹 Required Air Pressure
+-     - 🔹 Body Material
+-     - 🔹 Component Materials
+-     - 🔹 Production Lead Time
+-     - 🔹 Installation Time
+-     - 🔹 Warranty
+-   - **3.2 Specification Interdependencies**
+-     - 🔹 Price vs. Features
+-     - 🔹 Throughput vs. System Type
+-     - 🔹 Wash Type vs. Resource Use
+-     - 🔹 Optional Features
+- - **4. Brands & Manufacturers**
+-   - **4.1 Brand Overview**
+-     - **Tier 1 (Prominent System Manufacturers)**
+-       - 🔹 KKE Wash Systems
+-       - 🔹 FourWin
+-       - 🔹 Nissan Clean India Private Limited
+-       - 🔹 Schumak Equipment (India) Private Limited
+-       - 🔹 KWE (Kritti Wash Equipment Private Limited)
+-       - 🔹 KRE (K. R. Equipments Pvt. Ltd.)
+-       - 🔹 Inventa Cleantec Pvt. Ltd.
+-     - 🔹 Tier 2 (Other System Manufacturers & Dealers)
+-     - **Tier 3 (Component & Related Brands)**
+-       - 🔹 Crompton
+-       - 🔹 Bosch, Karcher, Nilfisk
+-   - **4.2 Manufacturer & Supply Landscape**
+- - **5. Pricing & Commercial Information**
+-   - **5.1 Price Overview**
+-     - 🔹 High-End Automatic Systems
+-     - **Mid-Range Automatic Systems**
+-       - 🔹 ₹10,50,000
+-       - 🔹 ₹14,50,000
+-       - 🔹 ₹15,50,000
+-       - 🔹 ₹18,00,000
+-       - 🔹 ₹20,50,000 - ₹25,00,000
+-     - 🔹 Entry-Level Automatic Systems
+-     - 🔹 Semi-Automatic Setup Packages
+-     - **Associated Equipment & Costs**
+-       - 🔹 Hydraulic Washing Lift
+-       - 🔹 Civil Work
+-   - **5.2 Pricing Factors**
+-     - 🔹 Scope of Supply
+-     - 🔹 Technology & Automation
+-     - 🔹 Wash Type & Features
+-     - 🔹 Build Quality & Materials
+- - **6. Quality, Standards & Compliance**
+-   - **6.1 Applicable Standards**
+-   - **6.2 Certifications & Approvals**
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Manufacturer Certification
+-     - 🔹 Material Quality
+-     - 🔹 Component Protection
+-     - 🔹 Control System
+-     - 🔹 Brush Quality
+-     - 🔹 Advanced Technology
+-     - 🔹 Warranty
+-   - **6.4 Compliance Requirements**
+- - **7. Applications & Use Cases**
+-   - **7.1 Industry Applications**
+-     - 🔹 Commercial Car Wash Business
+-     - 🔹 Automobile Dealerships
+-     - 🔹 Fuel Stations / Petrol Pumps
+-     - 🔹 Fleet & Logistics Companies
+-     - 🔹 Public & Private Transport
+-     - 🔹 Government & Municipalities
+-   - **7.2 Specific Use Cases**
+- - **8. Supply Chain & Procurement**
+-   - **8.1 Ordering & MOQ**
+-     - 🔹 Inquiry & Consultation
+-     - 🔹 Booking
+-     - 🔹 Production
+-     - 🔹 Site Preparation
+-     - 🔹 Final Payment
+-     - 🔹 Dispatch & Installation
+-   - **8.2 Logistics & Handling**
+-     - 🔹 Installation
+-     - 🔹 Site Preparation
+-     - 🔹 Pre-Installation Engineer Visit
+-   - **8.3 Storage**
+- - **9. Market Intelligence**
+-   - **Buyer & Seller Archetypes**
+-     - **Buyer Archetypes**
+-       - 🔹 New Entrepreneur
+-       - 🔹 Established Business Owner
+-     - **Seller Archetypes**
+-       - 🔹 System Manufacturers
+-       - 🔹 Regional Dealers/Integrators
+-   - **Demand Signals & Price Trends**
+-     - 🔹 Demand Drivers
+-     - 🔹 Price Trends
+-     - **Top 5 Requested Specifications**
+-       - 🔹 Wash Technology
+-       - 🔹 Throughput
+-       - 🔹 Integrated Dryer
+-       - 🔹 Control System
+-       - 🔹 Water Recycling
+-   - **Competitive & Regional Patterns**
+-     - 🔹 Competitive Landscape
+-     - 🔹 Regional Patterns
+-     - 🔹 Procurement Insights
+- - **10. Buyer Intelligence**
+-   - **10.1 Common Buyer Questions & Decision Criteria**
+-     - 🔹 Total Investment & ROI
+-     - 🔹 Features vs. Price
+-     - 🔹 Site & Installation Requirements
+-     - 🔹 Payment & Delivery Timeline
+-     - 🔹 Verification & Trust
+-     - 🔹 Warranty & After-Sales Service
+-   - **10.2 Vernacular & Search Terms**
+-   - **10.3 Common Concerns & Objections**
+-     - 🔹 High Initial Cost
+-     - 🔹 Vehicle Suitability
+-     - 🔹 Clarity on "Setup"
+-     - 🔹 Partnership Approval
+- - **Glossary**
+-   - 🔹 ACP
+-   - 🔹 Brushless Washing
+-   - 🔹 EEPROM
+-   - 🔹 Full Setup
+-   - 🔹 Gantry System
+-   - 🔹 GST
+-   - 🔹 HMI
+-   - 🔹 Hydraulic Washing Lift
+-   - 🔹 IP66
+-   - 🔹 ISO 9001
+-   - 🔹 MPCB
+-   - 🔹 PE
+-   - 🔹 PLC
+-   - 🔹 PVC
+-   - 🔹 Roll-Over System
+-   - 🔹 SS
+-   - 🔹 Token Money
+-   - 🔹 VFD
+-   - 🔹 Virtual Treadle
+- - **Wiki Metadata**
+-   - 🔹 Category Path
+-   - 🔹 Tags
+-   - 🔹 Sources Ingested
+-   - 🔹 Data Types
+-   - 🔹 Brands Covered
+-   - 🔹 Standards Referenced
+-   - 🔹 Market
+-   - 🔹 Last Updated
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — Batch of 3: call 1.json, call 10.json, call 11.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — Batch of 3: call 12.json, call 13.json, call 14.json**
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — Batch of 3: call 15.json, call 16.json, call 17.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — Batch of 3: call 18.json, call 19.json, call 2.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — Batch of 3: call 20.json, call 21.json, call 22.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — Batch of 3: call 23.json, call 24.json, call 3.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — Batch of 3: call 4.json, call 5.json, call 6.json**
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — Batch of 3: call 7.json, call 8.json, call 9.json**
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — Batch of 3: pdf 10.json, pdf 2.json, pdf 3.json**
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — Batch of 3: pdf 4.json, pdf 5.json, pdf 6.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 23: ⏭️ LOAD SOURCE**
+-   - **Step 24: 🔄 UPDATE — Batch of 3: pdf 7.json, pdf 8.json, pdf 9.json**
+-   - **Step 25: ✨ ENRICH**
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 10.json`**
+-   - **3. `call 11.json`**
+-   - **4. `call 12.json`**
+-   - **5. `call 13.json`**
+-   - **6. `call 14.json`**
+-   - **7. `call 15.json`**
+-   - **8. `call 16.json`**
+-   - **9. `call 17.json`**
+-   - **10. `call 18.json`**
+-   - **11. `call 19.json`**
+-   - **12. `call 2.json`**
+-   - **13. `call 20.json`**
+-   - **14. `call 21.json`**
+-   - **15. `call 22.json`**
+-   - **16. `call 23.json`**
+-   - **17. `call 24.json`**
+-   - **18. `call 3.json`**
+-   - **19. `call 4.json`**
+-   - **20. `call 5.json`**
+-   - **21. `call 6.json`**
+-   - **22. `call 7.json`**
+-   - **23. `call 8.json`**
+-   - **24. `call 9.json`**
+-   - **25. `pdf 10.json`**
+-   - **26. `pdf 2.json`**
+-   - **27. `pdf 3.json`**
+-   - **28. `pdf 4.json`**
+-   - **29. `pdf 5.json`**
+-   - **30. `pdf 6.json`**
+-   - **31. `pdf 7.json`**
+-   - **32. `pdf 8.json`**
+-   - **33. `pdf 9.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: top brands Automatic Car Washing Machine India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: top brands automatic car washing machine India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+-   - **3. `WEB: top brands Automatic Car Washing Machine India B2B market popular manufacturers`**
+-     - 🔹 Web Search Results
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+
+---
+
+*Index generated at 2026-04-27 07:41:48 UTC*

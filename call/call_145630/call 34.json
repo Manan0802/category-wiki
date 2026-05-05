@@ -1,0 +1,111 @@
+{
+    "payment": {},
+    "lead_tag": {
+        "deal_blockers": [],
+        "deal_readiness": "Hot",
+        "deal_readiness_reason": "Wants to lift the vehicles for his showroom inventory within the next 2 days."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is a dealership owner looking to source inventory for his showroom, which constitutes a bulk business transaction.",
+            "evidence": {
+                "keywords": [
+                    "Electric Scooter agency",
+                    "Three Wheeler",
+                    "Showroom"
+                ],
+                "order_type": "Commercial",
+                "repeat_buyer": true,
+                "buyer_persona": "Shop Keeper",
+                "quantity_scale": "High"
+            }
+        },
+        "buyer_intent": {
+            "narrative": "The buyer owns an electric scooter agency and wants to purchase electric three-wheelers for his showroom immediately.",
+            "reasoning": "He clearly stated his existing business context and indicated a very short timeline for purchase (tomorrow or the day after).",
+            "intent_level": "High"
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "buyer_conclusion": {
+            "category": "Follow-up",
+            "conclusion_notes": "Seller requested the buyer's number and promised a callback for the day after tomorrow (Parso number se call back karna)"
+        },
+        "primary_language": "Hindi",
+        "additional_details": {
+            "buyer_queries": [],
+            "seller_queries": [
+                {
+                    "query": "Kab chahiye?",
+                    "category": "Timeline",
+                    "sequence": 1
+                }
+            ]
+        },
+        "intended_application": "Retail Resale",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=KOtEjsv23lxv9AZLe/ OqoabIalEuqtJ4CQrnrdx60KMe0YjqylggNEBN3unvaXih4gkTk66JvLeRayKQ7RKnDUu52ciUuPV8 gVe1aN6GoKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Three Wheeler)",
+            "specifications": [
+                {
+                    "name": "Power Source",
+                    "value": "Electric",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Vehicle Type",
+                    "value": "Three Wheeler",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This category covers battery-powered passenger rickshaws discussed."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The buyer specifically used the term three-wheeler for his requirement."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer explicitly requested electric three-wheelers for his agency inventory."
+            }
+        }
+    ],
+    "call_back": "callback by Day after tomorrow - To discuss the three wheeler models and availability (Parso number se call back karna)",
+    "next_steps": {
+        "buyer_next_steps": [
+            "To discuss models and lift the vehicles for the showroom"
+        ],
+        "seller_next_steps": [
+            "To call back the buyer on the provided number to finalize the deal"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Ankit",
+        "buyer_location": {
+            "buyer_city": "Narkatiaganj",
+            "buyer_state": "Bihar"
+        },
+        "buyer_mobile_number": 9661357627
+    },
+    "seller_details": {
+        "seller_name": "Avanish",
+        "seller_location": {
+            "seller_city": "Pipraich"
+        }
+    },
+    "minimum_order_quantity": {}
+}

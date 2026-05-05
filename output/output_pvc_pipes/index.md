@@ -1,0 +1,340 @@
+# 📑 Category Index — Pvc Pipes
+
+> Generated on 2026-04-23 11:12:46 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> <WEB_SEARCH_REASONING>
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/pvc_pipes.md](../items/pvc_pipes.md)
+- **📋 Execution Logs:** [../logs/logs_pvc_pipes.md](../logs/logs_pvc_pipes.md)
+- **📖 Source References:** [../references/references_pvc_pipes.md](../references/references_pvc_pipes.md)
+- **🤔 Agent Doubts:** [../doubts/pvc_pipes_doubts.md](../doubts/pvc_pipes_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ (Typical)
+- - **1. Category Overview**
+-   - **1.1 Definition & Scope**
+-   - **1.2 Category Classification**
+-     - 🔹 Parent Category
+-     - 🔹 Sibling/Related Categories
+-   - **1.3 Market Context**
+-     - 🔹 B2B Buyers
+-     - 🔹 B2C Buyers
+-     - 🔹 Geographic Spread
+- - **2. Product Types & Variants**
+-   - **2.1 Main Product Types**
+-     - 🔹 Unplasticized PVC (uPVC/PVC-U) Pressure Pipes
+-     - 🔹 uPVC Column Pipes
+-     - **SWR (Soil, Waste, and Rainwater) Pipes**
+-       - 🔹 Type A
+-       - 🔹 Type B
+-     - 🔹 Schedule Pipes (Sch 40, 80, 120)
+-     - 🔹 Clear PVC Pipes
+-     - 🔹 CM & CS Casing Pipes
+-     - 🔹 PVC Agriculture (Agri) Pipes
+-     - 🔹 PVC Conduit Pipes
+-   - **2.2 Classification by Joint Type**
+-     - 🔹 Plain End / Selfit (Solvent Weld)
+-     - 🔹 Bell End / Ringfit (Gasketed)
+-   - **2.3 Available Sizes & Configurations**
+-     - **Diameter**
+-       - 🔹 Buyer Requests (common sizes)
+-       - 🔹 Manufacturer Offerings
+-     - **Length**
+-       - 🔹 Commonly Requested
+-       - 🔹 Manufacturer Standards
+-     - 🔹 Colors
+-     - 🔹 Quantity
+- - **3. Technical Specifications**
+-   - **3.1 Specifications Table**
+-     - 🔹 OD 33mm (1") - Std
+-     - 🔹 OD 42mm (1 1/4") - Heavy
+-     - 🔹 OD 48mm (1 1/2") - Heavy
+-     - 🔹 OD 60mm (2") - Heavy
+-     - 🔹 OD 75mm (2 1/2") - Heavy
+-     - 🔹 OD 88mm (3") - Heavy
+-     - 🔹 OD 113mm (4") - Heavy
+-     - 🔹 Class 1
+-     - 🔹 Class 2
+-     - 🔹 Class 3
+-     - 🔹 Class 4
+-     - 🔹 Class 5
+-     - 🔹 Class 6
+-     - 🔹 Material
+-     - 🔹 Special Features (Column Pipes)
+-     - 🔹 Pressure Rating Systems
+-     - 🔹 Working Temperature
+-     - 🔹 Specific Gravity
+-     - 🔹 Safe Working Stress
+-     - 🔹 Vicat Softening Temp.
+-     - 🔹 Longitudinal Reversion
+-     - 🔹 Dichloromethane Resist.
+-     - 🔹 Longevity
+-   - **3.2 Specification Interdependencies**
+-     - 🔹 Pressure, Wall Thickness, and Cost
+-     - 🔹 Column Pipe Grade & Performance
+-     - 🔹 SWR Type A vs. Type B
+-     - 🔹 Joint Type & Application
+- - **4. Brands & Manufacturers**
+-   - **4.1 Brand Overview**
+-     - 🔹 Tier 1 (High Buyer Recall & Proactively Requested)
+-     - 🔹 Tier 2 (Established Manufacturers & Quality Alternatives)
+-     - 🔹 Tier 3 (International & Unbranded)
+-   - **4.2 Manufacturer & Supply Landscape**
+-     - 🔹 Domestic vs. International
+-     - 🔹 Regional Hubs
+-     - 🔹 Distribution Model
+- - **5. Pricing & Commercial Information**
+-   - **5.1 Price Overview**
+-     - 🔸 Pricing Data Variance
+-     - 🔹 PVC Agri Pipe, 75mm Dia, 4 kg/cm²
+-     - 🔹 PVC Agri Pipe, 75mm Dia, 6 kg/cm²
+-     - 🔹 Medium PVC Pipe, 25mm Dia
+-     - 🔹 Quotation Process
+-     - 🔹 Discounts
+-   - **5.2 Pricing Factors**
+-     - 🔹 Raw Material Cost
+-     - 🔹 Brand Reputation
+-     - **Technical Specifications**
+-       - 🔹 Pressure Rating
+-       - 🔹 Specialized Type
+-     - 🔹 Logistics
+-     - 🔹 Order Volume
+- - **6. Quality, Standards & Compliance**
+-   - **6.1 Applicable Standards**
+-     - **Indian Standards (BIS)**
+-       - 🔹 IS 49852021
+-       - 🔹 IS 13592
+-       - 🔹 IS 128181992
+-       - 🔹 IS 122311987
+-     - **International Standards**
+-       - 🔹 ASTM D1785
+-       - 🔹 ISO 161/1, ISO 4422
+-       - 🔹 GB/T 18742.2-2002
+-   - **6.2 Certifications & Approvals**
+-     - 🔹 ISI Mark
+-     - 🔹 ISO Certifications
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Verify the ISI Mark
+-     - 🔹 Match Pipe to Application
+-     - 🔹 For Column Pipes
+-     - 🔹 Review Technical Data Sheets
+-     - 🔹 Confirm Joint Type
+- - **7. Applications & Use Cases**
+-   - **7.1 Industry Applications**
+-     - 🔹 Municipal & Infrastructure
+-     - 🔹 Construction & Plumbing
+-     - 🔹 Industrial / Manufacturing
+-     - 🔹 Agriculture
+-     - 🔹 Borewell & Water Extraction
+-     - 🔹 Utilities
+-   - **7.2 Specific Use Cases**
+-     - 🔹 Submersible Pump Installation
+-     - 🔹 Efficient Irrigation
+-     - 🔹 Visual Process Monitoring
+-     - 🔹 Building Drainage
+- - **8. Supply Chain & Procurement**
+-   - **8.1 Ordering & MOQ**
+-     - 🔹 Order Volume
+-     - 🔹 Order Process
+-   - **8.2 Logistics & Handling**
+-     - 🔹 Transport Cost
+-     - 🔹 Distributor Network
+-   - **8.3 Storage**
+- - **9. Market Intelligence**
+-   - **Buyer Archetypes**
+-     - 🔹 Contractors & Builders
+-     - 🔹 Wholesalers & Distributors
+-     - 🔹 Farmers
+-     - 🔹 Industrial Procurers
+-   - **Demand Signals & Top Requested Specs**
+-     - 🔹 Brand
+-     - 🔹 Pipe Type
+-     - 🔹 Diameter
+-     - 🔹 Pressure Rating
+-     - 🔹 Length
+-   - 🔹 Price Trends & Analysis
+-   - **Competitive Landscape**
+-     - 🔹 Intra-Category
+-     - 🔹 Inter-Category
+-     - 🔹 Value Proposition
+-   - 🔹 Regional Patterns & Procurement Insights
+- - **10. Buyer Intelligence**
+-   - **10.1 Common Buyer Questions & Decision Criteria**
+-     - 🔹 Brand Preference
+-     - 🔹 Specification Match
+-     - 🔹 Application Fitness
+-     - 🔹 Complete System Need
+-     - 🔹 Commercials
+-     - 🔹 Logistics
+-   - **10.2 Vernacular & Search Terms**
+-     - 🔹 Primary Terms
+-     - 🔹 Product Type Terms
+-     - 🔹 Application Terms
+-     - 🔹 Specification Terms
+-     - 🔹 Brand Terms
+-     - 🔹 Commercial Terms
+-     - 🔹 Languages Used
+-   - **10.3 Common Concerns & Objections**
+-     - 🔹 High Freight Costs
+-     - 🔹 Stock Availability
+-     - 🔹 Minimum Order Quantity (MOQ)
+-     - 🔹 Information Lag
+- - **Glossary**
+-   - 🔹 ASTM
+-   - 🔹 Bell End Pipe
+-   - 🔹 Column Pipe
+-   - 🔹 EPDM
+-   - 🔹 IS 4985
+-   - 🔹 IS 12818
+-   - 🔹 IS 13592
+-   - 🔹 kg (pressure)
+-   - 🔹 khet
+-   - 🔹 MPa (Megapascal)
+-   - 🔹 Pump Delivery Head
+-   - 🔹 Ringfit Joint
+-   - 🔹 Safe Pulling Load
+-   - 🔹 Schedule (Sch) 40/80/120
+-   - 🔹 Selfit Joint
+-   - 🔹 Square Threads
+-   - 🔹 SWR
+-   - 🔹 uPVC
+-   - 🔹 UV Stabilized
+-   - 🔹 Vicat Softening Temp.
+- - **Wiki Metadata**
+-   - 🔹 Category Path
+-   - 🔹 Tags
+-   - 🔹 Sources Ingested
+-   - 🔹 Data Types
+-   - 🔹 Brands Covered
+-   - 🔹 Standards Referenced
+-   - 🔹 Market
+-   - 🔹 Last Updated
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — Batch of 3: call 1.json, call 10.json, call 11.json**
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — Batch of 3: call 12.json, call 13.json, call 14.json**
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — Batch of 3: call 15.json, call 16.json, call 17.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — Batch of 3: call 18.json, call 19.json, call 2.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — Batch of 3: call 20.json, call 21.json, call 22.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — Batch of 3: call 23.json, call 24.json, call 25.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — Batch of 3: call 3.json, call 4.json, call 5.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — Batch of 3: call 6.json, call 7.json, call 8.json**
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — Batch of 3: call 9.json, pdf 1.json, pdf 10.json**
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — Batch of 3: pdf 11.json, pdf 12.json, pdf 2.json**
+-   - **Step 23: ⏭️ LOAD SOURCE**
+-   - **Step 24: 🔄 UPDATE — Batch of 3: pdf 3.json, pdf 4.json, pdf 5.json**
+-   - **Step 25: ⏭️ LOAD SOURCE**
+-   - **Step 26: 🔄 UPDATE — Batch of 3: pdf 6.json, pdf 7.json, pdf 8.json**
+-   - **Step 27: ⏭️ LOAD SOURCE**
+-   - **Step 28: 🔄 UPDATE — Batch of 1: pdf 9.json**
+-   - **Step 29: ✨ ENRICH**
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 10.json`**
+-   - **3. `call 11.json`**
+-   - **4. `call 12.json`**
+-   - **5. `call 13.json`**
+-   - **6. `call 14.json`**
+-   - **7. `call 15.json`**
+-   - **8. `call 16.json`**
+-   - **9. `call 17.json`**
+-   - **10. `call 18.json`**
+-   - **11. `call 19.json`**
+-   - **12. `call 2.json`**
+-   - **13. `call 20.json`**
+-   - **14. `call 21.json`**
+-   - **15. `call 22.json`**
+-   - **16. `call 23.json`**
+-   - **17. `call 24.json`**
+-   - **18. `call 25.json`**
+-   - **19. `call 3.json`**
+-   - **20. `call 4.json`**
+-   - **21. `call 5.json`**
+-   - **22. `call 6.json`**
+-   - **23. `call 7.json`**
+-   - **24. `call 8.json`**
+-   - **25. `call 9.json`**
+-   - **26. `pdf 1.json`**
+-   - **27. `pdf 10.json`**
+-   - **28. `pdf 11.json`**
+-   - **29. `pdf 12.json`**
+-   - **30. `pdf 2.json`**
+-   - **31. `pdf 3.json`**
+-   - **32. `pdf 4.json`**
+-   - **33. `pdf 5.json`**
+-   - **34. `pdf 6.json`**
+-   - **35. `pdf 7.json`**
+-   - **36. `pdf 8.json`**
+-   - **37. `pdf 9.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: IS code for unplasticized PVC pipes for agriculture India`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: Plasto PVC pipes GPD series meaning`**
+-     - 🔹 Web Search Results
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+
+---
+
+*Index generated at 2026-04-23 11:12:46 UTC*

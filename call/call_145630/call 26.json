@@ -1,0 +1,184 @@
+{
+    "payment": {
+        "payment_mode": "bank transfer"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about a dealership for electric rickshaws for his business and discussed bulk pricing and recurring supply terms with the manufacturer.",
+            "evidence": {
+                "keywords": [
+                    "Dealer ship",
+                    "Business",
+                    "Selling",
+                    "Manufacturing plant"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": true,
+                "buyer_persona": "distributor",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=bCnlmQnVFChVTkD7FxmZj4abIalEuqtJ4CQrnrdx60JRTiMTmvpFTxNPlqygm8kias1TDfLkhvwudgw71iU1uV3Ll23mj1B694TrrhEHtVIKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 135000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Yatri E-Rickshaw (Lead Acid)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lead Acid",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Brand",
+                    "value": "CY Gold",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Power",
+                    "unit": "W",
+                    "value": "1100",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 2
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This is a battery-operated vehicle used for passenger transport."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is a three-wheeled electric vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Yatri E Rickshaw",
+                "reason": "The seller specifically identifies the brand as Yatri and confirms it is an electric rickshaw (E-Rickshaw)."
+            }
+        },
+        {
+            "price": {
+                "value": 145000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Yatri E-Rickshaw (Lithium)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 2
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "Powered by a lithium-ion battery system."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Yatri E Rickshaw",
+                "reason": "The conversation discusses the Yatri brand specifically for the lithium-ion variant."
+            }
+        },
+        {
+            "price": {
+                "value": 125000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Generic Brand E-Rickshaw (Lead Acid)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lead Acid",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "General battery-operated passenger rickshaws."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Generic brand alternatives mentioned by the seller for electric three-wheelers."
+            }
+        },
+        {
+            "price": {
+                "value": 140000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Saarthi E-Rickshaw (Lithium)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "Branded three-wheeler electric passenger vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Saarthi E Rickshaw",
+                "reason": "The seller explicitly mentions Saarthi as one of the available brands for lithium variants."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To share name and details on WhatsApp",
+            "To call on the personal mobile number provided"
+        ],
+        "seller_next_steps": [
+            "To share business details and dealership process on WhatsApp",
+            "To call back on the buyer's number"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Jeetu"
+    },
+    "seller_details": {
+        "seller_name": "Srikant",
+        "seller_location": {
+            "seller_city": "Patna"
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about purchasing multiple e-rickshaws for business purposes, discussing government subsidies and bulk pricing with a manufacturer.",
+            "evidence": {
+                "keywords": [
+                    "manufacturing",
+                    "subsidy",
+                    "wholesale"
+                ],
+                "order_type": "bulk",
+                "repeat_buyer": true,
+                "buyer_persona": "distributor",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=aEAnQXWFRQYFJdAyJ5K7U4abIalEuqtJ4CQrnrdx60Iup/My2InAX7fODpqh3I/JhTlDIOsWNkT7rZvlksBh5JdPYAGXTreIjq9HWoq0J44KU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 126000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Toto)",
+            "specifications": [
+                {
+                    "name": "Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Steel Brand",
+                    "value": "Jindal Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Brand",
+                    "value": "C-Gold",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Sheet Thickness",
+                    "unit": "mm",
+                    "value": "60",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Warranty",
+                    "unit": "year",
+                    "value": "1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Charger Warranty",
+                    "unit": "years",
+                    "value": "2",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Lithium Battery Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Normal Battery Warranty",
+                    "unit": "months",
+                    "value": "18",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Free Service",
+                    "unit": "times",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 2
+            },
+            "is_buyer_interested": true
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Loader E-Rickshaw (Dala Khulne Wala)",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Openable back tray",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To send a 'Hi' message on WhatsApp",
+            "To visit the shop/factory"
+        ],
+        "seller_next_steps": [
+            "To share product photos and model details via WhatsApp",
+            "To share the price list",
+            "To share the shop location"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Amardeep"
+    },
+    "seller_details": {
+        "seller_name": "Shrikant",
+        "seller_location": {
+            "seller_city": "Patna",
+            "seller_locality": "Sampatchak"
+        }
+    }
+}

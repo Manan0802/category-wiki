@@ -1,0 +1,179 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer owns a battery shop for 20 years and is looking to buy electric rickshaws for business purposes, potentially for integration with his battery sales or for resale, and also for testing lithium batteries. He talks about giving references, indicating an ongoing business relationship rather than a one-time personal purchase. The buyer also mentions trying out lithium batteries, implying a business-related trial.",
+            "evidence": {
+                "keywords": [
+                    "battery ka shop",
+                    "lithium battery",
+                    "trial",
+                    "reference"
+                ],
+                "order_type": "trial",
+                "repeat_buyer": true,
+                "buyer_persona": "shop keeper"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=UnR1SFu1TXWLBir3SfAZtoabIalEuqtJ4CQrnrdx60JGDYQY2gqQpIRvJ4T4p0pDWdfOje 34VOiH2Ic/zfVLfqnBfK9s4hDuMvrwwz5jbsKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "in_stock": "not sold",
+            "product_name": "Vajra Plus",
+            "related_categories": [],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Vijay E Rickshaw",
+                "reason": "The buyer specifically asked about the 'Vajra Plus' model, which is an electric rickshaw under the 'Vajra' brand. The seller stated it's not available. The closest available category is 'Vijay E Rickshaw' which is also an e-rickshaw."
+            }
+        },
+        {
+            "in_stock": "not sold",
+            "product_name": "Vajra Pro",
+            "related_categories": [],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Vijay E Rickshaw",
+                "reason": "The buyer specifically asked about the 'Vajra Pro' model, which is an electric rickshaw under the 'Vajra' brand. The seller stated it's not available. The closest available category is 'Vijay E Rickshaw' which is also an e-rickshaw."
+            }
+        },
+        {
+            "price": {
+                "value": 50000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "without battery"
+            },
+            "in_stock": "in stock",
+            "product_name": "Vajra (Sada Vajra)",
+            "specifications": [
+                {
+                    "name": "Tire Size",
+                    "unit": "inch",
+                    "value": "10",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty on Controller and Motor",
+                    "unit": "year",
+                    "value": "1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is a type of electric rickshaw with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Vijay E Rickshaw",
+                "reason": "The product is identified as 'Sada Vajra' (plain Vajra) and is an electric rickshaw from the Vajra brand. The closest available category is 'Vijay E Rickshaw' which is also an e-rickshaw."
+            }
+        },
+        {
+            "price": {
+                "value": 56000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "without battery"
+            },
+            "in_stock": "in stock",
+            "product_name": "Nava Bharat",
+            "specifications": [
+                {
+                    "name": "Tire Size",
+                    "unit": "inch",
+                    "value": "12",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body/Chassis",
+                    "value": "Rust Proof",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty on Controller and Motor",
+                    "unit": "months",
+                    "value": "18",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is a type of electric rickshaw with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Kinetic Green Auto Rickshaw & Loader",
+                "reason": "The product is explicitly named 'Nava Bharat' and is a type of electric rickshaw. Since a direct 'Nava Bharat E Rickshaw' category is not available, 'Kinetic Green Auto Rickshaw & Loader' is the closest fit as it is an auto rickshaw."
+            }
+        },
+        {
+            "price": {
+                "value": 4500,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Charger",
+            "specifications": [
+                {
+                    "name": "Battery Ampere Compatibility",
+                    "unit": "Ampere",
+                    "value": "35",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Charger Output",
+                    "unit": "Ampere",
+                    "value": "10",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "year",
+                    "value": "1.5",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "This charger is an accessory for an electric rickshaw. As there is no specific category for 'Charger' in the provided schema, 'Electric Rickshaw Three Wheeler' is the most relevant category as it serves this product."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To confirm the purchase"
+        ],
+        "seller_next_steps": []
+    },
+    "buyer_details": {
+        "buyer_location": {
+            "buyer_city": "Dombivli"
+        },
+        "buyer_mobile_number": 97683403600
+    },
+    "seller_details": {}
+}

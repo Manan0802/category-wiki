@@ -1,0 +1,57 @@
+{
+  "document-3a1000121422-2.pdf": {
+    "status": "processed",
+    "pdf_idx": 1,
+    "output_file": "pdf 1 - document-3a1000121422-2.json"
+  },
+  "10mm-jsw-tmt-steel-bars-7.pdf": {
+    "status": "processed",
+    "pdf_idx": 2,
+    "output_file": "pdf 2 - 10mm-jsw-tmt-steel-bars-7.json"
+  },
+  "document-3a1000101649-1.pdf": {
+    "status": "processed",
+    "pdf_idx": 3,
+    "output_file": "pdf 3 - document-3a1000101649-1.json"
+  },
+  "jsw-neosteel-tmt-bars-9.pdf": {
+    "status": "processed",
+    "pdf_idx": 4,
+    "output_file": "pdf 4 - jsw-neosteel-tmt-bars-9.json"
+  },
+  "kenza-tmt-fe-500sd-pdf-3.pdf": {
+    "status": "processed",
+    "pdf_idx": 5,
+    "output_file": "pdf 5 - kenza-tmt-fe-500sd-pdf-3.json"
+  },
+  "20mm-fe-600-tmt-steel-bar-8.pdf": {
+    "status": "processed",
+    "pdf_idx": 6,
+    "output_file": "pdf 6 - 20mm-fe-600-tmt-steel-bar-8.json"
+  },
+  "fe-500-steel-5.pdf": {
+    "status": "processed",
+    "pdf_idx": 7,
+    "output_file": "pdf 7 - fe-500-steel-5.json"
+  },
+  "20-mm-steelmax-premium-thermex-steel-bars-6.pdf": {
+    "status": "processed",
+    "pdf_idx": 8,
+    "output_file": "pdf 8 - 20-mm-steelmax-premium-thermex-steel-bars-6.json"
+  },
+  "12mm-sail-seqr-tmt-bar-10.pdf": {
+    "status": "processed",
+    "pdf_idx": 9,
+    "output_file": "pdf 9 - 12mm-sail-seqr-tmt-bar-10.json"
+  },
+  "tmt-steel-rods-11.pdf": {
+    "status": "processed",
+    "pdf_idx": 10,
+    "output_file": "pdf 10 - tmt-steel-rods-11.json"
+  },
+  "tmt-brochure-12.pdf": {
+    "status": "processed",
+    "pdf_idx": 11,
+    "output_file": "pdf 11 - tmt-brochure-12.json"
+  }
+}

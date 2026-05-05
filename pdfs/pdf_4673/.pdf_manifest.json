@@ -1,0 +1,62 @@
+{
+  "crossbond-acp-sheets-7.pdf": {
+    "status": "processed",
+    "pdf_idx": 1,
+    "output_file": "pdf 1 - crossbond-acp-sheets-7.json"
+  },
+  "black-silver-acp-panel-4.pdf": {
+    "status": "processed",
+    "pdf_idx": 2,
+    "output_file": "pdf 2 - black-silver-acp-panel-4.json"
+  },
+  "aluminum-composite-panel-8.pdf": {
+    "status": "processed",
+    "pdf_idx": 3,
+    "output_file": "pdf 3 - aluminum-composite-panel-8.json"
+  },
+  "sunbond-aluminium-composite-panel-11.pdf": {
+    "status": "processed",
+    "pdf_idx": 4,
+    "output_file": "pdf 4 - sunbond-aluminium-composite-panel-11.json"
+  },
+  "alcopanel-aluminium-composite-panel-acp-12.pdf": {
+    "status": "processed",
+    "pdf_idx": 5,
+    "output_file": "pdf 5 - alcopanel-aluminium-composite-panel-acp-12.json"
+  },
+  "mirror-faced-aluminum-composite-panels-5.pdf": {
+    "status": "processed",
+    "pdf_idx": 6,
+    "output_file": "pdf 6 - mirror-faced-aluminum-composite-panels-5.json"
+  },
+  "e-catalogue-alucoworld-3.pdf": {
+    "status": "processed",
+    "pdf_idx": 7,
+    "output_file": "pdf 7 - e-catalogue-alucoworld-3.json"
+  },
+  "solid-composite-panels-pb-2003-royal-blue-2.pdf": {
+    "status": "processed",
+    "pdf_idx": 8,
+    "output_file": "pdf 8 - solid-composite-panels-pb-2003-royal-blue-2.json"
+  },
+  "acp-sheets-cladding-6.pdf": {
+    "status": "processed",
+    "pdf_idx": 9,
+    "output_file": "pdf 9 - acp-sheets-cladding-6.json"
+  },
+  "electronic-catalogue-of-guangzhou-xinghe-1.pdf": {
+    "status": "processed",
+    "pdf_idx": 10,
+    "output_file": "pdf 10 - electronic-catalogue-of-guangzhou-xinghe-1.json"
+  },
+  "electronic-catalogue-of-guangzhou-xinghe-10.pdf": {
+    "status": "processed",
+    "pdf_idx": 11,
+    "output_file": "pdf 11 - electronic-catalogue-of-guangzhou-xinghe-10.json"
+  },
+  "aluminum-composite-panel-acp-9.pdf": {
+    "status": "processed",
+    "pdf_idx": 12,
+    "output_file": "pdf 12 - aluminum-composite-panel-acp-9.json"
+  }
+}

@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer expresses interest in purchasing multiple e-rickshaws (8 for dealer pricing) and explicitly states the intention to use them for commercial purposes (taxi/Rapido services). The discussion about dealer terms and recurring purchases clearly indicates a business-to-business transaction rather than a personal end-user purchase.",
+            "evidence": {
+                "keywords": [
+                    "dealer rate",
+                    "taxi",
+                    "Rapido"
+                ],
+                "order_type": "recurring",
+                "repeat_buyer": true,
+                "buyer_persona": "Commercial Buyer",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "hindi"
+        ],
+        "primary_language": "hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=0947ce70-4061-424f-898e-942d07949dc3"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 210000,
+                "currency": "INR",
+                "offer_details": "5000 discount"
+            },
+            "in_stock": "in stock",
+            "product_name": "e-rickshaw auto",
+            "specifications": [
+                {
+                    "name": "Motor Power",
+                    "unit": "watt",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery",
+                    "value": "132",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Color",
+                    "value": "Blue",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Type",
+                    "value": "Auto type",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Model",
+                    "value": "Entry Model",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This is a broader category that encompasses e-rickshaws, which are three-wheelers."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "This is a very general category for any electric vehicle with three wheels, which an e-rickshaw is."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Auto Rickshaw",
+                "reason": "The seller explicitly refers to this product as an 'auto type' e-rickshaw and an 'entry model', aligning with the description of an Electric Auto Rickshaw."
+            }
+        },
+        {
+            "price": {
+                "value": 400000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "e-rickshaw",
+            "specifications": [
+                {
+                    "name": "Size",
+                    "value": "Wider, Bigger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Although described as 'wider' and 'bigger', it might still fall under the broader definition of an Electric Auto Rickshaw, especially if used for passenger transport."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "This is a very general category for any electric vehicle with three wheels, which an e-rickshaw is."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as an e-rickshaw, but described as 'wider' and 'bigger' than the 'auto type' model, making 'Electric Rickshaw Three Wheeler' a suitable specific category for a general, potentially larger e-rickshaw."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To visit the seller's factory tomorrow"
+        ],
+        "seller_next_steps": [
+            "To send current location"
+        ]
+    },
+    "buyer_details": {},
+    "seller_details": {
+        "seller_name": "Jitendra Varma",
+        "seller_location": {
+            "seller_city": "Lucknow",
+            "seller_locality": "Nadar Ganj"
+        }
+    }
+}

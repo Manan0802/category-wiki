@@ -1,0 +1,461 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer explicitly states his need for a dealership, mentions his commercial purpose, and intends to sell 5-10 pieces, indicating a business transaction. He also operates a firm 'Patial Automobile' and already deals with other companies like Komaki, which points to a B2B wholesaler persona with recurring purchase intent.",
+            "evidence": {
+                "keywords": [
+                    "commercial purpose",
+                    "for selling",
+                    "dealership",
+                    "firm",
+                    "company"
+                ],
+                "order_type": "bulk",
+                "repeat_buyer": true,
+                "buyer_persona": "Wholesaler",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=28092ce8-3d9a-4a44-bac1-0f814ae25524"
+    },
+    "products": [
+        {
+            "in_stock": "in stock",
+            "product_name": "E-Loader (with Lithium Battery, 3x5 model)",
+            "specifications": [
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "7-8",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Gear System",
+                    "value": "\u092b\u093e\u0907\u0935 \u0917\u093f\u092f\u0930",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Hydraulics",
+                    "value": "\u0939\u093e\u0901",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Model",
+                    "value": "3x5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "This product is a type of electric vehicle designed for loading, making 'Electric Loader' a relevant secondary category."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The product is explicitly referred to as an 'E-Loader' by both buyer and seller, and its specifications (load capacity, gear system, hydraulics) are directly related to loader functionalities."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "E-Loader (with single sukhi Lithium Battery, 36 months warranty)",
+            "specifications": [
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "7-8",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Gear System",
+                    "value": "\u092b\u093e\u0907\u0935 \u0917\u093f\u092f\u0930",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Hydraulics",
+                    "value": "\u0939\u093e\u0901",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "single sukhi Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "This product is a type of electric vehicle designed for loading, making 'Electric Loader' a relevant secondary category."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The product is explicitly referred to as an 'E-Loader' by both buyer and seller, and its specifications (load capacity, gear system, hydraulics) are directly related to loader functionalities."
+            }
+        },
+        {
+            "price": {
+                "value": 105000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Seated model, 1200 Watt Motor, 6 months battery warranty)",
+            "specifications": [
+                {
+                    "name": "Motor Power",
+                    "unit": "Watt",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "6",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "This is a variant of an electric rickshaw used for passenger transport, making 'Electric Auto Rickshaw' a suitable secondary category."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically requested a 'seat wala' (seated) e-rickshaw, which is a three-wheeler passenger vehicle, aligning with 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 110000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Seated model, 1200 Watt Motor, 12 months battery warranty)",
+            "specifications": [
+                {
+                    "name": "Motor Power",
+                    "unit": "Watt",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "12",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "This is a variant of an electric rickshaw used for passenger transport, making 'Electric Auto Rickshaw' a suitable secondary category."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically requested a 'seat wala' (seated) e-rickshaw, which is a three-wheeler passenger vehicle, aligning with 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Seated model, 1200 Watt Motor, 15 months battery warranty)",
+            "specifications": [
+                {
+                    "name": "Motor Power",
+                    "unit": "Watt",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "This is a variant of an electric rickshaw used for passenger transport, making 'Electric Auto Rickshaw' a suitable secondary category."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically requested a 'seat wala' (seated) e-rickshaw, which is a three-wheeler passenger vehicle, aligning with 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 130000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Seated model, 1200 Watt Motor, 36 months battery warranty)",
+            "specifications": [
+                {
+                    "name": "Motor Power",
+                    "unit": "Watt",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "This is a variant of an electric rickshaw used for passenger transport, making 'Electric Auto Rickshaw' a suitable secondary category."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically requested a 'seat wala' (seated) e-rickshaw, which is a three-wheeler passenger vehicle, aligning with 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 61425,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "SRD DLX E-Rickshaw (without battery & charger)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "Five Seater",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Color",
+                    "value": "Red",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Item Type",
+                    "value": "without battery and charger",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Price Type",
+                    "value": "Dealer Rate List",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 5
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "This is a variant of an electric rickshaw used for passenger transport, making 'Electric Auto Rickshaw' a suitable secondary category."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer specifically asked for 'SRD DLX Five Seater' which is a type of electric rickshaw designed for passenger transport, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "value": 39000,
+                "currency": "INR",
+                "price_unit": "battery"
+            },
+            "in_stock": "in stock",
+            "product_name": "Lead Acid Battery (for SRD DLX E-Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lead Acid",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Voltage",
+                    "unit": "Volt",
+                    "value": "48",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Number of Batteries",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This battery is a component used in 'Electric Rickshaw Three Wheeler' vehicles."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Battery Operated Rickshaw",
+                "reason": "The product is a battery, specifically for an e-rickshaw, and 'Battery Operated Rickshaw' is the closest available category for components related to electric rickshaws. The seller quotes this as '\u0905\u0915\u0947\u0932\u0940 \u092c\u0948\u091f\u0930\u0940 \u0915\u093e \u0930\u0947\u091f \u0939\u0948' (the rate for the battery alone)."
+            }
+        },
+        {
+            "price": {
+                "value": 55000,
+                "currency": "INR",
+                "price_unit": "battery"
+            },
+            "in_stock": "in stock",
+            "product_name": "Lithium Battery (for SRD DLX E-Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "This battery is a component used in 'Electric Rickshaw Three Wheeler' vehicles."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Battery Operated Rickshaw",
+                "reason": "The product is a battery, specifically for an e-rickshaw, and 'Battery Operated Rickshaw' is the closest available category for components related to electric rickshaws. The seller quotes this as '\u0915\u0947\u092c\u0932 \u092c\u0948\u091f\u0930\u0940 \u092c\u0948\u091f\u0930\u0940' (only the battery)."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "E-Gold E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Features",
+                    "value": "\u092d\u093e\u0930\u0940 \u0917\u093e\u0921\u093c\u0940",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Features",
+                    "value": "\u0915\u093e\u092b\u0940 \u0938\u093e\u0930\u0947 \u0905\u091a\u094d\u091b\u0947 \u092b\u0940\u091a\u0930\u094d\u0938 \u0939\u0948\u0902",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Aesthetics",
+                    "value": "\u0926\u0947\u0916\u0928\u0947 \u092e\u0947\u0902 \u092d\u0940 \u0917\u093e\u0921\u093c\u0940 \u0938\u0941\u0902\u0926\u0930 \u0939\u0948",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Price Level",
+                    "value": "High",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "This is a variant of an electric rickshaw used for passenger transport, making 'Electric Auto Rickshaw' a suitable secondary category."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly mentioned as a brand of e-rickshaw ('E-Gold'), which is a three-wheeler passenger vehicle, aligning with 'Electric Rickshaw Three Wheeler'."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To decide which brand (SRD or E-Gold) to pursue for dealership",
+            "To finalize order quantity",
+            "To clarify details on E-Gold features and pricing"
+        ],
+        "seller_next_steps": [
+            "To provide detailed information about E-Gold e-rickshaws (features, pricing)",
+            "To discuss dealership terms with the buyer"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Patial Automobile",
+        "buyer_location": {
+            "buyer_state": "Himachal"
+        }
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Kanpur",
+            "seller_state": "UP"
+        }
+    }
+}

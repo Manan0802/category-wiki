@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is asking for an electric rickshaw for personal use and wants to purchase a single unit. There is no mention of bulk quantity, industrial use, or reselling, which indicates a B2C transaction.",
+            "evidence": {
+                "order_type": "one-time",
+                "buyer_persona": "End Customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "hindi"
+        ],
+        "primary_language": "hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/callv2/recording?token=3j7DdXNGD3ZYodG3cGFEu4abIalEuqtJ4CQrnrdx60KjT4l3gxySbhRfS6Ml/tC 8DYSx/o7tf8uSF3iYr53A5GSht4XRfrMikpX4vnsYpSpvENCUQsgKAjAGz0sCCVG"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 155000,
+                "currency": "INR",
+                "offer_details": "\u20b95000 discount offered on the price, bringing it down to \u20b9150000."
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Half dala) [4-battery]",
+            "specifications": [
+                {
+                    "name": "Number of Batteries",
+                    "value": "4",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Half dala",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer is specifically asking for an 'electric rickshaw' and the seller is offering various models of electric rickshaws with different battery configurations, which are typically three-wheeler vehicles."
+            }
+        },
+        {
+            "price": {
+                "value": 165000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Half dala) [5-battery]",
+            "specifications": [
+                {
+                    "name": "Number of Batteries",
+                    "value": "5",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Half dala",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is an 'electric rickshaw' with specific battery configurations, indicating it's a three-wheeler vehicle."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Atut Sangam Electric Rickshaw",
+            "specifications": [
+                {
+                    "name": "Axle Type",
+                    "value": "Double differential",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Suspension",
+                    "value": "Double spring",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Chassis",
+                    "value": "Double chassis",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Loading Capacity",
+                    "unit": "quintal",
+                    "value": "10",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an 'electric rickshaw', which is a type of three-wheeler vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Atut Shakti E Rickshaw",
+                "reason": "The seller explicitly mentions and recommends 'Atut Sangam' (Atut Shakti) for its good performance and double features, indicating a specific brand of e-rickshaw."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Arzoo Electric Rickshaw",
+            "specifications": [],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an 'electric rickshaw', which is a type of three-wheeler vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Arzoo Electric Rickshaw",
+                "reason": "The buyer specifically requested 'Arzoo' electric rickshaw and the seller acknowledges having it."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Yatri Electric Rickshaw",
+            "specifications": [],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an 'electric rickshaw', which is a type of three-wheeler vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Yatri E Rickshaw",
+                "reason": "The buyer and seller discuss 'Yatri' as a brand of electric rickshaw."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Mayuri Electric Rickshaw",
+            "specifications": [],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an 'electric rickshaw', which is a type of three-wheeler vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Mayuri Electric Rickshaw",
+                "reason": "The buyer inquired about 'Mayuri' electric rickshaw and the seller provided information about it."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To visit the seller's shop to check the rickshaw and discuss the price."
+        ],
+        "seller_next_steps": [
+            "To share photos of rickshaws with the buyer."
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Amar",
+        "buyer_location": {},
+        "buyer_mobile_number": 9525940099
+    },
+    "seller_details": {
+        "seller_name": "Amit",
+        "seller_location": {
+            "seller_city": "Motihari"
+        }
+    }
+}

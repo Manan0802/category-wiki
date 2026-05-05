@@ -1,0 +1,237 @@
+{
+    "payment": {
+        "payment_details": "Buyer inquired about Finance options and Cash payment rates."
+    },
+    "lead_tag": {
+        "deal_blockers": [
+            "Location: Dealership policy prevents selling in areas where other dealers exist"
+        ],
+        "deal_readiness": "Warm",
+        "deal_readiness_reason": "Interested in Yatri E-Rickshaw and negotiating price across different dealers"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The conversation involves purchasing an E-Rickshaw for commercial passenger use, discussing dealer vs. retail pricing, and dealership territories.",
+            "evidence": {
+                "keywords": [
+                    "Dealership",
+                    "On-road price",
+                    "Ex-showroom price",
+                    "Registration papers"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "buyer_intent": {
+            "narrative": "Wants to purchase a Yatri Passenger E-Rickshaw and is comparing prices between different dealerships to get the best on-road deal.",
+            "reasoning": "The buyer has already spoken to other dealers (Atut Sangam) and is now negotiating with the main distributor for a lower on-road price including registration papers.",
+            "intent_level": "High"
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "buyer_conclusion": {
+            "category": "Follow-up",
+            "conclusion_notes": "Will discuss further on the personal mobile number provided (Personal number pe baat karenge)"
+        },
+        "primary_language": "Hindi",
+        "additional_details": {
+            "buyer_queries": [
+                {
+                    "query": "Is there a dealership in Muzaffarpur? (Muzaffarpur mein dealership hai kya?)",
+                    "category": "Location",
+                    "sequence": 1
+                },
+                {
+                    "query": "What is the starting price for iron body models? (Loha body mein kitna se starting hai?)",
+                    "category": "Price",
+                    "sequence": 2
+                },
+                {
+                    "query": "Will I get a better rate if I come directly to your dealership? (Direct aapke dealership pe aaye toh rate sahi mil jayega?)",
+                    "category": "Price",
+                    "sequence": 4
+                }
+            ],
+            "seller_queries": [
+                {
+                    "query": "Do you want to take it on finance? (Finance pe lena tha kya?)",
+                    "category": "Finance",
+                    "sequence": 3
+                }
+            ]
+        },
+        "intended_application": "Passenger Transportation",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=QuosRuz0ZXAul0XpTiDzI4abIalEuqtJ4CQrnrdx60L2Sck9qBSvwh0Tiiqtm mCNnYiKNaDoG1v0XAfobDQMsaOaB72GIUa/x fr Qhi cKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 135000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "offer_details": "Seller offered a special on-road price of 1,30,000 INR including papers and delivery to Muzaffarpur.",
+                "price_negotiation_notes": "Dealer rate mentioned as 1,20,000; Customer on-road rate is usually 1,35,000 or higher (up to 1,65,000 at other dealers).",
+                "price_reaction_by_buyer": "Negotiating: (Customer hai toh do-paanch jagah puchenge)"
+            },
+            "in_stock": "in stock",
+            "product_name": "Yatri Electric Rickshaw (4 Battery)",
+            "specifications": [
+                {
+                    "name": "Battery Quantity",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Brand",
+                    "value": "Eastman",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Capacity",
+                    "unit": "AH",
+                    "value": "140",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lead Acid",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "18",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Iron (Loha Body)",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "It is a battery-powered three-wheeler used for passenger transport."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "Standard industry categorization for passenger e-rickshaws."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Yatri Electric Vehicle",
+                "reason": "The seller explicitly identifies the brand as Yatri and discusses various battery configurations for this model."
+            },
+            "quantity_accepted_by_seller": true
+        },
+        {
+            "price": {
+                "value": 150000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Yatri Electric Rickshaw (5 Battery)",
+            "specifications": [
+                {
+                    "name": "Battery Quantity",
+                    "value": "5",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "General category for electric passenger vehicles."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Yatri Electric Vehicle",
+                "reason": "Specific brand mentioned by the seller with a 5-battery configuration."
+            },
+            "quantity_accepted_by_seller": true
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Yatri Electric Rickshaw (Steel Body)",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Yatri Electric Vehicle",
+                "reason": "Seller mentioned availability of Yatri with Steel Body option."
+            },
+            "quantity_accepted_by_seller": true
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Breza Electric Rickshaw",
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Mentioned as an available brand of e-rickshaw."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Allfine Electric Rickshaw",
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Allfine Electric Rickshaw",
+                "reason": "Brand explicitly mentioned by the seller as part of their portfolio."
+            }
+        }
+    ],
+    "call_back": "callback by In 1 hour - To discuss further on personal number (Personal number pe baat karenge)",
+    "next_steps": {
+        "buyer_next_steps": [
+            "To call on the seller's personal mobile number for final negotiation"
+        ],
+        "seller_next_steps": [
+            "To share photos of Yatri, Breza, Allfine, and Jio Fine models on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Inteshamul"
+    },
+    "seller_details": {
+        "seller_name": "Amit Kumar Jha",
+        "seller_location": {
+            "seller_city": "Patna",
+            "seller_state": "Bihar",
+            "seller_locality": "Bairiya Bus Stand"
+        },
+        "seller_mobile_number": 7783009474
+    },
+    "minimum_order_quantity": {
+        "unit": "piece",
+        "value": 1
+    }
+}

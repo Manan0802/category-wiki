@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer explicitly states the product is '\u0918\u0930 \u0915\u0947 \u0932\u093f\u090f' (for home), indicating personal use rather than commercial or bulk purchase. The quantity is clearly low (implied one unit for personal use).",
+            "evidence": {
+                "keywords": [
+                    "\u0918\u0930 \u0915\u0947 \u0932\u093f\u090f"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=gUGQNXvArc51spMYu46FF4abIalEuqtJ4CQrnrdx60IaEAc7LrZoUb4flFl sHVEgEK3VHBdKFdjb2vh6vx6J60oWSTeAaDVtyyyq4XQtWZW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": false
+                },
+                "value": 200000,
+                "currency": "INR",
+                "offer_details": "Approximate price including transport would be 2 lakh rupees from Lucknow to Navi Mumbai.",
+                "delivery_charge": {
+                    "details": "Transportation costs will be very high to Navi Mumbai.",
+                    "is_delivery_charge_included": false
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Ayansh Electric)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "2 Seater",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Usage",
+                    "value": "Home Use",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Type",
+                    "value": "Electric",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw and has three wheels, directly fitting this category."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw and has three wheels, directly fitting this category."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "As an electric rickshaw, it is implicitly battery operated."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly referred to as a 'rickshaw' and 'three-wheeler' by the buyer, and it's electric. The 'Two-seater' specification narrows it down to this category."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To send the photo of the product to the seller on WhatsApp"
+        ],
+        "seller_next_steps": [
+            "To wait for the buyer to send the product photo"
+        ]
+    },
+    "buyer_details": {
+        "buyer_location": {
+            "buyer_city": "Navi Mumbai"
+        },
+        "buyer_mobile_number": 7738029636
+    },
+    "seller_details": {
+        "seller_name": "Adesh",
+        "seller_location": {
+            "seller_city": "Lucknow"
+        }
+    }
+}

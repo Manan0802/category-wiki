@@ -1,0 +1,630 @@
+# 📑 Category Index — Colour Coated Roofing Sheet
+
+> Generated on 2026-04-22 12:09:17 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> Colour Coated Roofing Sheets are a broad category of pre-finished panels used for roofing, cladding, and other construction applications. These sheets are engineered to provide durable,…
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/colour_coated_roofing_sheet.md](../items/colour_coated_roofing_sheet.md)
+- **📋 Execution Logs:** [../logs/logs_colour_coated_roofing_sheet.md](../logs/logs_colour_coated_roofing_sheet.md)
+- **📖 Source References:** [../references/references_colour_coated_roofing_sheet.md](../references/references_colour_coated_roofing_sheet.md)
+- **🤔 Agent Doubts:** [../doubts/colour_coated_roofing_sheet_doubts.md](../doubts/colour_coated_roofing_sheet_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ (Typical)
+- - **1. Category Overview**
+-   - 🔸 Data Variance
+-   - **1.1 Category Classification**
+-     - 🔹 Parent Category
+-     - 🔹 Sibling/Related Categories
+-     - 🔹 HSN Codes
+- - **9. Market Intelligence**
+-   - **2.1 Buyer & Seller Archetypes**
+-     - **Buyer Archetypes**
+-       - 🔹 Industrial/PEB Contractors
+-       - 🔹 Commercial Developers & Builders
+-       - 🔹 Small Business Owners/Individuals
+-       - 🔹 Agricultural Sector
+-     - **Seller Archetypes**
+-       - 🔹 Tier-1 Brands (e.g., JSW, Tata)
+-       - 🔹 Regional Manufacturers (e.g., Durakolor, ROOFTEC)
+-       - 🔹 Wholesale Traders (e.g., Loha Mandi, Delhi)
+-       - 🔹 Local Retailers
+-   - **2.2 Demand Signals & Top 5 Requested Specifications**
+-     - 🔹 Brand
+-     - 🔹 Thickness
+-     - 🔹 Material Type
+-     - 🔹 Profile Type
+-     - 🔹 Length
+-   - **2.3 Price Trends & Factors**
+-     - 🔹 Price Range
+-     - **Key Pricing Factors**
+-       - 🔹 Brand
+-       - 🔹 Material
+-       - 🔹 Thickness & Coating
+-       - 🔹 Order Volume
+-       - 🔹 Location
+-   - **2.4 Competitive Landscape**
+-     - 🔹 [[PPGL]] vs. [[PPGI]]
+-     - **Metal vs. [[Fibre Cement Sheets]]**
+-       - 🔹 Metal Sheets
+-       - 🔹 [[Fibre Cement Sheets]]
+-   - **2.5 Procurement Insights**
+-     - 🔹 Order Channels
+-     - 🔹 The 'Gauge' Trap
+-     - 🔹 Lead Time
+-     - 🔹 Associated Costs
+- - **2. Product Types & Variants**
+-   - **3.1 By Base Material**
+-     - 🔹 PPGI (Pre-Painted Galvanised Iron)
+-     - 🔹 PPGL (Pre-Painted Galvalume)
+-     - 🔹 BGL (Bare Galvalume)
+-     - 🔹 Aluminum
+-     - 🔹 Fibre Cement
+-   - **3.2 By Profile / System**
+-     - 🔹 Corrugated (Sinusoidal)
+-     - 🔹 Trapezoidal / Hi-Rib
+-     - 🔹 Tile Profile
+-     - 🔹 Decking Profile
+-     - 🔹 `[[K Span Roofing]]` (Self-Supported)
+-     - 🔹 Curved
+-   - **3.3 By Finish**
+-     - 🔹 Paint Systems
+-     - 🔹 Aesthetic Finishes
+-   - **3.4 Associated Accessories**
+- - **3. Technical Specifications**
+-   - **4.1 General Metal Sheet Specifications (Compiled from multiple sources)**
+-     - 🔹 Base Material
+-     - 🔹 Yield Strength (YS)
+-     - 🔹 Thickness (TCT)
+-     - 🔹 Metallic Coating
+-     - 🔹 Organic Coating
+-     - 🔹 Effective Width
+-     - 🔹 Length
+-   - **4.2 Purlin Spacing Data (Example for a Trapezoidal Profile - Durakolor Az Roof)**
+-     - 🔹 Roof Span
+-     - 🔹 Wall Cladding
+-   - **4.3 Key Design Features**
+-     - 🔹 Anti-Capillary Groove
+-     - 🔹 Stiffening Ribs
+-     - 🔸 CRITICAL WARNING on 'GAUGE' vs 'MM'
+- - **4. Brands & Manufacturers**
+-   - 🔹 Tier 1 (Premium)
+-   - 🔹 Tier 2 (Project-Focused)
+-   - 🔹 Fibre Cement Specialist
+-   - 🔹 International
+- - **5. Pricing & Commercial Information**
+-   - **6.1 Price Overview**
+-     - 🔹 Price Range (Metal Sheets)
+-     - 🔹 Illustrative Pricing (Market Rates)
+-     - 🔹 Per Piece Pricing
+- - **6. Quality, Standards & Compliance**
+-   - **7.1 Applicable Standards**
+-     - 🔹 For Pre-Painted Steel
+-     - 🔹 For Fibre Cement Sheets
+-     - 🔹 International Equivalents
+-   - **7.2 Quality Indicators for Buyers**
+-     - 🔹 Request Test Certificates
+-     - 🔹 Specify Coating Mass
+-     - 🔹 Check for Markings
+-     - 🔹 Enquire about Paint System
+-     - 🔹 Specify a Protective Film
+- - **7. Applications & Use Cases**
+-   - 🔹 Industrial / PEB
+-   - 🔹 Infrastructure
+-   - 🔹 Commercial
+-   - 🔹 Residential
+-   - 🔹 Construction
+-   - 🔹 General / Fencing
+- - **14. See Also**
+- - **15. Wiki Metadata**
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — call 1.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Technical Specifications
+-     - 🔹 Doubt Log
+-     - 🔹 Top hit
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — call 10.json**
+-     - 🔹 Rationale
+-     - 🔹 Top hit
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — call 11.json**
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — call 12.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — call 13.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — call 14.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — call 15.json**
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — call 16.json**
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — call 17.json**
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — call 18.json**
+-   - **Step 23: ⏭️ LOAD SOURCE**
+-   - **Step 24: 🔄 UPDATE — call 19.json**
+-   - **Step 25: ⏭️ LOAD SOURCE**
+-   - **Step 26: 🔄 UPDATE — call 2.json**
+-   - **Step 27: ⏭️ LOAD SOURCE**
+-   - **Step 28: 🔄 UPDATE — call 20.json**
+-   - **Step 29: ⏭️ LOAD SOURCE**
+-   - **Step 30: 🔄 UPDATE — call 21.json**
+-   - **Step 31: ⏭️ LOAD SOURCE**
+-   - **Step 32: 🔄 UPDATE — call 22.json**
+-   - **Step 33: ⏭️ LOAD SOURCE**
+-   - **Step 34: 🔄 UPDATE — call 23.json**
+-   - **Step 35: ⏭️ LOAD SOURCE**
+-   - **Step 36: 🔄 UPDATE — call 24.json**
+-   - **Step 37: ⏭️ LOAD SOURCE**
+-   - **Step 38: 🔄 UPDATE — call 25.json**
+-   - **Step 39: ⏭️ LOAD SOURCE**
+-   - **Step 40: 🔄 UPDATE — call 3.json**
+-   - **Step 41: ⏭️ LOAD SOURCE**
+-   - **Step 42: 🔄 UPDATE — call 4.json**
+-   - **Step 43: ⏭️ LOAD SOURCE**
+-   - **Step 44: 🔄 UPDATE — call 5.json**
+-   - **Step 45: ⏭️ LOAD SOURCE**
+-   - **Step 46: 🔄 UPDATE — call 6.json**
+-   - **Step 47: ⏭️ LOAD SOURCE**
+-   - **Step 48: 🔄 UPDATE — call 7.json**
+-   - **Step 49: ⏭️ LOAD SOURCE**
+-   - **Step 50: 🔄 UPDATE — call 8.json**
+-   - **Step 51: ⏭️ LOAD SOURCE**
+-   - **Step 52: 🔄 UPDATE — call 9.json**
+-   - **Step 53: ⏭️ LOAD SOURCE**
+-   - **Step 54: 🔄 UPDATE — pdf 1.json**
+-   - **Step 55: ⏭️ LOAD SOURCE**
+-   - **Step 56: 🔄 UPDATE — pdf 10.json**
+-   - **Step 57: ⏭️ LOAD SOURCE**
+-   - **Step 58: 🔄 UPDATE — pdf 11.json**
+-       - 🔹 HSN Code
+-       - 🔹 Corrugated (Sinusoidal)
+-       - 🔹 Flat Sheet
+-       - 🔹 Aluminum
+-       - **Thickness**
+-         - 🔹 Fibre Cement Sheets
+-       - **Dimensions & Weight**
+-           - 🔹 Fibre Cement Sheets
+-         - **Weight**
+-           - 🔹 Fibre Cement Sheets
+-         - 🔹 Colorshine
+-       - 🔹 Brand
+-       - **Thickness & Weight**
+-         - 🔹 IS 142461995
+-         - 🔹 IS 513
+-       - 🔹 For Fibre Cement Sheets
+-       - 🔹 ISI Mark
+-     - **6.3 Quality Indicators for Buyers**
+-       - 🔹 Warranty
+- - **9. Market Intelligence**
+-   - 🔹 9.2 Seasonal & Cyclical Patterns
+-   - 🔹 9.3 Competitive Landscape
+- - **Glossary**
+-   - 🔹 Actual Width
+-   - 🔹 BIS 148712000
+-   - 🔹 Fibre Cement
+-   - 🔹 IS 14246
+-   - 🔹 ISO 99331995(E)
+-   - 🔹 Patra
+-   - 🔹 Purlin Spacing
+-   - 🔹 RAL
+-   - 🔹 Runner Spacing
+-   - 🔹 Tin Sheet (Tin Patra)
+-   - 🔹 Work of Fracture
+- - **1. Category Overview**
+-     - 🔹 HSN Code
+-     - 🔹 Corrugated (Sinusoidal)
+-     - 🔹 Flat Sheet
+-     - 🔹 Aluminum
+-     - **Thickness**
+-       - 🔹 Fibre Cement Sheets
+-       - 🔹 Width
+-       - **Weight**
+-         - 🔹 Fibre Cement Sheets
+-   - **3.1.2 Metal Sheet Weight Data (per sq. meter)**
+-       - 🔹 Profile & Width
+-       - **Tier 2 (Established Manufacturers)**
+-         - 🔹 Colorshine
+-         - 🔹 IS 142461995
+-         - 🔹 IS 513
+-     - 🔹 AS 1397
+-     - 🔹 BIS 148712000
+-     - 🔹 Crest Height
+-     - 🔹 Effective Width
+-     - 🔹 IS 800-2007
+-     - 🔹 ISO 99331995(E)
+- - **1. Category Overview**
+-     - 🔹 HSN Code
+- - **2. Product Types & Variants**
+-   - **By Profile**
+-     - 🔹 Corrugated (Sinusoidal)
+-     - 🔹 Curved (Concave & Convex)
+-     - 🔹 Aluminum
+-     - **Thickness**
+-       - 🔹 Fibre Cement Sheets
+- - **3. Technical Specifications**
+-   - **3.2 Specification Interdependencies**
+-     - **Tier 1 (Proactively Requested/Major Indian Players)**
+-       - 🔹 Tata Steel
+-       - 🔹 Jindal
+-     - **Tier 2 (Established Manufacturers)**
+-       - 🔹 Colorshine
+-   - **5.1 Price Overview**
+-       - 🔹 JSW Colour Coated Sheet (0.45mm) ₹120/kg
+-     - 🔹 Brand
+-     - 🔹 Thickness & Weight
+-     - 🔹 For Metal Sheets
+-     - 🔹 For Fibre Cement Sheets
+-     - 🔹 General
+-   - 🔹 6.2 Certifications & Approvals
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Coating Mass (GSM)
+-   - **8.2 Logistics & Handling**
+-     - 🔹 Delivery & Pickup
+-   - 🔹 8.3 Storage
+- - **9. Market Intelligence**
+-   - 🔹 9.2 Seasonal & Cyclical Patterns
+-   - **10.1 Common Buyer Questions & Decision Criteria**
+-     - 🔹 Price
+-     - 🔹 Dimensions & Thickness
+-   - **10.2 Vernacular & Search Terms**
+-     - 🔹 GI Sheet / Colour sheet / Roofing patra
+-     - 🔹 Steel che patre / Cell cha patra
+-   - **10.3 Common Concerns & Objections**
+-     - 🔹 Brand Pricing
+- - **Glossary**
+-   - 🔹 Patra
+-   - 🔹 Tin Sheet (Tin Patra)
+- - **1. Category Overview**
+-     - 🔹 HSN Code
+-     - 🔹 Corrugated (Sinusoidal)
+-     - 🔹 Decking Profile
+-     - 🔹 Structureless / K Span Roofing
+-     - 🔹 Flat Sheet / Coils
+-     - 🔹 PPGL (Pre-Painted Galvalume)
+-     - 🔹 Aluminum
+-     - **Thickness**
+-       - 🔹 Fibre Cement Sheets
+-       - 🔹 Width
+-     - 🔹 Weight
+-     - 🔹 Span (for Structureless Roofing)
+-   - **3.1.2 Profile Dimensions (Examples from Catalogs)**
+-     - 🔹 Trapezoidal (MP-1020)
+-     - **3.2 Specification Interdependencies**
+-       - **Profile & Width**
+-         - 🔹 MPIL (Multicolor Projects (India) Ltd.)
+-         - 🔹 Colorshine
+-     - 🔹 ASTM A792
+-     - 🔹 Decking Sheet
+-     - 🔹 RAL
+-     - 🔹 SMP (Silicon Modified Polyester)
+-     - 🔹 Tin Sheet (Tin Patra)
+- - **See Also**
+- - **1. Category Overview**
+-     - 🔹 HSN Code
+- - **2. Product Types & Variants**
+-   - **2.2 Available Sizes & Configurations**
+-     - 🔹 Weight
+-   - **3.1.1 Metal Roofing & Cladding Sheet Specifications**
+-       - **Material & Performance**
+-         - 🔹 Colorshine
+-         - 🔹 Jindal Colour Coated Sheet (0.45mm) ₹115/kg
+-       - 🔹 Brand
+-       - 🔹 Order Volume & Location
+- - **6. Quality, Standards & Compliance**
+-       - 🔹 IS 142461995
+-       - 🔹 IS 513
+-     - 🔹 For Fibre Cement Sheets
+-     - 🔹 ISO 9001
+-   - 🔹 6.3 Quality Indicators for Buyers
+-   - 🔹 8.1 Ordering & MOQ
+-   - 🔹 8.2 Logistics & Handling
+-   - 🔹 8.3 Storage
+-   - 🔹 9.3 Competitive Landscape
+- - **Glossary**
+-   - 🔹 Fibre Cement
+-   - 🔹 GI Sheet
+-   - 🔹 HSN Code
+-   - 🔹 IS 14246
+-   - 🔹 K Span Roofing
+-   - 🔹 PPGI (Pre-Painted Galvanised Iron)
+-   - 🔹 PPGL (Pre-Painted Galvalume)
+-   - 🔹 Tin Sheet (Tin Patra)
+- - **1. Category Overview**
+-     - 🔹 Fibre Cement
+-   - **2.2 Available Sizes & Configurations**
+-       - 🔹 Fibre Cement Sheets
+- - **3. Technical Specifications**
+-     - 🔹 Per Piece Pricing (Metal Roofing Sheets)
+-     - **For Pre-Painted Steel Sheets**
+-       - 🔹 ASTM A755
+-     - **For Aluminum Sheets**
+-       - 🔹 ISO 99331995(E)
+-   - **6.3 Quality Indicators for Buyers**
+-     - 🔹 Channel Distinction
+-   - 🔹 8.2 Logistics & Handling
+- - **9. Market Intelligence**
+-   - 🔹 9.2 Seasonal & Cyclical Patterns
+-   - 🔹 9.3 Competitive Landscape
+- - **Glossary**
+-   - 🔹 Covered Width
+-   - 🔹 Gauge
+-   - 🔹 GSM (Grams per Square Meter)
+-   - 🔹 K Span Roofing
+-   - 🔹 MPa (Megapascal)
+-   - 🔹 Tin Sheet (Tin Patra)
+- - **See Also**
+- - **1. Category Overview**
+-     - 🔹 HSN Code
+-     - 🔹 Corrugated (Sinusoidal)
+-     - 🔹 Decking Profile
+-     - 🔹 Curved (Concave & Convex)
+-     - 🔹 BGL (Bare Zinc Aluminium) / Bare Galvalume
+-   - **2.2 Available Sizes & Configurations**
+-       - 🔹 Fibre Cement Sheets
+-     - 🔹 Dimensions & Width
+-     - 🔹 Coil Specifications (for bulk procurement)
+-     - 🔹 Weight
+-   - **3.2 Specification Interdependencies**
+-     - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-     - **Tier 3 (Local/Economy Brands & Suppliers)**
+-       - 🔹 IS 513
+-       - 🔹 IS 142461995
+-     - 🔹 For Aluminum Sheets
+-     - 🔹 Performance Test Results
+-     - 🔹 Channel Distinction
+-   - **8.2 Logistics & Handling**
+-     - 🔹 Length
+-   - 🔹 8.3 Storage
+-   - 🔹 9.3 Competitive Landscape
+-   - 🔹 Anti-Capillary Groove
+-   - 🔹 BGL (Bare Galvalume)
+-   - 🔹 ECCA
+-   - 🔹 Gauge
+-   - 🔹 IS 513
+-   - 🔹 MPa (Megapascal)
+-   - 🔹 PPGL (Pre-Painted Galvalume)
+-   - 🔹 Tin Sheet (Tin Patra)
+- - **1. Category Overview**
+-     - 🔹 Corrugated (Sinusoidal)
+-     - 🔹 Tile Profile
+-     - 🔹 Aluminum
+-     - **Aesthetic Finishes**
+-       - 🔹 Metal Coils
+-       - 🔹 Decking Sheets
+-   - **3.1.3 Profile Dimensions (Examples from Catalogs)**
+-       - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-       - 🔹 Tier 3 (Local/Economy Brands & Suppliers)
+-       - **For Pre-Painted Steel Sheets**
+-         - 🔹 ASTM A792 / A792M / A792M-08
+-       - 🔹 Coating Mass (GSM/AZ)
+-       - **Performance Test Results**
+-         - 🔹 Metal Coils
+-         - 🔹 Decking Sheets
+-       - 🔹 Dimensions & Width
+-       - 🔹 Coil Specifications (for bulk procurement)
+-   - **3.1.3 Profile Dimensions (Examples from Catalogs)**
+-       - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-       - 🔹 Tier 3 (Local/Economy Brands & Suppliers)
+-     - **4.2 Manufacturer & Supply Landscape**
+-       - 🔹 Distribution Network
+-       - 🔹 HSN Code
+-       - 🔹 Decking Profile
+-       - **Curved (Concave & Convex)**
+-         - 🔹 Metal Coils
+-       - 🔹 Dimensions & Width
+-       - 🔹 Coil Specifications (for bulk procurement)
+-       - 🔹 Weight
+-   - **3.1.1 Material Variant Specifications (Example from BRPL Catalog)**
+-       - 🔹 Material & Performance
+-       - 🔹 Thickness & Load Capacity
+-       - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-       - 🔹 Tier 3 (Local/Economy Brands & Suppliers)
+-       - **For Pre-Painted Steel Sheets**
+-         - 🔹 IS 142461995
+-       - 🔹 For Aluminum Sheets
+-       - **For Fibre Cement Sheets**
+-         - 🔹 BIS 148712000
+-       - 🔹 General & Structural
+-     - **6.3 Quality Indicators for Buyers**
+-       - 🔹 Performance Test Results
+-       - 🔹 Channel Distinction
+-     - **8.2 Logistics & Handling**
+-       - 🔹 Length
+-     - 🔹 8.3 Storage
+-     - 🔹 9.3 Competitive Landscape
+-     - 🔹 Anti-Capillary Groove
+-     - 🔹 ASTM A755 / A792M
+-     - 🔹 BGL (Bare Galvalume)
+-     - 🔹 ECCA
+-     - 🔹 IS 277
+-     - 🔹 MPa (Megapascal)
+-     - 🔹 TCT
+-     - **Tin Sheet (Tin Patra)**
+-       - 🔹 Corrugated (Sinusoidal)
+-       - 🔹 Tile Profile
+-       - 🔹 Minimalism Profile
+-       - 🔹 Structureless / K Span Roofing
+-       - 🔹 PPGI (Pre-Painted Galvanised Iron)
+-       - **BGL (Bare Zinc Aluminium) / Bare Galvalume**
+-         - 🔹 Metal Coils
+-         - 🔹 Fibre Cement Sheets
+-         - 🔹 Width
+-       - 🔹 Sheet Size (Tile Profile)
+-       - 🔹 Profile & Width
+-       - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-       - **Tier 3 (Local/Economy Brands & Suppliers)**
+-         - 🔹 ASTM A792 / A792M
+-         - 🔹 IS 142461995
+-       - 🔹 Compliance to Standards
+-       - 🔹 Key Design Features
+- - **10. Buyer Intelligence**
+-     - 🔹 Brand & Material
+-   - 🔹 Anti-Capillary Groove
+-   - **AS 2728**
+-     - 🔹 Minimalism Profile
+-     - 🔹 Structureless / K Span Roofing
+-     - 🔹 BGL (Bare Zinc Aluminium) / Bare Galvalume
+-     - **Fibre Cement**
+-       - 🔹 Metal Coils
+-       - 🔹 Fibre Cement Sheets
+-     - 🔹 Dimensions & Width
+-     - 🔹 Sheet Size (Tile Profile)
+-     - 🔹 Profile & Width
+-     - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-     - 🔹 Tier 3 (Local/Economy Brands & Suppliers)
+-   - **6.2 Certifications & Approvals**
+-     - 🔹 ECCA (European Coil Coating Association) Test Methods
+- - **1. Category Overview**
+-     - 🔹 Round-Rib Profile
+-     - 🔹 PPGI (Pre-Painted Galvanised Iron)
+-     - **BGL (Bare Zinc Aluminium) / Bare Galvalume**
+-       - 🔹 Metal Coils
+-       - 🔹 Decking Sheets
+-       - 🔹 Width
+-     - 🔹 Sheet Size (Tile Profile)
+-   - **3.2 Specification Interdependencies**
+-     - 🔹 Profile & Width
+-     - 🔹 Tier 1 (Proactively Requested/Major Indian Players)
+-     - 🔹 Tier 3 (Local/Economy Brands & Suppliers)
+-   - **4.2 Manufacturer & Supply Landscape**
+-     - 🔹 Distribution Network
+-     - 🔹 Coating Mass (AZ/GSM)
+-     - 🔹 Performance Test Results
+-   - 🔹 ASTM A755 / A792M
+-   - 🔹 BGL (Bare Galvalume)
+- - **1. Category Overview**
+-   - 🔹 By Profile / System
+-   - 🔹 By Base Material
+-   - 🔹 By Finish (Optional)
+-   - 🔹 Associated Accessories
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `call 1.json`**
+-   - **2. `call 10.json`**
+-   - **3. `call 11.json`**
+-   - **4. `call 12.json`**
+-   - **5. `call 13.json`**
+-   - **6. `call 14.json`**
+-   - **7. `call 15.json`**
+-   - **8. `call 16.json`**
+-   - **9. `call 17.json`**
+-   - **10. `call 18.json`**
+-   - **11. `call 19.json`**
+-   - **12. `call 2.json`**
+-   - **13. `call 20.json`**
+-   - **14. `call 21.json`**
+-   - **15. `call 22.json`**
+-   - **16. `call 23.json`**
+-   - **17. `call 24.json`**
+-   - **18. `call 25.json`**
+-   - **19. `call 3.json`**
+-   - **20. `call 4.json`**
+-   - **21. `call 5.json`**
+-   - **22. `call 6.json`**
+-   - **23. `call 7.json`**
+-   - **24. `call 8.json`**
+-   - **25. `call 9.json`**
+-   - **26. `pdf 1.json`**
+-   - **27. `pdf 10.json`**
+-   - **28. `pdf 11.json`**
+-   - **29. `pdf 12.json`**
+-   - **30. `pdf 13.json`**
+-   - **31. `pdf 14.json`**
+-   - **32. `pdf 15.json`**
+-   - **33. `pdf 16.json`**
+-   - **34. `pdf 2.json`**
+-   - **35. `pdf 3.json`**
+-   - **36. `pdf 4.json`**
+-   - **37. `pdf 5.json`**
+-   - **38. `pdf 6.json`**
+-   - **39. `pdf 7.json`**
+-   - **40. `pdf 8.json`**
+-   - **41. `pdf 9.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: sheet metal gauge thickness chart india`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: IS code for colour coated steel roofing sheets India`**
+-     - 🔹 Web Search Results
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+- - **✅ Self-Resolved Doubts**
+-   - **DOUBT-101: Technical Specifications → Thickness (Gauge) *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-301: Technical Specifications → Thickness (Gauge) *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-401: Technical Specifications → Thickness (Gauge) *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-501: Technical Specifications → Thickness (Gauge) *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-2801: 1. Category Overview → 1.1 Definition & Scope / 1.2 Category Classification *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+
+---
+
+*Index generated at 2026-04-22 12:09:17 UTC*

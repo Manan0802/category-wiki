@@ -1,0 +1,390 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer explicitly states a need for a 'loader e-rickshaw' that can carry '8-10 quintal' and run 'din bhar' (all day), indicating commercial use for goods transport, not personal use. While the quantity is low (one unit), the intended application is clearly business-oriented.",
+            "evidence": {
+                "keywords": [
+                    "loader e-rickshaw",
+                    "8-10 quintal load",
+                    "din bhar chal sake"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "commercial transporter",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "hindi"
+        ],
+        "primary_language": "hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=bXwG88qzeOHP DI82htAn4abIalEuqtJ4CQrnrdx60JGF0FzMGFYkSgb2ZZZ 9UDtupebQZnjPU6kawXIM/oIp08uh0ozy4eSPg6WjSQDIIKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 160000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "Price for on-road with paper"
+            },
+            "in_stock": "in stock",
+            "product_name": "Loader E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "8-10",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery",
+                    "value": "4-battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Type",
+                    "value": "Full Dala",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Controller Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Documentation",
+                    "value": "with papers",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "The product is an E-Rickshaw designed for loading purposes, making it an electric loader."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is an electric rickshaw with three wheels, used for commercial loading."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric three-wheeler vehicle designed for goods transport."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The buyer explicitly asked for a 'loader e-rickshaw' which directly corresponds to an E-Rickshaw Loader product."
+            }
+        },
+        {
+            "price": {
+                "value": 145000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "Price for on-road without paper"
+            },
+            "in_stock": "in stock",
+            "product_name": "Loader E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "8-10",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery",
+                    "value": "4-battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Type",
+                    "value": "Full Dala",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Controller Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Documentation",
+                    "value": "without papers",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "The product is an E-Rickshaw designed for loading purposes, making it an electric loader."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is an electric rickshaw with three wheels, used for commercial loading."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric three-wheeler vehicle designed for goods transport."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The buyer explicitly asked for a 'loader e-rickshaw' which directly corresponds to an E-Rickshaw Loader product."
+            }
+        },
+        {
+            "price": {
+                "value": 175000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "Price for on-road"
+            },
+            "in_stock": "in stock",
+            "product_name": "Loader E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "8-10",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery",
+                    "value": "5-battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Type",
+                    "value": "Full Dala",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Controller Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "The product is an E-Rickshaw designed for loading purposes, making it an electric loader."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is an electric rickshaw with three wheels, used for commercial loading."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric three-wheeler vehicle designed for goods transport."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The buyer explicitly asked for a 'loader e-rickshaw' which directly corresponds to an E-Rickshaw Loader product."
+            }
+        },
+        {
+            "price": {
+                "value": 155000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Loader E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "8-10",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery",
+                    "value": "4-battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Type",
+                    "value": "Half Dala",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Controller Wattage",
+                    "unit": "Watt",
+                    "value": "1500",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "The product is an E-Rickshaw designed for loading purposes, making it an electric loader."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is an electric rickshaw with three wheels, used for commercial loading."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric three-wheeler vehicle designed for goods transport."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The buyer explicitly asked for a 'loader e-rickshaw' and this is a variant offered by the seller for loading purposes."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery",
+                    "value": "4-battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Steel",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Passenger E-Rickshaws are a type of electric auto-rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric three-wheeler vehicle designed for passenger transport."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller mentioned 'Passenger E-Rickshaw' as a comparison, which is a common term for an Electric Rickshaw Three Wheeler used for passenger transport."
+            }
+        },
+        {
+            "price": {
+                "value": 112000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery",
+                    "value": "4-battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Loha",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Passenger E-Rickshaws are a type of electric auto-rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric three-wheeler vehicle designed for passenger transport."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller mentioned 'Passenger E-Rickshaw' as a comparison, which is a common term for an Electric Rickshaw Three Wheeler used for passenger transport."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To call the seller on the provided number"
+        ],
+        "seller_next_steps": [
+            "To send product photos and details to the buyer"
+        ]
+    },
+    "buyer_details": {
+        "buyer_location": {
+            "buyer_city": "Muzaffarpur"
+        }
+    },
+    "seller_details": {
+        "seller_name": "Amit Kumar Jha",
+        "seller_location": {
+            "seller_city": "Patna"
+        },
+        "seller_mobile_number": 7783009474
+    }
+}

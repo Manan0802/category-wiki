@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer explicitly states they want to see one piece first and if satisfied, they will consider taking a dealership. The seller also mentions 'dealer's price' when comparing other products, indicating a B2B context for the buyer's inquiry.",
+            "evidence": {
+                "keywords": [
+                    "dealership",
+                    "dealer's price"
+                ],
+                "order_type": "trial",
+                "repeat_buyer": false,
+                "buyer_persona": "Potential Distributor"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=2/rZhVBH98C9JlLy0tbv7TI8eFMmxZOojob4Q0FGz8DTBLvksWJ8XOlzg/xo5p35G4rMmpkr5C8lrQMUffxb6t2pVP5U12Imr1PSDgyvhHVW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "details": "Including registration",
+                    "is_gst_included": true
+                },
+                "value": 230000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Solar Rickshaw",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Auto Model (Bajaj Auto type)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Purpose",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is identified as an 'E-rickshaw' and the seller mentions it's an 'auto model' implying a three-wheeler electric rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric vehicle with three wheels, a broader category for such vehicles."
+                },
+                {
+                    "name": "Solar Vehicle",
+                    "reason": "The rickshaw integrates solar power, making it a solar-powered vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Solar Electric Rickshaw",
+                "reason": "The buyer specifically asks about an 'Electric Solar wali' rickshaw, and the seller confirms they provide a 'Solar wala' option, clearly indicating solar as a key feature."
+            }
+        },
+        {
+            "product_name": "E-rickshaw",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Basic/Standard",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is an electric vehicle with three wheels, a broader category for such vehicles."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer refers to this as a 'basic' or 'standard' E-rickshaw in contrast to the 'auto model' and 'solar' variants, which generally refers to a standard three-wheeled electric rickshaw."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To review the photos of the Electric Solar Rickshaw",
+            "To provide feedback on the Electric Solar Rickshaw"
+        ],
+        "seller_next_steps": [
+            "To send photos of the Electric Solar Rickshaw",
+            "To send rates of the Electric Solar Rickshaw",
+            "To call back the buyer"
+        ]
+    },
+    "buyer_details": {
+        "buyer_location": {
+            "buyer_city": "Mumbai"
+        }
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_state": "Haryana"
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about a commercial electric rickshaw for loading iron/metal and discussed customized specifications with the manufacturer.",
+            "evidence": {
+                "keywords": [
+                    "Manufacturing company",
+                    "Customized",
+                    "Loading"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=aDyxmqLhKxF21QYPeXoEtDI8eFMmxZOojob4Q0FGz8BWa5jQNMXyqxfTFdzOQzGCsta6TTaBpMoXlsMdPBaLMPh AVswzgtfIn8r sfV1jrEWVyLj3a1ynw cCS8nrCT"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 90000,
+                "currency": "INR",
+                "offer_details": "Price of 90000 includes RTO, number plate, and insurance"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (E-Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Battery and Charger",
+                    "value": "Included",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Documents",
+                    "value": "RTO, Number Plate, Insurance, Original RC included",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Dala Size",
+                    "unit": "feet",
+                    "value": "4x5",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Kamani Type",
+                    "value": "Double Kamani",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Load Capacity",
+                    "unit": "quintal",
+                    "value": "10",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "E-Rickshaw Loader",
+                    "reason": "The buyer specifically mentioned using the rickshaw for loading iron."
+                },
+                {
+                    "name": "Electric Loader",
+                    "reason": "It is an electric vehicle intended for heavy loading up to 10 quintals."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an electric rickshaw used for loading purposes."
+            }
+        },
+        {
+            "price": {
+                "value": 85000,
+                "currency": "INR",
+                "offer_details": "Without battery, charger, or documents"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Basic)",
+            "specifications": [
+                {
+                    "name": "Battery and Charger",
+                    "value": "Not included",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Documents",
+                    "value": "Not included",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "Basic configuration of the electric rickshaw without accessories."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To visit the factory in Panki Ispat Nagar",
+            "To check product photos and videos on WhatsApp"
+        ],
+        "seller_next_steps": [
+            "To share product photos, videos, and feature details on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Aman",
+        "buyer_location": {
+            "buyer_city": "Kanpur"
+        }
+    },
+    "seller_details": {
+        "seller_name": "Nandani",
+        "seller_location": {
+            "seller_city": "Kanpur",
+            "seller_locality": "Panki Ispat Nagar"
+        }
+    }
+}

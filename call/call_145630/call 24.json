@@ -1,0 +1,211 @@
+{
+    "payment": {
+        "payment_mode": "cash"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring about electric rickshaws for personal use, specifically for transporting bread and fodder for cows, and mentions his physical disability as a factor for the purchase. The quantities discussed are for a single unit, and the intent is not for resale or industrial bulk use.",
+            "evidence": {
+                "keywords": [
+                    "Inter-campus",
+                    "Inter-campus transport",
+                    "Inter-campus transportation",
+                    "Personal use"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=3fc7lcsp5i9vgFRMhTBFvYabIalEuqtJ4CQrnrdx60KS9oVjcy9OElbkALYGirKDFEGFgBhXm6u1P8Wz0ZJArebZVpSXU3D4UAYJLu3FddVW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "value": 5,
+                    "is_gst_included": false
+                },
+                "value": 225000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E Rickshaw (Battery Rickshaw)",
+            "specifications": [
+                {
+                    "name": "Seating Capacity",
+                    "value": "6 (4 rear + 2 front)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "100",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Charging Time",
+                    "unit": "hours",
+                    "value": "4",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Speed",
+                    "unit": "kmph",
+                    "value": "25",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is a battery-powered vehicle as confirmed by the seller."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The rickshaw is described as a three-wheeled electric vehicle."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The buyer explicitly asks for a battery-operated rickshaw (e-rickshaw) for road use with a passenger capacity of 4+2."
+            }
+        },
+        {
+            "price": {
+                "value": 250000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "High-Speed E Rickshaw",
+            "specifications": [
+                {
+                    "name": "Speed",
+                    "unit": "kmph",
+                    "value": "50",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "150",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Reverse Gear",
+                    "value": "Yes",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "It is a three-wheeled electric passenger vehicle."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller discusses a high-speed variant of the electric rickshaw."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Electric Buggy (Four-Wheeler)",
+            "specifications": [
+                {
+                    "name": "Wheel Count",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Steering Type",
+                    "value": "Steering Wheel",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Usage",
+                    "value": "Inter-campus (Resorts, Colleges)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Seating Capacity Options",
+                    "value": "4, 6, 8, 14",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "Though 4-wheeled, it falls under the broader category of small electric utility/passenger vehicles discussed."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller describes a 4-wheeled electric buggy for inter-campus use."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To share WhatsApp number",
+            "To review the catalog and videos provided by the seller"
+        ],
+        "seller_next_steps": [
+            "To send the product catalog via WhatsApp",
+            "To share videos of the electric vehicles (front and back views)"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "ARVIND",
+        "buyer_location": {
+            "buyer_city": "Ludhiana",
+            "buyer_state": "Punjab"
+        }
+    },
+    "seller_details": {
+        "seller_name": "Bhushan",
+        "seller_location": {
+            "seller_city": "Pune",
+            "seller_state": "Maharashtra"
+        }
+    }
+}

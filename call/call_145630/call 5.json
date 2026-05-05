@@ -1,0 +1,392 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer initially expresses interest for personal use but later inquires about the wholesale price of 65,000 for 12 units, which the seller confirms is a bulk order price from the manufacturer. The seller also mentions dealer pricing, indicating a B2B context for such quantities.",
+            "evidence": {
+                "keywords": [
+                    "dealer",
+                    "manufacturer"
+                ],
+                "order_type": "bulk",
+                "buyer_persona": "Wholesaler",
+                "quantity_scale": "High"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=c75585f4-fba4-4ace-9ab5-76f30ed97ac8"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 105000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Model",
+                    "value": "Base",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "6",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 80500,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Warranty",
+                    "value": "N/A",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Inclusions",
+                    "value": "without battery charger",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 110000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "12",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 115000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 130000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 150000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Super Deluxe E-Rickshaw (MS Model)",
+            "specifications": [
+                {
+                    "name": "Model",
+                    "value": "Super Deluxe",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Material",
+                    "value": "MS",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Features",
+                    "value": "Alloy Wheel, Motor Wiper, Roof Carrier, Fire Stop, Heavy Duty Tire",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 155000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Super Deluxe E-Rickshaw (SS Model)",
+            "specifications": [
+                {
+                    "name": "Model",
+                    "value": "Super Deluxe",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Material",
+                    "value": "SS",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Features",
+                    "value": "Alloy Wheel, Motor Wiper, Roof Carrier, Fire Stop, Heavy Duty Tire",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        },
+        {
+            "price": {
+                "value": 65000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Purchase Type",
+                    "value": "Wholesale Order",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "rickshaws",
+                "value": 12
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is a three-wheeled electric rickshaw."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is an electric rickshaw."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The buyer explicitly mentioned 'battery wala rickshaw'."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is a 'battery wala rickshaw' which is specifically an 'Electric Rickshaw Three Wheeler'."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To contact the Ayodhya showroom to finalize the purchase with finance option",
+            "To check for local finance options for battery charger rickshaw"
+        ],
+        "seller_next_steps": [
+            "To call back the buyer with details for the 3-year warranty Super Deluxe model"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Ajay Kumar",
+        "buyer_location": {
+            "buyer_city": "Delhi"
+        },
+        "buyer_mobile_number": 9582137850
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Kanpur"
+        }
+    }
+}

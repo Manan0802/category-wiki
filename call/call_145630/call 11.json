@@ -1,0 +1,237 @@
+{
+    "payment": {
+        "payment_mode": "credit",
+        "payment_details": "Loan processing will include a file charge of 3500 INR, a 1500 INR HP charge, and 5 years of registration. Down payment is 15000 INR to 35000-40000 INR, depending on the model. The interest rate on the loan is a flat 20% per annum. For a loan of 110000 INR, 12 monthly installments would be 11000 INR each, 15 monthly installments would be 9100 INR each, and 18 monthly installments would be 8000 INR each. The interest for a 110000 INR loan over 12 months would be 22000 INR."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is an individual inquiring about purchasing a single battery rickshaw (passenger type) for commercial use. The discussion focuses on personal financing, loan terms, and the specific driving license required for operating an e-rickshaw, indicating an individual entrepreneur looking to acquire a commercial asset.",
+            "evidence": {
+                "keywords": [
+                    "loan",
+                    "license",
+                    "passenger wala"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "hindi"
+        ],
+        "primary_language": "hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=84L5ohsUNk3fzzP81KF4KoabIalEuqtJ4CQrnrdx60KVh0iFBW8n7CVGvLyyYn6QyIE/oMORcDqiTXCVRszlBdxL mTVUAQzBV PVSw4/20KU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 40000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-Rickshaw (Loha Body)",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "Iron (Loha)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range per Charge",
+                    "unit": "km",
+                    "value": "90-100",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller",
+                    "unit": "W",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is a 'battery rickshaw', clearly indicating it is battery operated."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "E-rickshaws are often referred to as electric auto rickshaws due to their similar function of public passenger transport."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is a 'battery rickshaw' and a 'passenger wala', which is a type of electric vehicle with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly referred to as a 'battery rickshaw' and 'passenger wala', which is a type of three-wheeled electric vehicle used for passenger transport."
+            }
+        },
+        {
+            "price": {
+                "value": 150000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-Rickshaw (Steel Body)",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "Steel (middle part)",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Wheels",
+                    "value": "Alloy",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller Quality",
+                    "value": "Improved",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range per Charge",
+                    "unit": "km",
+                    "value": "90-100",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller",
+                    "unit": "W",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is a 'battery rickshaw', clearly indicating it is battery operated."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "E-rickshaws are often referred to as electric auto rickshaws due to their similar function of public passenger transport."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is a 'battery rickshaw' and a 'passenger wala', which is a type of electric vehicle with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly referred to as a 'battery rickshaw' and 'passenger wala', which is a type of three-wheeled electric vehicle used for passenger transport."
+            }
+        },
+        {
+            "price": {
+                "value": 180000,
+                "currency": "INR",
+                "price_unit": "piece"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-Rickshaw (Full Steel Body)",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "100% Steel (Chassis, Neck, Boxes, Sheet, Front, Back)",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "years",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range per Charge",
+                    "unit": "km",
+                    "value": "90-100",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller",
+                    "unit": "W",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is a 'battery rickshaw', clearly indicating it is battery operated."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "E-rickshaws are often referred to as electric auto rickshaws due to their similar function of public passenger transport."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is a 'battery rickshaw' and a 'passenger wala', which is a type of electric vehicle with three wheels."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is explicitly referred to as a 'battery rickshaw' and 'passenger wala', which is a type of three-wheeled electric vehicle used for passenger transport."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To check other options for E-rickshaw",
+            "To compare prices and features"
+        ],
+        "seller_next_steps": [
+            "To send information on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Vicky",
+        "buyer_location": {
+            "buyer_city": "Delhi",
+            "buyer_locality": "Mukundpur"
+        }
+    },
+    "seller_details": {
+        "seller_name": "Deepak",
+        "seller_location": {
+            "seller_city": "Delhi",
+            "seller_locality": "Mundka"
+        }
+    }
+}

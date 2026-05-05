@@ -1,0 +1,272 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring about a single electric rickshaw, asking about financing options and expressing concerns about purchasing without papers, which indicates a personal or small-scale commercial use rather than a large B2B transaction. While the seller is a wholesaler, they also cater to individual customers, as explicitly stated, \"\u0906\u092a \u090f\u091c \u090f \u0915\u0938\u094d\u091f\u092e\u0930 \u0932\u0940\u091c\u093f\u092f\u0947\u0917\u093e\" (if you take it as a customer).",
+            "evidence": {
+                "keywords": [
+                    "finance",
+                    "paperless purchase"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "hindi"
+        ],
+        "primary_language": "hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=gL7JhlRo3LtzVea0qyH1BzI8eFMmxZOojob4Q0FGz8AOQqsBKs65WC46OwbsJtz7 Ja5KUzUS5JJ17BBjwl/yq5mMivd5vcvmP0xfhcUiUxW0l8VMBmblWeibqj9zkRu"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 120000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Passenger, 4-battery, Steel Body)",
+            "specifications": [
+                {
+                    "name": "Body Material",
+                    "value": "Steel body",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "4 battery",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Electric rickshaws are a type of electric auto-rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels, falling under the general category of electric three-wheelers."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The rickshaw is electric and operates on batteries."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a 'gaadi' (vehicle) which is an 'electric rickshaw' and specifically mentioned in variations as 'passenger' type, which falls under three-wheelers."
+            }
+        },
+        {
+            "price": {
+                "value": 135000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Passenger, Sukha Cell)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Sukha cell",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Electric rickshaws are a type of electric auto-rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels, falling under the general category of electric three-wheelers."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The rickshaw is electric and operates on batteries."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a 'gaadi' (vehicle) which is an 'electric rickshaw' and specifically mentioned in variations as 'passenger' type, which falls under three-wheelers."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 130000,
+                "currency": "INR",
+                "price_unit": "unit"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Passenger, Lithium Battery, Without Papers)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "100-120",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Top Speed",
+                    "unit": "kmph",
+                    "value": "40-50",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Paperwork Status",
+                    "value": "Without papers",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Electric rickshaws are a type of electric auto-rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels, falling under the general category of electric three-wheelers."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The rickshaw is electric and operates on batteries."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a 'gaadi' (vehicle) which is an 'electric rickshaw' and specifically mentioned in variations as 'passenger' type, which falls under three-wheelers."
+            }
+        },
+        {
+            "price": {
+                "value": 150000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "1,40,000-1,41,000 INR on-road price after discount"
+            },
+            "in_stock": "in stock",
+            "product_name": "Electric Rickshaw (Passenger, Lithium Battery, On-Road)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "100-120",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Top Speed",
+                    "unit": "kmph",
+                    "value": "40-50",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Paperwork Status",
+                    "value": "With papers (On-Road)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "Electric rickshaws are a type of electric auto-rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels, falling under the general category of electric three-wheelers."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The rickshaw is electric and operates on batteries."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a 'gaadi' (vehicle) which is an 'electric rickshaw' and specifically mentioned in variations as 'passenger' type, which falls under three-wheelers."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To arrange funds (1,40,000-1,41,000 INR)",
+            "To visit the seller's location in Patna"
+        ],
+        "seller_next_steps": [
+            "To send photos of the electric rickshaw"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Pawan",
+        "buyer_location": {
+            "buyer_city": "Barh"
+        }
+    },
+    "seller_details": {
+        "seller_name": "Amit",
+        "seller_location": {
+            "seller_city": "Patna"
+        }
+    }
+}

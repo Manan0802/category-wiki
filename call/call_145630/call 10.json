@@ -1,0 +1,98 @@
+{
+    "payment": {
+        "payment_mode": "bank transfer",
+        "payment_details": "Buyer made a down payment of 50,000 INR and took a loan of 1,00,000 INR. EMI for 12 months is 9,917 INR. EMI for 18 months is 6,380 INR, with an additional 18,000 INR in interest."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring about purchasing a single E-Rickshaw with a loan. The discussion revolves around down payments, loan amounts, and EMI plans for a personal purchase, which aligns with a B2C transaction for an end-customer.",
+            "evidence": {
+                "keywords": [
+                    "Loan",
+                    "EMI"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=06fcd633-3f9a-4aff-a427-424873a43ad8"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": false
+                },
+                "value": 155000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Super Delux)",
+            "specifications": [
+                {
+                    "name": "Model",
+                    "value": "Super Delux",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Steel",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The E-Rickshaw is specifically mentioned to have a 'Lithium' battery, making 'Battery Operated Rickshaw' a fitting related category."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an 'E-Rickshaw', an electric vehicle, and these are typically three-wheelers."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an 'E-Rickshaw' with specifications like 'Super Delux' model, 'Lithium' battery, and 'Steel body', which clearly points to it being an electric rickshaw, and 'three wheeler' is a common classification for such vehicles."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To provide an address in Hardoi for loan processing",
+            "To visit the showroom"
+        ],
+        "seller_next_steps": [
+            "To send the price list with all rates",
+            "To send details to the buyer"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Shivang",
+        "buyer_location": {
+            "buyer_city": "Shahjahanpur"
+        }
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Chhibramau"
+        }
+    }
+}

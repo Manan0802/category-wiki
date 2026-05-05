@@ -1,0 +1,52 @@
+{
+  "lan-cable-cat-5-network-cable-oem-9.pdf": {
+    "status": "processed",
+    "pdf_idx": 1,
+    "output_file": "pdf 1 - lan-cable-cat-5-network-cable-oem-9.json"
+  },
+  "d-link-cat6-stp-cable-roll-305-meter-10.pdf": {
+    "status": "processed",
+    "pdf_idx": 2,
+    "output_file": "pdf 2 - d-link-cat6-stp-cable-roll-305-meter-10.json"
+  },
+  "polycab-lan-cable-2.pdf": {
+    "status": "processed",
+    "pdf_idx": 3,
+    "output_file": "pdf 3 - polycab-lan-cable-2.json"
+  },
+  "utp-cat6-armored-cable-6.pdf": {
+    "status": "processed",
+    "pdf_idx": 4,
+    "output_file": "pdf 4 - utp-cat6-armored-cable-6.json"
+  },
+  "cat-6-rj-45-tlk-fit-forget-rj-45-speciality-patch-cord-8.pdf": {
+    "status": "processed",
+    "pdf_idx": 5,
+    "output_file": "pdf 5 - cat-6-rj-45-tlk-fit-forget-rj-45-speciality-patch-cord-8.json"
+  },
+  "lan-or-cat-6-cables-4.pdf": {
+    "status": "processed",
+    "pdf_idx": 6,
+    "output_file": "pdf 6 - lan-or-cat-6-cables-4.json"
+  },
+  "lan-cables-cat-6-series-1.pdf": {
+    "status": "processed",
+    "pdf_idx": 7,
+    "output_file": "pdf 7 - lan-cables-cat-6-series-1.json"
+  },
+  "d-link-cat6-sftp-cable-box-305mtrs-3.pdf": {
+    "status": "processed",
+    "pdf_idx": 8,
+    "output_file": "pdf 8 - d-link-cat6-sftp-cable-box-305mtrs-3.json"
+  },
+  "v-guard-lan-cables-cat-6-series-7.pdf": {
+    "status": "processed",
+    "pdf_idx": 9,
+    "output_file": "pdf 9 - v-guard-lan-cables-cat-6-series-7.json"
+  },
+  "cat6-twisted-pair-armored-cable-5.pdf": {
+    "status": "processed",
+    "pdf_idx": 10,
+    "output_file": "pdf 10 - cat6-twisted-pair-armored-cable-5.json"
+  }
+}

@@ -1,0 +1,352 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer explicitly expresses interest in 'dealership' and states, 'we are new... please give us a suitable option so our business can start.' The seller also quotes 'dealer price' and mentions 'factory,' all indicating a B2B transaction.",
+            "evidence": {
+                "keywords": [
+                    "dealership",
+                    "start business",
+                    "dealer price",
+                    "factory"
+                ],
+                "order_type": "Commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "Dealer"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=LvrGsPOMybKFMwSoTWCJa4abIalEuqtJ4CQrnrdx60L3JEq 493erZFXKZDJGfdYigrhhQiHeng3rvfUF8ZkU49bqLLE3eh2EmOsC IYBzsKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 110000,
+                "currency": "INR",
+                "price_unit": "vehicle",
+                "offer_details": "Dealer price"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-rickshaw (Nandini Brand) (Lead-Acid Battery)",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Wheel Size",
+                    "unit": "inch",
+                    "value": "38",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lead-Acid",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Capacity",
+                    "unit": "AH",
+                    "value": "105",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Chassis Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Warranty",
+                    "unit": "year",
+                    "value": "1",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Iron",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an e-rickshaw that runs on a lead-acid battery, falling under the broader category of battery operated rickshaws."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "The product is a three-wheeled electric rickshaw primarily for passenger transport, also known as an electric auto rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels for passenger carriage."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a passenger e-rickshaw, which is a type of electric rickshaw with three wheels, used for passenger transport."
+            }
+        },
+        {
+            "price": {
+                "value": 120000,
+                "currency": "INR",
+                "price_unit": "vehicle",
+                "offer_details": "Dealer price"
+            },
+            "in_stock": "in stock",
+            "product_name": "Passenger E-rickshaw (Nandini Brand) (Lithium Battery)",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Wheel Size",
+                    "unit": "inch",
+                    "value": "38",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Capacity",
+                    "unit": "AH",
+                    "value": "105",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Chassis Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Warranty",
+                    "unit": "year",
+                    "value": "1",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Iron",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an e-rickshaw that runs on a lithium battery, falling under the broader category of battery operated rickshaws."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "The product is a three-wheeled electric rickshaw primarily for passenger transport, also known as an electric auto rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels for passenger carriage."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a passenger e-rickshaw, which is a type of electric rickshaw with three wheels, used for passenger transport."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "Passenger E-rickshaw (Nandini Brand) (Steel Body)",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Passenger",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Wheel Size",
+                    "unit": "inch",
+                    "value": "38",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Capacity",
+                    "unit": "AH",
+                    "value": "105",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Controller",
+                    "value": "1200",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Chassis Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Warranty",
+                    "unit": "year",
+                    "value": "1",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Material",
+                    "value": "Steel",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an e-rickshaw, which is a type of battery operated rickshaw."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "The product is a three-wheeled electric rickshaw primarily for passenger transport, also known as an electric auto rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels for passenger carriage."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is identified as a passenger e-rickshaw, which is a type of electric rickshaw with three wheels, used for passenger transport, specifically with a steel body option."
+            }
+        },
+        {
+            "in_stock": "in stock",
+            "product_name": "E-rickshaw Loader (Nandini Brand)",
+            "specifications": [
+                {
+                    "name": "Type",
+                    "value": "Loader",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Chassis Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Motor Warranty",
+                    "unit": "year",
+                    "value": "1",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Loader",
+                    "reason": "This product is explicitly referred to as a 'loader' type of electric vehicle."
+                },
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The product is an e-rickshaw, which is a type of battery operated rickshaw."
+                },
+                {
+                    "name": "Electric Three Wheeler",
+                    "reason": "The product is an electric vehicle with three wheels for cargo carriage."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The product is specifically mentioned as an e-rickshaw for loading purposes."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To consider visiting on Sunday"
+        ],
+        "seller_next_steps": [
+            "To send photos and videos of vehicles to the buyer's number",
+            "To call the buyer on Sunday to discuss rates"
+        ]
+    },
+    "buyer_details": {},
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Kanpur"
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about a loading e-rickshaw for commercial use (transporting goods) and the seller mentions a factory and showroom. This indicates a professional B2B business transaction rather than personal use.",
+            "evidence": {
+                "keywords": [
+                    "Commercial Project",
+                    "Factory Use"
+                ],
+                "order_type": "commercial",
+                "repeat_buyer": false,
+                "buyer_persona": "commercial",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=UPxJ2Th3RdK4mRto/tHGhIabIalEuqtJ4CQrnrdx60KSgZdt9oUoRDaDQGjK/IPvl2cPNNfg/ g7k7JNwXWQ01DAbJ3KuCCWky4qDQL3G EKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {},
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw Loader (Load Gadi)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Dry Battery",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Number of Batteries",
+                    "value": "1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Gear System",
+                    "value": "Load Gear",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Size",
+                    "unit": "ft",
+                    "value": "6x4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Type",
+                    "value": "Open (without cover)",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Load Capacity",
+                    "unit": "Quintal",
+                    "value": "4",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "It is a three-wheeled electric vehicle used for transport."
+                },
+                {
+                    "name": "Electric Loader",
+                    "reason": "The vehicle is specifically designed for loading and carrying weights."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "E-Rickshaw Loader",
+                "reason": "The buyer explicitly asks for a 'loader' rickshaw for shifting goods, and the seller confirms manufacturing and selling loading vehicles."
+            }
+        },
+        {
+            "price": {},
+            "in_stock": "in stock",
+            "product_name": "Sawari Gadi (Passenger E-Rickshaw)",
+            "specifications": [],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "This is a battery-powered rickshaw for passengers."
+                }
+            ],
+            "is_buyer_interested": false,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The seller mentions 'Sawari Gadi' which refers to passenger electric rickshaws."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To share photo of the specific model required",
+            "To check the photos sent by the seller"
+        ],
+        "seller_next_steps": [
+            "To share product photos and information on WhatsApp"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Ankit",
+        "buyer_location": {
+            "buyer_city": "Gwalior",
+            "buyer_locality": "Sirol Colony"
+        },
+        "buyer_mobile_number": 6264752373
+    },
+    "seller_details": {
+        "seller_name": "Neeraj",
+        "seller_location": {
+            "seller_city": "Gwalior",
+            "seller_locality": "Girwai Naka"
+        }
+    }
+}

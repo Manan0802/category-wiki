@@ -1,0 +1,301 @@
+# 📑 Category Index — Aac Blocks
+
+> Generated on 2026-04-22 12:13:06 UTC
+
+This is the central dashboard for this category, linking to the full wiki article, execution logs, and source references.
+
+---
+
+## 📝 Category Overview
+
+> Autoclaved Aerated Concrete (AAC) is a lightweight, precast, "green" building material used globally as a superior alternative to traditional masonry like [[Clay Bricks]]. Renowned for its excellent…
+
+## 🔗 Traceability & Files
+
+- **📚 Wiki Page:** [../items/aac_blocks.md](../items/aac_blocks.md)
+- **📋 Execution Logs:** [../logs/logs_aac_blocks.md](../logs/logs_aac_blocks.md)
+- **📖 Source References:** [../references/references_aac_blocks.md](../references/references_aac_blocks.md)
+- **🤔 Agent Doubts:** [../doubts/aac_blocks_doubts.md](../doubts/aac_blocks_doubts.md)
+
+---
+
+## 🗺️ Wiki Structure
+
+- - **Quick Facts**
+-   - 🔹 Category
+-   - 🔹 Common Names
+-   - 🔹 Key Specifications
+-   - 🔹 Price Range
+-   - 🔹 Popular Brands
+-   - 🔹 Key Standard
+-   - 🔹 Primary Use
+-   - 🔹 MOQ (Typical)
+- - **1. Category Overview**
+- - **2. Market Intelligence**
+-   - **Buyer & Seller Archetypes**
+-     - 🔹 Developers & Large Contractors
+-     - 🔹 Small & Medium Builders/Individuals
+-     - 🔹 Retailers & Shop Keepers
+-     - 🔹 End-Users (B2C)
+-   - **Demand Signals & Top Requested Specifications**
+-     - 🔹 Block Thickness
+-     - 🔹 Quality Grade
+-     - 🔹 All-Inclusive Pricing
+-     - 🔹 Brand Recognition
+-     - 🔹 Regional Compliance
+-   - **Pricing Trends & Procurement Insights**
+-     - 🔹 Price Range
+-     - 🔹 Pricing Factors
+-     - 🔹 GST Impact
+-     - 🔹 Procurement Process
+-     - 🔹 MOQ Mismatch
+-   - **Competitive Landscape**
+-     - 🔹 Faster Construction
+-     - 🔹 Material Savings
+-     - 🔹 Structural Savings
+-     - 🔹 Operational Savings
+- - **3. Product Types & Variants**
+-   - **Main Product Types**
+-     - 🔹 Standard Solid Blocks
+-     - 🔹 AAC Block (Brick Size)
+-     - 🔹 Tongue-and-Groove Blocks
+-     - 🔹 AAC U-Blocks (Bond Beams)
+-     - 🔹 AAC Lintels
+-   - **Available Sizes & Configurations**
+-     - 🔹 Commonly Inquired Thicknesses
+-     - **Common Dimensions (L x H x W)**
+-       - 🔹 24" x 8" x 4"
+-       - 🔹 24" x 8" x 6"
+-       - 🔹 24" x 8" x 8"
+-     - 🔹 Manufacturer Variations
+-     - 🔹 Large Format Panels
+- - **4. Technical Specifications**
+-   - 🔹 Dry Density
+-   - 🔹 Compressive Strength
+-   - 🔹 Thermal Conductivity (k)
+-   - 🔹 Fire Resistance
+-   - 🔹 Sound Attenuation
+-   - 🔹 Drying Shrinkage
+-   - 🔹 Dimensional Tolerance
+-   - 🔹 Carpet Area Increase
+-   - 🔹 Pieces per Cubic Meter
+-   - 🔸 Data Variance
+-   - 🔸 Data Variance
+-   - **IS 2185: Part 3 - Density vs. Strength**
+-     - 🔹 Class I
+-     - 🔹 Class II
+-     - 🔹 Class III
+- - **5. Brands & Manufacturers**
+-   - **Tier 1 (Major, Widely Recognized Brands)**
+-     - 🔹 Aerocon
+-     - 🔹 Birla / Ultratech
+-     - 🔹 Shree Cement
+-     - 🔹 Siporex
+-     - 🔹 SuperX
+-   - **Tier 2 (Specialized & Regional Brands)**
+-     - 🔹 JK SMARTBLOX
+-     - 🔹 CONECC, ECOMATE, FIXOLITE, KANSAL, MEPCRETE, ModCrete, FLO CRETE, FLOAT AAC
+- - **6. Quality, Standards & Compliance**
+-   - **Applicable Standards**
+-     - 🔹 IS 2185 Part 3 1984
+-     - 🔹 IS 6041 1985
+-     - 🔹 IS 6441 (Parts 1-5)
+-   - **Certifications & Approvals**
+-     - 🔹 ISI Mark
+-     - 🔹 Green Building Certifications
+-     - 🔹 Regional Approvals
+-   - **Quality Indicators for Buyers**
+-     - 🔹 Product Grade
+-     - 🔹 Dimensional Accuracy
+-     - 🔹 Structural Integrity
+-     - 🔹 Physical Inspection
+- - **7. Applications & Use Cases**
+-   - 🔹 Residential
+-   - 🔹 Commercial
+-   - 🔹 Industrial
+-   - 🔹 Institutional
+-   - 🔹 Special Applications
+- - **8. See Also**
+-   - 🔹 [[Clay Bricks]]
+-   - 🔹 [[Concrete Blocks]]
+-   - 🔹 [[Fly Ash Bricks]]
+-   - 🔹 [[Block Jointing Mortar]]
+-   - 🔹 [[AAC Wall & Roof Panels]]
+
+## 📋 Log Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total sources scanned
+- - 🔸 New/changed sources processed
+- - 🔸 Sources removed since last run
+- - **📊 Run Summary**
+- - **📂 Sources Inventory**
+- - **🔄 Step-by-Step Execution Log**
+-   - **Step 1: 📥 INPUT**
+-   - **Step 2: 🏷️ CATEGORY**
+-   - **Step 3: 🔍 CHECK WIKI**
+-   - **Step 4: 📝 CREATE — acc-block pdf 1.json**
+-   - **Step 5: ⏭️ LOAD SOURCE**
+-   - **Step 6: 🔄 UPDATE — acc-block pdf 10.json**
+-   - **Step 7: ⏭️ LOAD SOURCE**
+-   - **Step 8: 🔄 UPDATE — acc-block pdf 2.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 9: ⏭️ LOAD SOURCE**
+-   - **Step 10: 🔄 UPDATE — acc-block pdf 3.json**
+-   - **Step 11: ⏭️ LOAD SOURCE**
+-   - **Step 12: 🔄 UPDATE — acc-block pdf 4.json**
+-   - **Step 13: ⏭️ LOAD SOURCE**
+-   - **Step 14: 🔄 UPDATE — acc-block pdf 5.json**
+-   - **Step 15: ⏭️ LOAD SOURCE**
+-   - **Step 16: 🔄 UPDATE — acc-block pdf 6.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 17: ⏭️ LOAD SOURCE**
+-   - **Step 18: 🔄 UPDATE — acc-block pdf 7.json**
+-   - **Step 19: ⏭️ LOAD SOURCE**
+-   - **Step 20: 🔄 UPDATE — acc-block pdf 8.json**
+-   - **Step 21: ⏭️ LOAD SOURCE**
+-   - **Step 22: 🔄 UPDATE — acc-block pdf 9.json**
+-   - **Step 23: ⏭️ LOAD SOURCE**
+-   - **Step 24: 🔄 UPDATE — buyer_call 1.json**
+-   - **Step 25: ⏭️ LOAD SOURCE**
+-   - **Step 26: 🔄 UPDATE — buyer_call 10.json**
+-   - **Step 27: ⏭️ LOAD SOURCE**
+-   - **Step 28: 🔄 UPDATE — buyer_call 11.json**
+-   - **Step 29: ⏭️ LOAD SOURCE**
+-   - **Step 30: 🔄 UPDATE — buyer_call 12.json**
+-   - **Step 31: ⏭️ LOAD SOURCE**
+-   - **Step 32: 🔄 UPDATE — buyer_call 13.json**
+-     - 🔹 Rationale
+-     - 🔹 Inferred
+-     - 🔹 Updates made
+-     - 🔹 Top hit
+-   - **Step 33: ⏭️ LOAD SOURCE**
+-   - **Step 34: 🔄 UPDATE — buyer_call 14.json**
+-   - **Step 35: ⏭️ LOAD SOURCE**
+-   - **Step 36: 🔄 UPDATE — buyer_call 15.json**
+-   - **Step 37: ⏭️ LOAD SOURCE**
+-   - **Step 38: 🔄 UPDATE — buyer_call 2.json**
+-   - **Step 39: ⏭️ LOAD SOURCE**
+-   - **Step 40: 🔄 UPDATE — buyer_call 3.json**
+-   - **Step 41: ⏭️ LOAD SOURCE**
+-   - **Step 42: 🔄 UPDATE — buyer_call 4.json**
+-   - **Step 43: ⏭️ LOAD SOURCE**
+-   - **Step 44: 🔄 UPDATE — buyer_call 5.json**
+-   - **Step 45: ⏭️ LOAD SOURCE**
+-   - **Step 46: 🔄 UPDATE — buyer_call 6.json**
+-   - **Step 47: ⏭️ LOAD SOURCE**
+-   - **Step 48: 🔄 UPDATE — buyer_call 7.json**
+-   - **Step 49: ⏭️ LOAD SOURCE**
+-   - **Step 50: 🔄 UPDATE — buyer_call 8.json**
+-   - **Step 51: ⏭️ LOAD SOURCE**
+-   - **Step 52: 🔄 UPDATE — buyer_call 9.json**
+-   - **Step 53: ✨ ENRICH**
+
+## 📖 Reference Sections
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total New References
+- - **📄 JSON Data Sources**
+-   - **1. `acc-block pdf 1.json`**
+-   - **2. `acc-block pdf 10.json`**
+-   - **3. `acc-block pdf 2.json`**
+-   - **4. `acc-block pdf 3.json`**
+-   - **5. `acc-block pdf 4.json`**
+-   - **6. `acc-block pdf 5.json`**
+-   - **7. `acc-block pdf 6.json`**
+-   - **8. `acc-block pdf 7.json`**
+-   - **9. `acc-block pdf 8.json`**
+-   - **10. `acc-block pdf 9.json`**
+-   - **11. `buyer_call 1.json`**
+-   - **12. `buyer_call 10.json`**
+-   - **13. `buyer_call 11.json`**
+-   - **14. `buyer_call 12.json`**
+-   - **15. `buyer_call 13.json`**
+-   - **16. `buyer_call 14.json`**
+-   - **17. `buyer_call 15.json`**
+-   - **18. `buyer_call 2.json`**
+-   - **19. `buyer_call 3.json`**
+-   - **20. `buyer_call 4.json`**
+-   - **21. `buyer_call 5.json`**
+-   - **22. `buyer_call 6.json`**
+-   - **23. `buyer_call 7.json`**
+-   - **24. `buyer_call 8.json`**
+-   - **25. `buyer_call 9.json`**
+- - **📎 Web_Search Sources**
+-   - **1. `WEB: what is MP-1491 certification for building materials in India`**
+-     - 🔹 Web Search Results
+-   - **2. `WEB: IS 6441 indian standard for aac blocks`**
+-     - 🔹 Web Search Results
+-   - **3. `WEB: IS 6041:1985 indian standard for aac blocks`**
+-     - 🔹 Web Search Results
+-   - **4. `WEB: IS 1905: 1987 Code of Practice for structural use of unreinforced masonry`**
+-     - 🔹 Web Search Results
+-   - **5. `WEB: current GST rate on AAC blocks in India HSN 6810`**
+-     - 🔹 Web Search Results
+
+## 🤔 Agent Doubt Log
+
+- - 🔸 🚀 Run
+- - 🔸 MCAT ID
+- - 🔸 Category
+- - 🔸 Total Doubts Raised This Run
+- - 🔸 Unresolved
+- - 🔸 Self-Resolved
+- - **🔴 Unresolved Doubts**
+-   - **🟡 DOUBT-501: Technical Specifications → Carpet Area Increase**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+-   - **🟡 DOUBT-701: Technical Specifications → Dimensional Tolerance**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+-   - **🔴 DOUBT-702: Technical Specifications → Compressive Strength**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+-   - **🟢 DOUBT-703: Technical Specifications → Fire Resistance**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+-   - **🔴 DOUBT-901: Technical Specifications → Thermal Conductivity (k)**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+-   - **🔴 DOUBT-1001: Technical Specifications → Overall Density Range**
+-     - 🔹 Severity
+-     - 🔹 Raised at
+-     - 🔹 Question
+- - **✅ Self-Resolved Doubts**
+-   - **DOUBT-101: Technical Specifications → Density *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+-   - **DOUBT-102: Technical Specifications → Compressive Strength *(Resolved)***
+-     - 🔹 Originally raised at
+-     - 🔹 Question
+-     - 🔹 Resolved at
+-     - 🔹 Resolution
+
+---
+
+*Index generated at 2026-04-22 12:13:06 UTC*

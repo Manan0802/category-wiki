@@ -1,0 +1,68 @@
+{
+  "corporate-leather-diaries-5.pdf": {
+    "status": "processed",
+    "pdf_idx": 1,
+    "output_file": "pdf 1 - corporate-leather-diaries-5.json"
+  },
+  "ne-catalouge-leather-2026-compressed-11.pdf": {
+    "status": "processed",
+    "pdf_idx": 2,
+    "output_file": "pdf 2 - ne-catalouge-leather-2026-compressed-11.json"
+  },
+
+  "leather-diary-2024-7.pdf": {
+    "status": "processed",
+    "pdf_idx": 3,
+    "output_file": "pdf 3 - leather-diary-2024-7.json"
+  },
+  "1752477190664-20-1-pdf-4.pdf": {
+    "status": "processed",
+    "pdf_idx": 4,
+    "output_file": "pdf 4 - 1752477190664-20-1-pdf-4.json"
+  },
+  "2014-agendas-3.pdf": {
+    "status": "processed",
+    "pdf_idx": 5,
+    "output_file": "pdf 5 - 2014-agendas-3.json"
+  },
+  "leather-vintage-diary-9.pdf": {
+    "status": "processed",
+    "pdf_idx": 6,
+    "output_file": "pdf 6 - leather-vintage-diary-9.json"
+  },
+  "handmade-key-leather-diary-8.pdf": {
+    "status": "processed",
+    "pdf_idx": 7,
+    "output_file": "pdf 7 - handmade-key-leather-diary-8.json"
+  },
+  "promotional-leather-diary-12.pdf": {
+    "status": "processed",
+    "pdf_idx": 8,
+    "output_file": "pdf 8 - promotional-leather-diary-12.json"
+  },
+  "blue-leather-cover-diary-a5-size-10.pdf": {
+    "status": "processed",
+    "pdf_idx": 9,
+    "output_file": "pdf 9 - blue-leather-cover-diary-a5-size-10.json"
+  },
+  "leather-cover-gift-journals.pdf": {
+    "status": "processed",
+    "pdf_idx": 10,
+    "output_file": "pdf 10 - leather-cover-gift-journals.json"
+  },
+  "leather-organizers-diaries-13.pdf": {
+    "status": "processed",
+    "pdf_idx": 11,
+    "output_file": "pdf 11 - leather-organizers-diaries-13.json"
+  },
+  "journal-leather-cover-wrapped-style-in-box.pdf": {
+    "status": "processed",
+    "pdf_idx": 12,
+    "output_file": "pdf 12 - journal-leather-cover-wrapped-style-in-box.json"
+  },
+  "blue-leather-diary-6.pdf": {
+    "status": "processed",
+    "pdf_idx": 13,
+    "output_file": "pdf 13 - blue-leather-diary-6.json"
+  }
+}

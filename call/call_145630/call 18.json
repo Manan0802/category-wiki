@@ -1,0 +1,215 @@
+{
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring about a single e-rickshaw for personal or small business use. He asks detailed questions about its performance (battery life, range, charging time) and expresses a desire to visit the shop to inspect the product, indicating an end-user purchase rather than a bulk or resale order.",
+            "evidence": {
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=61a61363-f534-490b-ae08-4faeeda13e51"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 170000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Capacity",
+                    "unit": "Ah",
+                    "value": "60",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Weight Load Capacity",
+                    "unit": "kg",
+                    "value": "350",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "50",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Charger Type",
+                    "unit": "A",
+                    "value": "25",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Charging Time (with 25A charger)",
+                    "unit": "hours",
+                    "value": "2.4",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The e-rickshaw is powered by a battery, making it a battery-operated rickshaw."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "The e-rickshaw functions as an auto-rickshaw, powered by electricity."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is an e-rickshaw, which is a type of electric three-wheeler commonly used for transport."
+            }
+        },
+        {
+            "price": {
+                "value": 190000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Capacity",
+                    "unit": "Ah",
+                    "value": "80",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Weight Load Capacity",
+                    "unit": "kg",
+                    "value": "350",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "50",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Charger Type",
+                    "unit": "A",
+                    "value": "25",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Charging Time (with 25A charger)",
+                    "unit": "hours",
+                    "value": "3.2",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The e-rickshaw is powered by a battery, making it a battery-operated rickshaw."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "The e-rickshaw functions as an auto-rickshaw, powered by electricity."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is an e-rickshaw, which is a type of electric three-wheeler commonly used for transport."
+            }
+        },
+        {
+            "price": {
+                "value": 205000,
+                "currency": "INR"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw",
+            "specifications": [
+                {
+                    "name": "Battery Capacity",
+                    "unit": "Ah",
+                    "value": "100",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Weight Load Capacity",
+                    "unit": "kg",
+                    "value": "350",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "50",
+                    "buyer_requested": true,
+                    "seller_mentioned": false
+                },
+                {
+                    "name": "Charging Time",
+                    "unit": "hours",
+                    "value": "4",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "related_categories": [
+                {
+                    "name": "Battery Operated Rickshaw",
+                    "reason": "The e-rickshaw is powered by a battery, making it a battery-operated rickshaw."
+                },
+                {
+                    "name": "Electric Auto Rickshaw",
+                    "reason": "The e-rickshaw functions as an auto-rickshaw, powered by electricity."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product is an e-rickshaw, which is a type of electric three-wheeler commonly used for transport."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To call the seller's office number tomorrow morning",
+            "To call the seller's personal number tomorrow morning",
+            "To visit the seller's shop to inspect the e-rickshaw"
+        ],
+        "seller_next_steps": [
+            "To send their office number to the buyer via IndiaMART"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Shubh",
+        "buyer_location": {
+            "buyer_city": "Pune",
+            "buyer_locality": "Bhogao"
+        },
+        "buyer_mobile_number": 9822199331
+    },
+    "seller_details": {}
+}

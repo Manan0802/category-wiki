@@ -1,0 +1,137 @@
+{
+    "payment": {
+        "payment_mode": "cash",
+        "payment_details": "40000 INR advance payment required. Loan available with 1.75% interest."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer is inquiring about purchasing a single e-rickshaw for which a license is required and loan options are discussed, indicating an an individual purchase for personal commercial use, which falls under a low quantity, one-time order typical for an end customer.",
+            "evidence": {
+                "keywords": [],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=12f8b998-610a-418e-96ae-5e0548048ccf"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "value": 0,
+                    "is_gst_included": false
+                },
+                "value": 160000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "A 40000 INR down payment is required, and a loan facility is available at 1.75% interest.",
+                "delivery_charge": {
+                    "value": 0,
+                    "currency": "INR",
+                    "is_delivery_charge_included": false
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-rickshaw (starting model)",
+            "specifications": [],
+            "quantity_required": {
+                "unit": "unit",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is explicitly referred to as 'E-rickshaw' throughout the conversation and is a type of three-wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-rickshaws are a type of Electric Three Wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is 'E-rickshaw' which is a type of Electric Rickshaw and commonly referred to as a three-wheeler."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "value": 0,
+                    "is_gst_included": false
+                },
+                "value": 180000,
+                "currency": "INR",
+                "price_unit": "unit",
+                "offer_details": "A 40000 INR down payment is required, and a loan facility is available at 1.75% interest.",
+                "delivery_charge": {
+                    "value": 0,
+                    "currency": "INR",
+                    "is_delivery_charge_included": false
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-rickshaw (higher-end model)",
+            "specifications": [],
+            "quantity_required": {
+                "unit": "unit",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is explicitly referred to as 'E-rickshaw' throughout the conversation and is a type of three-wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-rickshaws are a type of Electric Three Wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is 'E-rickshaw' which is a type of Electric Rickshaw and commonly referred to as a three-wheeler."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To obtain a license for the e-rickshaw",
+            "To visit the seller's location in Mundka, Delhi",
+            "To make an advance payment"
+        ],
+        "seller_next_steps": [
+            "To provide the address for the store",
+            "To explain available models and assist with selection",
+            "To assist with the loan application process"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Arib",
+        "buyer_location": {
+            "buyer_city": "Delhi"
+        },
+        "buyer_mobile_number": 9899393222
+    },
+    "seller_details": {
+        "seller_name": "Shivaank",
+        "seller_location": {
+            "seller_city": "Delhi",
+            "seller_locality": "Mundka"
+        },
+        "seller_mobile_number": 9899393222
+    },
+    "minimum_order_quantity": {
+        "unit": "unit",
+        "value": 1
+    }
+}

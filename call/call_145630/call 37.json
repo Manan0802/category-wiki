@@ -1,0 +1,248 @@
+{
+    "payment": {
+        "payment_mode": "cash",
+        "payment_details": "On-road price is for cash; Finance option is available for an additional 10,000 INR approx."
+    },
+    "lead_tag": {
+        "deal_blockers": [],
+        "deal_readiness": "Warm",
+        "deal_readiness_reason": "The buyer is comparing two different models and has requested photos on WhatsApp to finalize the purchase decision."
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2B",
+            "reason": "The buyer is inquiring about purchasing an electric rickshaw for commercial passenger transport from a manufacturer.",
+            "evidence": {
+                "keywords": [
+                    "Manufacturer",
+                    "Commercial transport",
+                    "On-road price",
+                    "Finance option"
+                ],
+                "order_type": "Commercial Purchase",
+                "repeat_buyer": false,
+                "buyer_persona": "Commercial Transport Operator",
+                "quantity_scale": "Low"
+            }
+        },
+        "buyer_intent": {
+            "narrative": "Buyer is looking to purchase an E-Rickshaw for commercial use and is evaluating a standard model versus a wider 40-inch model.",
+            "reasoning": "The buyer asked detailed technical questions about range, speed, material, and final on-road pricing, indicating a high intent to purchase soon.",
+            "intent_level": "High"
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "buyer_conclusion": {
+            "category": "Follow-up",
+            "conclusion_notes": "Buyer will check the photos of both models and then decide (Dono photo bhej dijiye jo bhi hoga main aapko clear karke bol raha hoon)"
+        },
+        "primary_language": "Hindi",
+        "additional_details": {
+            "buyer_queries": [
+                {
+                    "query": "What is the final on-road cash price?",
+                    "category": "Price",
+                    "sequence": 1
+                },
+                {
+                    "query": "Is the body made of steel or iron?",
+                    "category": "Specs",
+                    "sequence": 2
+                },
+                {
+                    "query": "What is the speed and range of the vehicles?",
+                    "category": "Specs",
+                    "sequence": 3
+                }
+            ],
+            "seller_queries": [
+                {
+                    "query": "Do you need the normal design or the wider 40-inch design?",
+                    "category": "Requirement",
+                    "sequence": 1
+                },
+                {
+                    "query": "Do you prefer steel or iron material?",
+                    "category": "Material",
+                    "sequence": 2
+                }
+            ]
+        },
+        "intended_application": "Commercial Passenger Transport",
+        "source_url": "https://openapi.airtel.in/gateway/airtel-xchange/recordingv2/download?token=Id o7kr6WZr83FQF8hyJV4abIalEuqtJ4CQrnrdx60LdIWndh6ctCwX3VsenO87fls67jeTjNZoKJH29w3QzTisuox2wMngGRWUDvGDgz1IKU2xjB/60BTIEBhdvdZGF"
+    },
+    "products": [
+        {
+            "price": {
+                "value": 210000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "offer_details": "Cash on-road price. Finance option available for approximately 10,000 extra.",
+                "price_negotiation_notes": "Seller mentioned he would try to reduce the price slightly further after consulting with his boss.",
+                "price_reaction_by_buyer": "Accepted: (Theek hai rate done hai)"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (40-inch Wide Model)",
+            "specifications": [
+                {
+                    "name": "Width",
+                    "unit": "inch",
+                    "value": "40",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Seating Capacity",
+                    "unit": "passengers",
+                    "value": "7-8",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Ground Clearance",
+                    "unit": "feet",
+                    "value": "1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Tyre Size",
+                    "value": "4-12",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "100",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Speed",
+                    "unit": "km/hr",
+                    "value": "35",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Body Weight",
+                    "unit": "kg",
+                    "value": "300",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Material",
+                    "value": "Steel",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Leaf Spring",
+                    "unit": "patti",
+                    "value": "8",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Shocker Type",
+                    "value": "Hydraulic",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Chassis Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "year",
+                    "value": "3",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Loading Capacity",
+                    "unit": "ton",
+                    "value": "1",
+                    "buyer_requested": false,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "is_buyer_interested": true,
+            "quantity_accepted_by_seller": true
+        },
+        {
+            "price": {
+                "value": 160000,
+                "currency": "INR",
+                "price_unit": "piece",
+                "offer_details": "Cash on-road price"
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Small/Normal Model)",
+            "specifications": [
+                {
+                    "name": "Range",
+                    "unit": "km",
+                    "value": "100",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Speed",
+                    "unit": "km/hr",
+                    "value": "45",
+                    "buyer_requested": true,
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "piece",
+                "value": 1
+            },
+            "is_buyer_interested": true,
+            "quantity_accepted_by_seller": true
+        }
+    ],
+    "call_back": "callback by In 1 hour - To send images and discuss further (Image bhej raha hoon)",
+    "next_steps": {
+        "buyer_next_steps": [
+            "To check product images shared on WhatsApp",
+            "To confirm the preferred model (Large vs Small)"
+        ],
+        "seller_next_steps": [
+            "To share photos of both E-Rickshaw models on WhatsApp",
+            "To discuss final pricing after internal approval"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Mukesh",
+        "buyer_location": {
+            "buyer_city": "Bhind"
+        },
+        "buyer_mobile_number": 9390224696
+    },
+    "seller_details": {
+        "seller_name": "Neeraj",
+        "seller_location": {
+            "seller_city": "Gwalior",
+            "seller_locality": "Girwai"
+        }
+    },
+    "minimum_order_quantity": {
+        "unit": "piece",
+        "value": 1
+    }
+}

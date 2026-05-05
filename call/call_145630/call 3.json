@@ -1,0 +1,395 @@
+{
+    "payment": {
+        "payment_mode": "cash"
+    },
+    "metadata": {
+        "call_type": {
+            "type": "B2C",
+            "reason": "The buyer explicitly states that the E-Rickshaw is for 'personal use' and inquires about a single unit, indicating a B2C transaction.",
+            "evidence": {
+                "keywords": [
+                    "personal use"
+                ],
+                "order_type": "one-time",
+                "repeat_buyer": false,
+                "buyer_persona": "end customer",
+                "quantity_scale": "Low"
+            }
+        },
+        "call_purpose": "requirement",
+        "all_languages": [
+            "Hindi",
+            "English"
+        ],
+        "primary_language": "Hindi",
+        "source_url": "http://static-assets.knowlarity.com/playsound.html?soundurl=https://sr.knowlarity.com/vr/fetchsound/?callid=f56dcad0-1be3-4ead-814a-b6b9deb3bc3e"
+    },
+    "products": [
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 105000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Base model)",
+            "specifications": [
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "6",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Model",
+                    "value": "Base",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Features",
+                    "value": "Normal channel, FM, sparrow cabin light, matting, accessories, mudguard, front drum, analog meter, heavy-duty tires",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 110000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Base model)",
+            "specifications": [
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "12",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Model",
+                    "value": "Base",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 115000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Base model)",
+            "specifications": [
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Model",
+                    "value": "Base",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 130000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Base model)",
+            "specifications": [
+                {
+                    "name": "Battery Type",
+                    "value": "Lithium",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Model",
+                    "value": "Base",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 145000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Deluxe MS model)",
+            "specifications": [
+                {
+                    "name": "Model Type",
+                    "value": "Deluxe MS",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Features",
+                    "value": "Central locking, rear shocker (43 mm hydraulic shocker), front drum",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 150000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Super Deluxe model)",
+            "specifications": [
+                {
+                    "name": "Model Type",
+                    "value": "Super Deluxe",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "36",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        },
+        {
+            "price": {
+                "gst": {
+                    "is_gst_included": true
+                },
+                "value": 130000,
+                "currency": "INR",
+                "offer_details": "On-road price, includes all extra charges.",
+                "delivery_charge": {
+                    "is_delivery_charge_included": true
+                }
+            },
+            "in_stock": "in stock",
+            "product_name": "E-Rickshaw (Deluxe MS model)",
+            "specifications": [
+                {
+                    "name": "Model Type",
+                    "value": "Deluxe MS",
+                    "seller_mentioned": true
+                },
+                {
+                    "name": "Battery Warranty",
+                    "unit": "months",
+                    "value": "15",
+                    "seller_mentioned": true
+                }
+            ],
+            "quantity_required": {
+                "unit": "pieces",
+                "value": 1
+            },
+            "related_categories": [
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "E-Rickshaw falls under the broader category of Electric Rickshaw Three Wheeler."
+                },
+                {
+                    "name": "Electric Rickshaw Three Wheeler",
+                    "reason": "The product is clearly identified as an 'E-Rickshaw', which is a type of three-wheeler."
+                }
+            ],
+            "is_buyer_interested": true,
+            "most_specific_category": {
+                "name": "Electric Rickshaw Three Wheeler",
+                "reason": "The product discussed is an E-Rickshaw, which is a type of three-wheeler electric vehicle, making 'Electric Rickshaw Three Wheeler' the most specific category."
+            }
+        }
+    ],
+    "next_steps": {
+        "buyer_next_steps": [
+            "To review the price list",
+            "To visit the Gorakhpur showroom"
+        ],
+        "seller_next_steps": [
+            "To send the price list with details"
+        ]
+    },
+    "buyer_details": {
+        "buyer_name": "Rishabh",
+        "buyer_location": {
+            "buyer_city": "Mau"
+        },
+        "buyer_mobile_number": 8081823752
+    },
+    "seller_details": {
+        "seller_location": {
+            "seller_city": "Chhibramau",
+            "seller_state": "Uttar Pradesh"
+        }
+    }
+}
